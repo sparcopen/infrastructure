@@ -6,6 +6,10 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 title: Community Owned Infrastructure
+permalink:
+  pretty
+sass:
+    style: compressed
 
 defaults:
   -

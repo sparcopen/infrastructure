@@ -1,0 +1,13 @@
+/* Fonts mixins */
+
+@mixin font-serif {
+  font-family: 'PT Serif', serif;
+}
+
+@mixin font-sans {
+  font-family: 'Roboto', sans-serif;
+}
+
+@mixin font-monospace {
+  font-family: 'Roboto Mono', monospace;
+}
