@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Springer Nature Group
-category: understand-the-companies
+category: 
 tags: 
 description: Springer Nature Group is the single largest publisher of scholarly journals, with about 3,000 titles.
 permalink: /springer-nature-group
