@@ -9,7 +9,7 @@ date: 2019-11-01 03:00:00
 ---
 
 
-### Establish Inclusive Governance Structures
+#### Establish Inclusive Governance Structures
 
 Another approach is to identify or construct governance structures that would allow new kinds of relationships between academic institutions and vendors – commercial or otherwise. While members of the academic community often participate in the “governance” of commercial vendors in an advisory capacity, they rarely have the opportunity to do so from a position where they can exert real operational influence – such as a position on a fiduciary board. If a critical mass of academic institutions were to demand such a role, interesting new opportunities for community-aligned governance could be explored.
 
