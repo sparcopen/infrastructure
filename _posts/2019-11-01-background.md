@@ -28,6 +28,7 @@ Heather Joseph
 Joseph McArthur
 Nick Shockey
 
-[^1]: https://sparcopen.org/our-work/landscape-analysis/
 
+***
+[^1]: https://sparcopen.org/our-work/landscape-analysis/
 [^2]: https://senate.universityofcalifornia.edu/_files/reports/rm-jn-mb-rims.pdf
