@@ -3,7 +3,7 @@ layout: post
 title: Establish Inclusive Governance Structures
 category: 
 tags: community-actions
-description: 
+description: It is vital for the governing bodies of infrastructure services to include representation from the communities they serve in order to ensure that management stays accountable to the community’s evolving needs.
 permalink: /community-actions/inclusive-governance
 date: 2019-11-01 03:00:00
 ---
