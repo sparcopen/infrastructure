@@ -14,11 +14,9 @@ Earlier this year, SPARC released an in-depth Landscape Analysis of the changing
 
 > The move by publishers into the core research and teaching missions of colleges and universities, with tools aimed at evaluating productivity and performance, means that the academic community could lose control over vast areas of its core activities. In addition, the collection of massive amounts of data about faculty and students poses a significant legal and reputational risk for institutions, along with potential privacy and security threats for individuals.”
 
-As the project unfolded, we recognized the need for a range of potential solutions
-for the key stakeholders to consider pursuing. The purpose of this document is to build on the Landscape Analysis by offering a roadmap of potential actions that stakeholders can use to chart both individual and collective responses. Recognizing that solutions to these complex issues are not “one size fits all,” this document offers a framework with multiple, concrete solutions that individual organizations can improve and adapt to their local culture and needs. The solution set is by no means exhaustive, and is intended as a starting point for the community to build upon.
+As the project unfolded, we recognized the need for a range of potential solutions for the key stakeholders to consider pursuing. The purpose of this document is to build on the Landscape Analysis[^1] by offering a roadmap of potential actions that stakeholders can use to chart both individual and collective responses. Recognizing that solutions to these complex issues are not “one size fits all,” this document offers a framework with multiple, concrete solutions that individual organizations can improve and adapt to their local culture and needs. The solution set is by no means exhaustive, and is intended as a starting point for the community to build upon.
 
-We are pleased that this project has helped to stoke a debate around the need for academic institutions to take concrete steps, and that our initial analysis has proven to be a valuable resource on campus. As an example, this spring, as the University
-of California system grappled with the issues surrounding adopting commercially- owned research information management systems, its Academic Senate issued a set of recommendations which refer to and largely support the initial findings and recommendations contained in our Landscape Analysis. We hope that the academic community will find this document a useful additional resource to inform discussion of these issues on campus and to serve as a catalyst for taking considered action.
+We are pleased that this project has helped to stoke a debate around the need for academic institutions to take concrete steps, and that our initial analysis has proven to be a valuable resource on campus. As an example, this spring, as the University of California system grappled with the issues surrounding adopting commercially- owned research information management systems, its Academic Senate issued a set of recommendations which refer to and largely support the initial findings and recommendations contained in our Landscape Analysis. We hope that the academic community will find this document a useful additional resource to inform discussion of these issues on campus and to serve as a catalyst for taking considered action.
 
 
 **Report Authors:**
@@ -29,3 +27,5 @@ Shawn Daugherty
 Heather Joseph
 Joseph McArthur
 Nick Shockey
+
+[[^1]: https://sparcopen.org/our-work/landscape-analysis/
