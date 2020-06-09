@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Establish Inclusive Governance
+title: Establish Inclusive Governance Structures
 category: 
 tags: community-actions
 description: 
