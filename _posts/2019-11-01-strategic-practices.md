@@ -2,7 +2,7 @@
 layout: post
 title: Collectively Implement Strategic Practices
 category: community-actions
-tags: roadmap-for-action
+tags: community-actions
 description: Broad adoption of common terms and conditions will have a market effect that favors products and services that are in the best interests of the academic community. This includes advantaging Open Source software over “black-box” algorithms and leveling the playing field for community-owned tools to compete with commercial options whenever available.
 permalink: /community-actions/strategic-practices
 date: 2019-11-01 10:00:00
