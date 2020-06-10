@@ -6,7 +6,7 @@
       <small>Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution 4.0 International license</a>.</small>
     </p>
     <p>
-      <small>The code is open source on <a href="{{ site.author.github }}" target="_blank" rel="noopener">Github</a>.</small>
+      <small>The code is open source on <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">Github</a>.</small>
     </p>
   </div>
 
@@ -30,9 +30,30 @@
   anchors.add('.post .page-content h2, .post .page-content h3, .post .page-content h4, .post .page-content p, .post .page-content ul, .post .page-content ol');
 
   // Copy to clipboard on click
-  new ClipboardJS('.anchorjs-link', {
+  var clipboard = new ClipboardJS('.anchorjs-link', {
       text: function(trigger) {
           return '{{ site.url }}' + '{{ page.url }}' + trigger.getAttribute('href');
       }
   });
+
+  clipboard.on('success', function(e) {
+    alert('Success!');
+
+    e.clearSelection();
+  });
+
+  // Copy pullquote text to avoid redundant copy
+  $(function() {
+  	  $('.pullquote').each(function() {
+
+  		var $parentParagraph = $(this).parent('p');
+
+  		$parentParagraph.css('position', 'relative');
+
+  		$(this).clone()
+  		  .addClass('pullquote__copy')
+  		  .prependTo($parentParagraph);
+  	  });
+  });
+
 </script>

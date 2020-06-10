@@ -1,5 +1,5 @@
 ---
-layout: cover
+layout: homepage
 title: "The future of digital infrastructure for research and education is being built."
 tagline: "  Who’s in control?"
 ---

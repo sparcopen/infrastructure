@@ -1,7 +1,13 @@
----
-theme :
-  name : dbyll
----
-{% include default.html %}
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body class="row row--centered">
 
-<!-- Analytics go here -->
+    <main class="col col--1of2">
+      <h1>{{ page.title }}</h1>
+      {{ page.content }}
+
+      {% include footer.html %}
+    </main>
+  </body>
+</html>
