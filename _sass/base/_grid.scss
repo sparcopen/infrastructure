@@ -13,7 +13,6 @@ body {
 
 .row {
   display: flex;
-  justify-content: center;
   flex: 0 1 auto;
   flex-direction: column;
   flex-wrap: wrap;
@@ -23,11 +22,19 @@ body {
   }
 }
 
+.row--centered {
+  justify-content: center;
+}
+
 .col {
   flex: 0 0 auto;
-  padding: 0 12px;
+  padding: 0 30px;
   flex-basis: 100%;
   max-width: 100%;
+
+  @media (min-width: 768px) {
+    padding: 0 40px;
+  }
 }
 
 .col--1of1,

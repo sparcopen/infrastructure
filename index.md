@@ -1,0 +1,9 @@
+---
+layout: cover
+title: "The future of digital infrastructure for research and education is being built."
+tagline: "  Who’s in control?"
+---
+
+Data and data analytics are spreading fast at higher education institutions, and the academic community is at a critical juncture. The growing trend of publisher acquisition of critical infrastructure has underscored a pressing need to understand the changing landscape and develop actions that institutions can—individually and collectively—take to maintain and regain control of data infrastructure.
+
+These actions will determine who ultimately controls the research and education process and whether we meaningfully address inequities created by legacy players or simply recreate them in new ways.

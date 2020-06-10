@@ -5,15 +5,28 @@
   <body class="post">
     <main class="row">
       <header class="col col--1of3 page-sidebar">
-        <a href="/" class="page-sidebar__home">{% include svg/bookmark.svg %}</a>
+        <a href="/#main" class="page-sidebar__home">{% include svg/bookmark.svg %}</a>
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
       </header>
 
-      <div class="col col--2of3">
+      <div class="col col--3of6 page-sidebar__page">
         <article class="page-content">
           <h2>Contents</h2>
           {{ page.content }}
+
+          {% if page.category %}
+          <aside>
+            <h2>Related</h2>
+            This is part of the <a href="{{ page.category }}">
+              {{ page.category | replace: '-',' ' }}</a>
+              {% if page.tags.size > 0 %}
+              and is connected to others issues including
+              {% for tag in page.tags %}
+              <a href="{{ tag }}">{{ tag | replace: '-',' '}}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</a>
+              {% endif %}
+            </aside>
+            {% endif %}
         </article>
 
         {% include footer.html %}

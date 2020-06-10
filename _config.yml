@@ -17,7 +17,7 @@ defaults:
     values:
       title: Community-Owned Infrastructure
 
-description: Stylish Jekyll Theme
+description: "Data and data analytics are spreading fast at higher education institutions, and the academic community is at a critical juncture. "
 author:
   name: Scholarly Publishing and Academic Resources Coalition
   email: joe@sparcopen.org
@@ -26,6 +26,8 @@ author:
   facebook: sparcopen
 
 BASE_PATH: https://josephmcarthur.github.io/infrastructure
+
+url: http://127.0.0.1:4000/
 
 plugins:
   - jekyll-paginate

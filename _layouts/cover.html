@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body class="homepage">
+    <!-- Page header as cover page -->
+    <header class="row cover">
+      <div class="col col--1of2 cover__heading">
+        <h1 class="cover__title">
+          {{ page.title }} <br/>
+          <span class="cover__tagline">{{ page.tagline }}</span>
+        </h1>
+        <div class="cover__logo">
+          {% include svg/logo.svg %}
+        </div>
+      </div>
+
+      <div class="col col--1of2 cover__content">
+        {{ page.content }}
+      </div>
+    </header>
+
+    <!-- TOC as main content -->
+    <main class="home-toc" id="main">
+      <h2 class="home-toc__heading">Lorem ipsum dolor sit amet&hellip;</h2>
+
+      <div class="home-toc__down">{% include svg/triangle.svg %}</div>
+
+      <section class="row row--centered">
+        <div class="col col--2of3">
+          <p class="label"><small>Reports</small></p>
+          <h3>Guide your institution by understanding&hellip;</h3>
+          <ul class="home-toc__toc col--group">
+            <li>
+              <h4>&hellip;the landscape</h4>
+              <article>
+                <h5><a href="#" class="home-toc__thread-link">The Landscape Analysis</a></h5>
+                <p class="home-toc__option">
+                  <a href="">View Executive Summary</a>
+                  &bull;
+                  <a href="">Download PDF</a>
+                </p>
+              </article>
+            </li>
+
+            <li>
+              <h4>&hellip;how to respond</h4>
+              <article>
+                <h5><a href="#" class="home-toc__thread-link">The Roadmap to Action</a></h5>
+                <p class="home-toc__option">
+                  <a href="">View Executive Summary</a>
+                  &bull;
+                  <a href="">Download PDF</a>
+                </p>
+              </article>
+            </li>
+
+            <li>
+              <h4>&hellip;the situation today</h4>
+              <article>
+                <h5><a href="#" class="home-toc__thread-link">The Update</a></h5>
+                <p class="home-toc__option">
+                  <a href="">View Executive Summary</a>
+                  &bull;
+                  <a href="">Download PDF</a>
+                </p>
+              </article>
+            </li>
+          </ul>
+
+          <p class="label"><small>Topics</small></p>
+          <h3>Get actionable insights on key topics&hellip;</h3>
+          <ul class="home-toc__toc">
+            <li>
+              <h4>interventions to make today</h4>
+              <ul>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+              </ul>
+            </li>
+
+            <li>
+              <h4>underlying challenges</h4>
+              <ul>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+              </ul>
+            </li>
+
+            <li>
+              <h4>the companies</h4>
+              <ul>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+              </ul>
+            </li>
+
+            <li>
+              <h4>the choices ahead</h4>
+              <ul>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+                <li><a href="#" class="home-toc__thread-link">blab</a></li>
+              </ul>
+            </li>
+          </ul>
+
+          {% include footer.html %}
+        </div>
+      </section>
+
+
+    </main>
+  </body>
+
+</html>

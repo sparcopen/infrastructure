@@ -12,18 +12,39 @@
     padding-top: $spacing-02;
     border-top: 5px solid $black;
 
-    p:first-of-type:first-letter {
-      padding-right: $spacing-02;
-      float: left;
-      color: $red;
-      font-weight: 600;
-      line-height: 1;
-      @include typescale-01;
+    p {
+
+      &:first-of-type {
+
+        .anchorjs-link {
+          margin-left: -2.25em !important; // Ugly but need to override anchorJS
+        }
+
+        &:first-letter {
+          padding-right: $spacing-02;
+          float: left;
+          color: $red;
+          font-weight: 600;
+          line-height: 1;
+          @include typescale-01;
+        }
+      }
+    }
+
+    p, ul, ol, blockquote {
+      &:target {
+        padding: $spacing-02;
+        background-color: rgba($red, .1);
+      }
+    }
+
+    .anchorjs-link {
+      font-size: 1rem;
+      @include font-sans;
     }
   }
 
-  .page-content,
-  .page-footer {
+  .page-sidebar__page {
     @media (min-width: 768px) {
       margin-left: 33.3333333%;
     }

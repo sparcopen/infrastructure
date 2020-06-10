@@ -1,0 +1,7 @@
+.label {
+  margin-bottom: $spacing-02;
+  text-transform: uppercase;
+  color: $grey;
+  font-weight: 600;
+  @include font-sans;
+}
