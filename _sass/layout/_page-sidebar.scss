@@ -1,0 +1,8 @@
+.page-sidebar {
+  background: $black;
+  color: $white;
+
+  @media (min-width: 640px) {
+    min-height: 100vh;
+  }
+}

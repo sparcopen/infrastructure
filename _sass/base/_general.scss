@@ -2,10 +2,10 @@
 
 html {
   scroll-behavior: smooth;
-  font-size: 20px;
+  font-size: 18px;
 
-  @media (max-width: 768px) {
-    font-size: 18px;
+  @media (min-width: 640px) {
+    font-size: 20px;
   }
 }
 
@@ -15,14 +15,14 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
-  @include font-sans;
+  @include font-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: $spacing-04 0;
-  line-height: 1.05;
-  font-weight: 600;
-  @include font-serif;
+  line-height: 1;
+  font-weight: 300;
+  @include font-sans;
 }
 
 h1 {
