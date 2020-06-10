@@ -1,27 +1,33 @@
-/* Mixins for typescale in major third
+/* Mixins for typescale in minor third
    Use with headings and text only
    Base unit: 20px */
 
 @mixin typescale-01 {
-  font-size: 3.052em;
+  font-size: 2.488em;
+  line-height: 1.15;
 }
 
 @mixin typescale-02 {
-  font-size: 2.441em;
+  font-size: 2.074em;
+  line-height: 1.15;
 }
 
 @mixin typescale-03 {
-  font-size: 1.953em;
+  font-size: 1.728em;
+  line-height: 1.15;
 }
 
 @mixin typescale-04 {
-  font-size: 1.563em;
+  font-size: 1.44em;
+  line-height: 1.15;
 }
 
 @mixin typescale-05 {
-  font-size: 1.25em;
+  font-size: 1.2em;
+  line-height: 1.15;
 }
 
 @mixin typescale-06 {
-  font-size: 0.8em;
+  font-size: 0.833em;
+  line-height: 1.15;
 }
