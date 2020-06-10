@@ -2,7 +2,20 @@
   background: $black;
   color: $white;
 
-  @media (min-width: 640px) {
+  @media (min-width: 768px) {
     min-height: 100vh;
+  }
+}
+
+.page-sidebar__home {
+  display: block;
+
+  svg {
+    fill: transparent;
+    transition: fill 250ms ease;
+
+    &:hover, &:focus, &:active {
+      fill: $white;
+    }
   }
 }

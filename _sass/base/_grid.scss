@@ -18,7 +18,7 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
 
-  @media only screen and (min-width: 640px) {
+  @media only screen and (min-width: 768px) {
     flex-direction: row;
   }
 }
@@ -40,7 +40,7 @@ body {
 
 .col--1of2,
 .col--3of6 {
-  @media only screen and (min-width: 640px) {
+  @media only screen and (min-width: 768px) {
     flex-basis: 50%;
     max-width: 50%;
   }
@@ -48,14 +48,14 @@ body {
 
 .col--1of3,
 .col--2of6 {
-  @media only screen and (min-width: 640px) {
+  @media only screen and (min-width: 768px) {
     flex-basis: 33.3333333%;
     max-width: 33.3333333%;
   }
 }
 
 .col--1of6 {
-  @media only screen and (min-width: 640px) {
+  @media only screen and (min-width: 768px) {
     flex-basis: 16.6666667%;
     max-width: 16.6666667%;
   }
@@ -63,14 +63,14 @@ body {
 
 .col--2of3,
 .col--4of6 {
-  @media only screen and (min-width: 640px) {
+  @media only screen and (min-width: 768px) {
     flex-basis: 66.6666667%;
     max-width: 66.6666667%;
   }
 }
 
 .col--5of6 {
-  @media only screen and (min-width: 640px) {
+  @media only screen and (min-width: 768px) {
     flex-basis: 83.3333333%;
     max-width: 83.3333333%;
   }

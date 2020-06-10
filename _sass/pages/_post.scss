@@ -1,14 +1,31 @@
-.post .page-content {
-  margin-top: $spacing-05;
-  padding-top: $spacing-02;
-  border-top: 5px solid $black;
+.post {
 
-  p:first-of-type:first-letter {
-    padding-right: $spacing-02;
-    float: left;
-    color: $red;
-    font-weight: 600;
-    line-height: 1;
-    @include typescale-01;
+  .page-sidebar {
+    @media (min-width: 768px) {
+      position: fixed;
+      left: 0;
+    }
+  }
+
+  .page-content {
+    margin-top: $spacing-05;
+    padding-top: $spacing-02;
+    border-top: 5px solid $black;
+
+    p:first-of-type:first-letter {
+      padding-right: $spacing-02;
+      float: left;
+      color: $red;
+      font-weight: 600;
+      line-height: 1;
+      @include typescale-01;
+    }
+  }
+
+  .page-content,
+  .page-footer {
+    @media (min-width: 768px) {
+      margin-left: 33.3333333%;
+    }
   }
 }
