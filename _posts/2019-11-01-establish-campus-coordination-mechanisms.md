@@ -17,5 +17,5 @@ the adjudication mechanism should be a deliberate institutional decision, rather
 
 
 ***
-[^6]: https://www.gartner.com/smarterwithgartner/3-top-take-aways-from-the-gartner-chief-data-officer-survey/
-[^7]: https://www.congress.gov/bill/115th-congress/house-bill/4174/text#toc-H8E449FBAEFA34E45A6F1F20EFB13ED95
+[^6]: [https://www.gartner.com/smarterwithgartner/3-top-take-aways-from-the-gartner-chief-data-officer-survey/](https://www.gartner.com/smarterwithgartner/3-top-take-aways-from-the-gartner-chief-data-officer-survey/)
+[^7]: [https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174)
