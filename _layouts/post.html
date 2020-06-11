@@ -6,28 +6,40 @@
     <main class="row">
       <header class="col col--1of3 page-sidebar">
         <a href="/#main" class="page-sidebar__home">{% include svg/bookmark.svg %}</a>
+        <p class="label">
+          From the <em><a href="/{{ page.category }}">{{ page.category | replace: '-',' ' }}</a></em> report
+        </p>
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
+        <p>
+          {% assign words = page.content | number_of_words %}
+          {% if words < 360 %}
+            <em>1 min read</em>
+          {% else %}
+            <em>{{ words | divided_by:180 }} mins read</em>
+          {% endif %}
+        </p>
       </header>
 
       <div class="col col--3of6 page-sidebar__page">
         <article class="page-content">
           <h2>Contents</h2>
           {{ page.content }}
-
-          {% if page.category %}
-          <aside>
-            <h2>Related</h2>
-            This is part of the <a href="{{ page.category }}">
-              {{ page.category | replace: '-',' ' }}</a>
-              {% if page.tags.size > 0 %}
-              and is connected to others issues including
-              {% for tag in page.tags %}
-              <a href="{{ tag }}">{{ tag | replace: '-',' '}}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</a>
-              {% endif %}
-            </aside>
-            {% endif %}
         </article>
+
+        {% if page.category %}
+        <aside>
+          <h2>Related</h2>
+          <p>This is part of the <a href="{{ page.category }}">{{ page.category | replace: '-',' ' }}</a> report.</p>
+          {% if page.tags.size > 0 %}
+          <ul>
+            {% for tag in page.tags %}
+            <li><a href="{{ tag }}">{{ tag | replace: '-',' '}}</a>{% if forloop.last %}{% else %}, {% endif %}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+          </aside>
+          {% endif %}
 
         {% include footer.html %}
       </div>

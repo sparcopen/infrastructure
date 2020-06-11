@@ -1,7 +1,11 @@
 .label {
   margin-bottom: $spacing-02;
   text-transform: uppercase;
-  color: $grey;
+  text-decoration: none;
   font-weight: 600;
   @include font-sans;
+
+  a {
+    text-decoration: none;
+  }
 }
