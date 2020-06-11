@@ -1,10 +1,10 @@
 ---
 layout: post
-title: In pursuit of open science open access is not enough
+title: leaked dutch contract with elsevier raises significant alarm bells
 tags: terms-and-conditions
-description: The healthy functioning of the academic community, including fair terms and conditions from commercial partners, requires that the global marketplace for data analytics and knowledge infrastructure be kept open to real competition.
-permalink: /In-pursuit-of-open-science-open-access-is-not-enough
-link: https://doi.org/10.1126/science.aba3763
-date: 2020-05-08
-reading-time: 10 min reading time
+description: Elsevier is discussing a contract to provide Dutch universities with access to its journals at no extra cost. Institutions and consortia should pause to consider and robustly debate all the ramifications of these decisions, before pursuing what may prove apparent and short-lived benefits.
+permalink: /leaked-dutch-contract
+link: https://sparcopen.org/news/2019/leaked-dutch-contract-with-elsevier-raises-significant-alarm-bells/
+date: 2019-12-10
+reading-time: 7 min reading time
 ---
