@@ -49,7 +49,7 @@ While SPARC is known for advocating for Open Data when possible, we recognize th
 
 
 ***
-[^9]: [https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial- intelligence-and-machine-learning/#2a94d66c579f](https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/#4d87bff3579f)
+[^9]: [https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/#4d87bff3579f](https://www.forbes.com/sites/forbestechcouncil/2018/09/27/15-business-applications-for-artificial-intelligence-and-machine-learning/#4d87bff3579f)
 
 [^10]: [https://www.insidehighered.com/news/2017/06/19/anti-turnitin-manifesto-calls-resistance-some-technology-digital-age](https://www.insidehighered.com/news/2017/06/19/anti-turnitin-manifesto-calls-resistance-some-technology-digital-age)
 
