@@ -31,4 +31,4 @@ Nick Shockey
 
 ***
 [^1]: [https://sparcopen.org/our-work/landscape-analysis/](https://sparcopen.org/our-work/landscape-analysis)
-[^2]: https://senate.universityofcalifornia.edu/_files/reports/rm-jn-mb-rims.pdf
+[^2]: [https://senate.universityofcalifornia.edu/_files/reports/rm-jn-mb-rims.pdf](https://senate.universityofcalifornia.edu/_files/reports/rm-jn-mb-rims.pdf)
