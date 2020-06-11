@@ -31,6 +31,6 @@ So long as an algorithm remains a “black box,” an institution is powerless t
 
 ***
 
-[^3]:  https://arxiv.org/ftp/arxiv/papers/1802/1802.02953.pdf
+[^3]:  [https://arxiv.org/ftp/arxiv/papers/1802/1802.02953.pdf](https://arxiv.org/pdf/1802.02953.pdf)
 [^4]: SPARC staunchly advocates for Open Data as a way to accelerate the research process, but our advocacy for Open Data policies in independent of our work in this document.
-[^5]:  https://medium.com/berkman-klein-center/from-technical-debt-to-intellectual-debt-in-ai- e05ac56a502c
+[^5]: [https://medium.com/berkman-klein-center/from-technical-debt-to-intellectual-debt-in-ai-e05ac56a502c](https://medium.com/berkman-klein-center/from-technical-debt-to-intellectual-debt-in-ai-e05ac56a502c)
