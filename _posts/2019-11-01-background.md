@@ -11,7 +11,7 @@ date: 2019-11-01 01:00:00
 Earlier this year, SPARC released an in-depth Landscape Analysis of the changing academic publishing industry and the implications of the large-scale deployment of data and data analytics. The the academic community’s response was immediate and strong, and it underscored the need for coordinated and strategic action to avoid the potential consequences. As noted in the Landscape Analysis:
 
 > “Until now, [commercial publishers] were – at worst – seen by institutions as an annoyance for selected communities within academia. Librarians complained about the cost of periodicals and talked about a “serials crisis”, but the impact on the overall budget of a university was well below half of a percentage point. Similarly, the high cost of textbooks was an issue for students, and in particular those coming from disadvantaged backgrounds, but scholarships and some forms of financial aid, as well as the used textbook market, tended to mitigate the problem.
-
+>
 > The move by publishers into the core research and teaching missions of colleges and universities, with tools aimed at evaluating productivity and performance, means that the academic community could lose control over vast areas of its core activities. In addition, the collection of massive amounts of data about faculty and students poses a significant legal and reputational risk for institutions, along with potential privacy and security threats for individuals.”
 
 As the project unfolded, we recognized the need for a range of potential solutions
