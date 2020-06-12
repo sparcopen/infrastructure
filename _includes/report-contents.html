@@ -1,9 +1,19 @@
 <li class="row">
-  <h4 class="col col--group col--1of3">
-    <a href="{{ post.permalink }}" class="toc__link">
-      {{ post.title }}
-    </a>
-  </h4>
+  <div class="col col--group col--1of3">
+    <h4>
+      <a href="{{ post.permalink }}" class="toc__link">
+        {{ post.title }}
+      </a>
+    </h4>
+    <p class="metadata">
+      {% assign words = page.content | number_of_words %}
+      {% if words < 360 %}
+        <em>1 min read</em>
+      {% else %}
+        <em>{{ words | divided_by:180 }} mins read</em>
+      {% endif %}
+    </p>
+  </div>
   <p class="col col--group col--2of3">
     {{ post.description }}
   </p>
