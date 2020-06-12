@@ -3,6 +3,8 @@
   color: $white;
 
   @media (min-width: 768px) {
+    position: fixed;
+    left: 0;
     min-height: 100vh;
   }
 
@@ -15,21 +17,27 @@
     margin-top: 0;
   }
 
-  a {
+  .label a {
     color: $white;
   }
-}
 
-.page-sidebar__home {
-  display: block;
-  margin-bottom: $spacing-04;
+  &__home {
+    display: block;
+    margin-bottom: $spacing-04;
 
-  svg {
-    fill: transparent;
-    transition: fill 250ms ease;
+    svg {
+      fill: transparent;
+      transition: fill 250ms ease;
 
-    &:hover, &:focus, &:active {
-      fill: $white;
+      &:hover, &:focus, &:active {
+        fill: $white;
+      }
+    }
+  }
+
+  &__page {
+    @media (min-width: 768px) {
+      margin-left: 33.3333333%;
     }
   }
 }

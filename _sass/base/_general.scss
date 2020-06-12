@@ -19,14 +19,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: $spacing-04 0;
   line-height: 1;
   font-weight: 300;
   @include font-sans;
 }
 
 h1 {
-  margin: $spacing-04 0 $spacing-05;
+  margin: 0 0 $spacing-05 0;
   @include typescale-01;
 }
 
@@ -68,7 +67,6 @@ ul, ol {
 
 pre, code {
   @include font-monospace;
-  @include typescale-06;
 }
 
 pre {
@@ -93,12 +91,11 @@ a {
 }
 
 blockquote {
-  float: left;
-  margin-left: -25%;
+  margin-left: 0;
+  padding-left: $spacing-03;
+  border-left: 2px solid $red;
   font-weight: 600;
   @include font-sans;
-  @extend .col;
-  @extend .col--1of2;
 }
 
 hr {
@@ -114,7 +111,8 @@ img {
 }
 
 time {
-  font-size: smaller;
+  color: $grey;
+  @include typescale-06
 }
 
 ::selection {

@@ -27,19 +27,13 @@
     icon: '¶',
   };
 
-  anchors.add('.post .page-content h2, .post .page-content h3, .post .page-content h4, .post .page-content p, .post .page-content ul, .post .page-content ol');
+  anchors.add('.post .page-content > h2, .post .page-content > h3, .post .page-content > h4, .post .page-content > p, .post .page-content li, .post .page-content > blockquote');
 
   // Copy to clipboard on click
   var clipboard = new ClipboardJS('.anchorjs-link', {
       text: function(trigger) {
           return '{{ site.url }}' + '{{ page.url }}' + trigger.getAttribute('href');
       }
-  });
-
-  clipboard.on('success', function(e) {
-    alert('Success!');
-
-    e.clearSelection();
   });
 
   // Copy pullquote text to avoid redundant copy

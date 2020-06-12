@@ -19,27 +19,44 @@
             <em>{{ words | divided_by:180 }} mins read</em>
           {% endif %}
         </p>
+
+        {% if page.tags.size > 0 %}
+        <aside>
+          <h2 class="sr-only">Related</h2>
+          <ul class="tags">
+            {% for tag in page.tags %}
+            <li class="tag"><a href="{{ tag }}">{{ tag | replace: '-',' '}}</a></li>
+            {% endfor %}
+          </ul>
+        </aside>
+        {% endif %}
       </header>
 
       <div class="col col--3of6 page-sidebar__page">
         <article class="page-content">
-          <h2>Contents</h2>
+          <h2>Content</h2>
           {{ page.content }}
         </article>
 
-        {% if page.category %}
-        <aside>
-          <h2>Related</h2>
-          <p>This is part of the <a href="{{ page.category }}">{{ page.category | replace: '-',' ' }}</a> report.</p>
-          {% if page.tags.size > 0 %}
-          <ul>
-            {% for tag in page.tags %}
-            <li><a href="{{ tag }}">{{ tag | replace: '-',' '}}</a>{% if forloop.last %}{% else %}, {% endif %}</a></li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-          </aside>
-          {% endif %}
+        <nav class="row pagination">
+          <div class="col col--1of2 col--group pagination__prev">
+            {% if page.previous.url %}
+            <a href="{{ site.url }}{{ page.previous.url }}">
+              {% include svg/arrow-left.svg %}
+              {{ page.previous.title }}
+            </a>
+            {% endif %}
+          </div>
+
+          <div class="col col--1of2 col--group pagination__next">
+            {% if page.next.url %}
+            <a href="{{ site.url }}{{ page.next.url }}">
+              {{ page.next.title }}
+              {% include svg/arrow-right.svg %}
+            </a>
+            {% endif %}
+          </div>
+        </nav>
 
         {% include footer.html %}
       </div>

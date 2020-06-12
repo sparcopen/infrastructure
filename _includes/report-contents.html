@@ -1,2 +1,10 @@
-<h3 class="col col--group col--1of3">{{ post.title }}</h3>
-<p class="col col--group col--2of3">{{ post.description }}</p>
+<li class="row">
+  <h4 class="col col--group col--1of3">
+    <a href="{{ post.permalink }}" class="toc__link">
+      {{ post.title }}
+    </a>
+  </h4>
+  <p class="col col--group col--2of3">
+    {{ post.description }}
+  </p>
+</li>
