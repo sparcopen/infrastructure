@@ -1,51 +1,23 @@
-  {% if post.url %}
-  <h2>
-    <a href="{% if post.link %}{{ post.link }}{% else %}{{ site.BASE_PATH }}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}{% endif %}
-  </h2>
-  <p><i>
-     <span class="reading-time" title="Estimated read time">
-      {% assign words = post.content | number_of_words %}
-      {% if post.reading-time.size > 1 %}
-         {{ post.reading-time }}
-        {% else %}
-          {% if words < 360 %}
-           1 min reading time
-          {% else %}
-           {{ words | divided_by:180 }} min reading time
-          {% endif %}
+<li class="row">
+  <div class="col col--group col--1of3">
+    <h4>
+      <a href="{{ post.permalink }}" class="toc__link">
+        {{ post.title }}
+      </a>
+    </h4>
+    <p class="metadata">
+      {% assign words = page.content | number_of_words %}
+      {% if words < 360 %}
+      <em>1 min read</em>
+      {% else %}
+      <em>{{ words | divided_by:180 }} mins read</em>
       {% endif %}
-      </span>
-  </i></p>
-  <p><i>
-    Posted on <span>
-         {% assign d = post.date | date: "%d" | plus:'0' %}
-         {{ post.date | date: "%B" }}
-         {% case d %}
-           {% when 1 or 21 or 31 %}{{ d }}st,
-           {% when 2 or 22 %}{{ d }}nd,
-           {% when 3 or 23 %}{{ d }}rd,
-           {% else %}{{ d }}th,
-         {% endcase %}
-         {{ post.date | date: "%Y" }}
-       </span>
-    {% if post.categories.size > 0 %}
-        <span>
-          from <a href="{{ site.BASE_PATH }}/{{ post.category }}" style="text-transform:capitalize;">{{ post.category  | replace: '-',' ' }}</a>
-        </span>
-    {% endif %}
-  </i></p>
-
-  <div>
-    {% if post.fullview %}
-    {{ post.content }}
-    {% else %}
-    {% if post.shortinfo %}
-    {{ post.shortinfo }}
-    {% elsif post.description %}
-    {{ post.description }}
-    {% else %}
-    {{ post.excerpt }}
-    {% endif %}
-    {% endif %}
+    </p>
   </div>
-  {% endif %}
+  <div class="col col--group col--2of3">
+    {% if post.category %}
+    <p class="metadata">From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report</p>
+    {% endif %}
+    <p>{{ post.description }}</p>
+  </div>
+</li>
