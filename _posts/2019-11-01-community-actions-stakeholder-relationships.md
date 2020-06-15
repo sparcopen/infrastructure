@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Realign Stakeholder Relationships
-category: 
+category: roadmap-for-action
 tags: community-actions
 description: These community-based actions portend several possible realignments within the academic community and its stakeholder groups that should also be considered as efforts move forward.
-permalink: /community-actions/stakeholder-relationships
+permalink: /roadmap-for-action/stakeholder-relationships
 date: 2019-11-01 14:00:00
 ---
 
