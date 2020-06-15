@@ -5,7 +5,7 @@ category: landscape-analysis
 tags:
 description:
 permalink: /landscape-analysis/about-the-report
-date: 2019-03-29 01:00:00
+date: 2019-03-29 17:00:00
 ---
 
 SPARC (the Scholarly Publishing and Academic Resources Coalition) is a global coalition that works to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the societal and economic return on our collective investment in research and education. As a catalyst for action, SPARC focuses on promoting changes to both infrastructure and culture needed to make open the default for research and education.
