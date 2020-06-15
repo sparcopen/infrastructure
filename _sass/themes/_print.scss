@@ -1,5 +1,9 @@
 @media print {
 
+  .print-only {
+    display: block;
+  }
+
   .page-sidebar {
     position: relative;
     color: $black;
@@ -17,6 +21,10 @@
       display: block;
       page-break-inside: avoid;
     }
+  }
+
+  .page-footer {
+    display: block;
   }
 
   .post .page-content,
