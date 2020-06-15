@@ -1,0 +1,18 @@
+@media print {
+  .page-sidebar {
+    color: $black;
+
+    a, .label a {
+      color: $black;
+    }
+  }
+
+  .post .page-content {
+    margin-top: 0;
+  }
+
+  .anchorjs-link,
+  #print-btn {
+    display: none;
+  }
+}

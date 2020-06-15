@@ -19,20 +19,9 @@
             <em>{{ words | divided_by:180 }} mins read</em>
           {% endif %}
         </p>
-
-        {% if page.tags.size > 0 %}
-        <aside>
-          <h2 class="sr-only">Related</h2>
-          <ul class="tags">
-            {% for tag in page.tags %}
-            <li class="tag"><a href="../{{ tag }}">{{ tag | replace: '-',' '}}</a></li>
-            {% endfor %}
-          </ul>
-        </aside>
-        {% endif %}
       </header>
 
-      <div class="col col--3of6 page-sidebar__page">
+      <div class="col col--3of6 page-sidebar-content">
         <article class="page-content">
           <h2 class="sr-only">Content</h2>
           {{ page.content }}
@@ -61,6 +50,17 @@
         {% include footer.html %}
       </div>
 
+      <aside class="col col--1of6 page-sidebar-aside">
+        <button id="print-btn" onClick="window.print()">Print or download</button>
+        {% if page.tags.size > 0 %}
+        <h2>Related</h2>
+        <ul class="tags">
+          {% for tag in page.tags %}
+          <li class="tag"><a href="../{{ tag }}">{{ tag | replace: '-',' '}}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </aside>
     </main>
   </body>
 

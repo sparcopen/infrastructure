@@ -7,7 +7,7 @@
     left: 0;
     min-height: 100vh;
   }
-  
+
   h1 {
     margin-top: 0;
   }
@@ -29,10 +29,28 @@
       }
     }
   }
+}
 
-  &__page {
-    @media (min-width: 768px) {
-      margin-left: 33.3333333%;
-    }
+.page-sidebar-content {
+  @media (min-width: 768px) {
+    margin-left: 33.3333333%;
+  }
+}
+
+.page-sidebar-aside {
+  @include typescale-06;
+
+  h2 {
+    margin-top: $spacing-04;
+    padding-top: $spacing-03;
+    border-top: 1px solid $black;
+    font-size: 1em;
+    font-weight: 400;
+  }
+
+  @media (min-width: 768px) {
+    position: fixed;
+    right: 0;
+    margin: $spacing-05 0;
   }
 }
