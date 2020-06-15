@@ -14,15 +14,15 @@ Elsevier and Pearson (among others) are becoming data analytics companies. Neith
 
 By leading the shift of the publishing industry into supplying data analytics, however, these publishers pose challenges for the academic community, which could lose control over vast areas of its core activities (in addition to incurring in significant legal and reputational risks).
 
-# RESEARCH
+## RESEARCH
 
-## The not-so-gentle giant
+### The not-so-gentle giant
 
 Much of the anguish in the academic community towards scholarly communications companies is focused on Elsevier. Elsevier attracts a disproportionate amount of attention within the academic community because of its tone-deaf business practices and its profitability (Elsevier reports a 37% operating profit margin vs. 23% for Springer Nature.) Elsevier would argue that it enjoys record profitability because it manages itself well and because researchers want to publish in its journals.
 
 The adversarial relationship between Elsevier and academic librarians (and some researchers) is a throwback to management practices that have long disappeared in virtually every other industry. The Open Access (OA) movement, the periodic boycotts of Elsevier by groups of academics, the announcements from European consortia willing to lose access to Elsevier journals rather than agree to demands— all point to a flaw in how Elsevier, and some of its competitors, operate. It is remarkable for a company to face such antipathy from its customers, which also supply the raw intellectual material for its products.
 
-## Data analytics will be central to the future of Elsevier for four key reasons:
+**Data analytics will be central to the future of Elsevier for four key reasons:**
 
 1. **Protect the core journal business.** Elsevier must recognize that Open Access is a significant threat to its economics. We estimate that Elsevier revenues per article are about £3,100, well above the estimated industry average Article Processing Charge (ACP) of £1700 to 1800. This means that Elsevier faces a potential significant decline in revenues if a full transition to OA takes place. Elsevier may not cut costs enough to compensate for lower revenues, as - with estimated costs per article of about £2,000 - a 10-15% cut would only save about £200 to 300. In this scenario, the operating profits of Elsevier would be wiped out almost completely, as both revenues and costs could converge around the £1700 to 1800 mark. The best way for Elsevier to protect its profitability would be to gain share among the highest impact journals which can and will support higher APCs, effectively nearing, as much as possible, its current average revenues per article. This, in turn, would be easier if Elsevier could win larger numbers of high impact submissions from authors. In this scenario, the more “high impact” articles Elsevier can publish thanks to early insights into research likely to have high impact (thanks to data analytics), the better.
 
@@ -32,7 +32,7 @@ The adversarial relationship between Elsevier and academic librarians (and some 
 
 4. **Sell insights to industry or the investment community.** This opportunity is the most speculative, but also the most valuable. Elsevier controls a massive amount of potential intellectual insights, and, increasingly, data. It would make sense for Elsevier to capitalize on its access to academic research by partnering with industry to exploit insights, or by establishing joint ventures with venture capital firms to improve returns. Elsevier may only think today of monetizing this value by licensing software to mine articles and data repositories. On the other hand, Elsevier may realize that it could partner with others to exploit these insights.
 
-## Clarivate – the natural competitor
+### Clarivate – the natural competitor
 
 A focus on improving their economics through industry consolidation has absorbed the management of Springer Nature, while Wiley has chosen to invest resources in improving its digital operations through the acquisition of Atypon. As a result, Clarivate appears today as the only company in a position to challenge the data analytics business of Elsevier.
 
@@ -40,7 +40,7 @@ When Thomson Reuters (TRI) owned the Science business, it kept it separate for m
 
 It is unclear whether the new owners support this strategy. The company has made two acquisitions aimed at modernizing its research offering, but neither upends the strategy as a “neutral” data analytics supplier to researchers and librarians. Still, integration between data analytics and intellectual property remains a significant opportunity, as it can lead to serving universities seeking deeper ties (and funding) with industry and industry looking to support relevant research.
 
-## The issues
+### The issues
 
 The three leading research data analytics vendors (Clarivate, Digital Science, Elsevier) market a wide array of research intelligence tools, raising substantial questions.
 
@@ -54,7 +54,7 @@ Fourth, some of these businesses effectively text and data mine materials submit
 
 This is not a comprehensive list of all the issues posed by the provision of data tools and services outside of university libraries. We expect the list of issues to grow over time, as more people weigh in from their vantage points on the basis of their experience and concerns.
 
-# TEACHING AND STUDENT ACTIVITIES
+## TEACHING AND STUDENT ACTIVITIES
 
 Higher Education textbook publishing is affected negatively by trends which are structural, rather than cyclical, in nature. Numbers were startling: in 2016, the major publishers posted revenues declines ranging from -10% to -15%, followed by another -3% to -6% organic revenue decline in 2017. This continued decline is leading publishers to support the switch to fully digital courseware products, under the umbrella of “inclusive access”.
 
@@ -66,7 +66,7 @@ For many years, Pearson has been the only large, publicly-traded courseware comp
 
 Pearson has explicitly highlighted, in some of its investor presentations, how data analytics can affect outcomes for students. Management believes that digital tools are not just aimed at increasing faculty productivity and lowering costs. Pearson’s strategy indicates its belief that a combination of student profiling through adaptive learning tools (which identify the best way to teach to different segments of students) and reporting will transform schools with very large enrolment numbers, where it is less cost effective to monitor individual students.
 
-## So many issues...
+### So many issues...
 
 The decline of print courseware is forcing publishers to move towards digital content. Once content is digitized, however, it opens up vast possibilities to collect and analyze user data. Universities must consider the ramifications of collecting and monetizing such large amounts of sensitive data.
 
@@ -80,7 +80,7 @@ The algorithms themselves used by the publishers are not transparent, which also
 
 Finally, it is worth noting that publishers are not the only vendors of data analytics to universities. Many colleges are using data analytics (to various degrees) in the recruiting process, and there are many fairness questions raised by the use of non- transparent algorithms. Are algorithms perpetuating, even involuntarily, biases based on geography, occupation, likelihood that students or their families turn into donors, etc.?
 
-# PRELIMINARY RECOMMENDATIONS
+## PRELIMINARY RECOMMENDATIONS
 
 This document aims at outlining issues posed, rather than proposing detailed solutions. However, it is useful to highlight some of the possible responses available to the academic community. We believe that responses will have to be tailored to individual universities, although some would likely require collaboration among institutions. For any one institution, the key drivers will be a mix of cultural elements (e.g. How centralized or decentralized are decisions?) and financial considerations (e.g. What is the expected impact of data analytics? Are significant revenues from Intellectual Property desirable? Which companies are acceptable partners?). We will offer choices rather than prescribing a single course of action.
 
