@@ -32,7 +32,7 @@
   // Copy to clipboard on click
   var clipboard = new ClipboardJS('.anchorjs-link', {
       text: function(trigger) {
-          return '{{ site.url }}' + '{{ page.url }}' + trigger.getAttribute('href');
+          return '{{ site.BASE_PATH }}' + '{{ page.url }}' + trigger.getAttribute('href');
       }
   });
 
