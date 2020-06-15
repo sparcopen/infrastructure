@@ -1,0 +1,18 @@
+.subscribe-box {
+  margin-top: $spacing-04;
+  background-color: $light-grey;
+  @include font-sans;
+
+  h2 {
+    font-weight: 600;
+    font-size: 1em;
+  }
+
+  &__links {
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
