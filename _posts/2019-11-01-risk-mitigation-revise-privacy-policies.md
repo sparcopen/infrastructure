@@ -3,8 +3,8 @@ layout: post
 title: Revise Privacy Policies
 category: roadmap-for-action
 tags: risk-mitigation
-description: The development of strong privacy policies is critical, and must extend beyond legal compliance. 
-permalink: /roadmap-for-action/risk-mitigation/revise-privacy-policies
+description: The development of strong privacy policies is critical, and must extend beyond legal compliance.
+permalink: /roadmap-for-action/revise-privacy-policies
 date: 2019-11-01 06:00:00
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Risk Mitigation (intro)
+title: Risk Mitigation&#58; Intro
 category: roadmap-for-action
 tags: risk-mitigation
 description: These actions are designed to be concrete, practical steps that any institution can begin taking immediately.
-permalink: /roadmap-for-action/risk-mitigation
+permalink: /roadmap-for-action/risk-mitigation-intro
 date: 2019-11-01 04:00:00
 ---
 
