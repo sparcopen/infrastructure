@@ -3,9 +3,12 @@
   color: $white;
 
   @media (min-width: 768px) {
+    min-height: 100vh;
+  }
+
+  @media (min-width: 1200px) {
     position: fixed;
     left: 0;
-    min-height: 100vh;
   }
 
   h1 {
