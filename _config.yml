@@ -26,8 +26,7 @@ author:
   facebook: sparcopen
 
 BASE_PATH: https://josephmcarthur.github.io/infrastructure
-#url: http://127.0.0.1:4000/ <!-- Used for Soph's dev 
+#url: http://127.0.0.1:4000/ <!-- Used for Soph's dev
 
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
