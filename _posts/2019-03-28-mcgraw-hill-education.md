@@ -2,7 +2,7 @@
 layout: post
 title: Education Companies&#58; McGraw-Hill Education
 category: landscape-analysis #understand-the-companies
-tags:
+tags: mcgraw-hill-education
 description:
 permalink: /landscape-analysis/mcgraw-hill-education
 date: 2019-03-29 12:00:00

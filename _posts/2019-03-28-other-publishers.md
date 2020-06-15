@@ -2,7 +2,7 @@
 layout: post
 title: Research Companies&#58; Other publishers
 category: landscape-analysis #understand-the-companies
-tags: clarivate
+tags:
 description:
 permalink: /landscape-analysis/other-research-publishers
 date: 2019-03-29 09:00:00
