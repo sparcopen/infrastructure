@@ -10,7 +10,10 @@
   }
 
   .page-content {
+    position: relative;
+
     p, li, blockquote {
+      position: relative;
       page-break-inside: avoid;
     }
   }
