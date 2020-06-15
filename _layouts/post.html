@@ -5,7 +5,10 @@
   <body class="post">
     <main class="row">
       <header class="col col--1of3 page-sidebar">
-        <a href="/#main" class="page-sidebar__home">{% include svg/bookmark.svg %}</a>
+        <a href="/#main" class="page-sidebar__home">
+          {% include svg/bookmark.svg %}
+          <span class="sr-only">Return to homepage</span>
+        </a>
         <p class="label">
           From the <em><a href="/{{ page.category }}">{{ page.category | replace: '-',' ' }}</a></em> report
         </p>
