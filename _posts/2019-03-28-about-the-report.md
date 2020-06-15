@@ -21,9 +21,15 @@ We are at a critical juncture where there is a pressing need for the academic co
 ### Report authors
 
 Claudio Aspesi (lead author)
+
 Nicole Allen
+
 Raym Crow
+
 Shawn Daugherty
+
 Heather Joseph
+
 Joseph McArthur
+
 Nick Shockey
