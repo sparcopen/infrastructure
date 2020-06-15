@@ -21,8 +21,7 @@ author:
   twitter: sparc_na
   facebook: sparcopen
 
-BASE_PATH: https://josephmcarthur.github.io/infrastructure
-#url: http://127.0.0.1:4000/ <!-- Used for Soph's dev
+BASE_PATH: https://epic-dijkstra-ae9167.netlify.app/
 
 plugins:
   - jekyll-sitemap
