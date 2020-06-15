@@ -1,10 +1,10 @@
 ---
 layout: post
 title: McGraw-Hill Education
-category: understand-the-companies
+category: landscape-analysis #understand-the-companies
 tags:
-description: 
-permalink: /understand-the-companies/mcgraw-hill-education
+description:
+permalink: /landscape-analysis/mcgraw-hill-education
 date: 2019-03-29 17:00:00
 ---
 
