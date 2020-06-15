@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Companies: Springer Nature
+title: Research Companies&#58; Springer Nature
 category: landscape-analysis #understand-the-companies
 tags:
 description: Springer Nature Group is the single largest publisher of scholarly journals, with about 3,000 titles.

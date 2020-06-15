@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education Companies: Background
+title: Education Companies&#58; Background
 category: landscape-analysis
 tags:
 description: The continued decline of the higher education courseware business in the U.S. is driven by the interplay of three factors; student enrollment, pricing, and participation rates.

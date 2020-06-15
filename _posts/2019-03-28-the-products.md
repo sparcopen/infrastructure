@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Companies: The Products
+title: Research Companies&#58; The Products
 category: landscape-analysis
 tags:
 description: Compiling a map of all the products and services that the three leading research data analytics vendors (Clarivate, Digital Science, Elsevier) market outside libraries is inherently a best effort exercise
