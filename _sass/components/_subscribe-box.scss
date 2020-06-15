@@ -1,6 +1,7 @@
 .subscribe-box {
   margin-top: $spacing-04;
-  background-color: $light-grey;
+  padding: $spacing-04;
+  background-color: rgba($light-grey, 0.15);
   @include font-sans;
 
   h2 {
