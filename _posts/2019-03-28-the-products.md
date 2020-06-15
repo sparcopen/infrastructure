@@ -5,7 +5,7 @@ category: landscape-analysis
 tags:
 description: Compiling a map of all the products and services that the three leading research data analytics vendors (Clarivate, Digital Science, Elsevier) market outside libraries is inherently a best effort exercise
 permalink: /landscape-analysis/the-products
-date: 2019-03-29 06:00:00
+date: 2019-03-29 10:00:00
 ---
 
 Compiling a map of all the products and services that the three leading research

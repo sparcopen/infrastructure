@@ -5,7 +5,7 @@ category: landscape-analysis #understand-the-companies
 tags:
 description: Springer Nature Group is the single largest publisher of scholarly journals, with about 3,000 titles.
 permalink: /landscape-analysis/springer-nature-group
-date: 2019-03-29 011:00:00
+date: 2019-03-29 06:00:00
 ---
 
 ### Springer Nature Group

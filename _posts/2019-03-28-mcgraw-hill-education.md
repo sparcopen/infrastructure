@@ -5,7 +5,7 @@ category: landscape-analysis #understand-the-companies
 tags:
 description:
 permalink: /landscape-analysis/mcgraw-hill-education
-date: 2019-03-29 17:00:00
+date: 2019-03-29 12:00:00
 ---
 
 ### McGraw-Hill Education
