@@ -5,7 +5,7 @@ category: roadmap-for-action
 tags: risk-mitigation
 description: The development of strong privacy policies is critical, and must extend beyond legal compliance.
 permalink: /roadmap-for-action/revise-privacy-policies
-date: 2019-11-01 06:00:00
+date: 2019-11-01 08:00:00
 ---
 
 The development of strong privacy policies is critical, and must extend beyond legal compliance. The expansion of grey data on campuses has created privacy questions that lawmakers have only begun to grapple with. Particularly in the U.S., the limited legal framework for data privacy leaves it mostly up to institutions to protect themselves and their stakeholders. To ensure that privacy policies address the needs of the community, they should be developed in consultation with the constituencies that will be affected (including but not limited to faculty, researchers, other staff, students, and administration).

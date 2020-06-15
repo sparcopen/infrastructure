@@ -5,7 +5,7 @@ category: roadmap-for-action
 tags:
 description: The time to act is now.
 permalink: /roadmap-for-action/conclusion
-date: 2019-11-01 09:00:00
+date: 2019-11-01 20:00:00
 ---
 
 > The need for academic institutions to act to retain control of infrastructure, data and data analytics is here to stay. It is critical for academic leaders to acknowledge that data and its uses play a central role in the operations and the future of their institutions, and take control of how it is managed as a strategic asset.

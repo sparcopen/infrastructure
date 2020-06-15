@@ -5,7 +5,7 @@ category: roadmap-for-action
 tags: strategic-choices
 description:
 permalink: /roadmap-for-action/algorithms-vs-humans
-date: 2019-11-01 08:00:00
+date: 2019-11-01 11:00:00
 ---
 
 The debate over using artificial intelligence as a substitute for human analysis is already playing out in many parts of society, including the corporate sector. As an example, Forbes recently developed a list of 15 business applications of artificial intelligence.[^9] Out of these 15 applications, at least five apply to academic institutions as well. Should institutions deploy artificial intelligence tools in the admission process? In recruiting staff? In reviewing and grading non-quantitative exam materials? In identifying potential malicious or unsafe student behavior before it occurs? Should students be able to use accelerated reading software? Should software provide a first line of student support, substituting for teaching assistants? The answer to each of these questions is complex and will vary across and within types of institutions.

@@ -5,7 +5,7 @@ category: roadmap-for-action
 tags: strategic-choices
 description:
 permalink: /roadmap-for-action/quantitative-vs-qualitative-metrics
-date: 2019-11-01 09:00:00
+date: 2019-11-01 12:00:00
 ---
 A second critical set of debates that are necessary is around the metrics that academic institutions use for evaluation. This debate often focuses on the issue of faculty evaluation. Most universities argue that they promote their faculty at all levels through a thorough process of evaluation of each individual, looking both at their intellectual achievements and at their personal contributions to teaching and the life of the institution. Nonetheless, a recurrent complaint is the overbearing impact of publications records and journal impact factors (at least in the disciplines and institutions in which this metric is relevant).
 
