@@ -1,13 +1,17 @@
 @media print {
-  body {
-    overflow: visible
-  }
 
   .page-sidebar {
+    position: static;
     color: $black;
 
     a, .label a {
       color: $black;
+    }
+  }
+
+  .page-content {
+    p, li, blockquote {
+      page-break-inside: avoid;
     }
   }
 
