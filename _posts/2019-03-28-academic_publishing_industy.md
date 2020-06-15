@@ -2,7 +2,7 @@
 layout: post
 title: The Academic Publishing Industry In 2018
 category: landscape-analysis
-tags:
+tags: market-analysis
 description: Elsevier, Pearson and Cengage in particular are transforming themselves into data analytics companies built atop their content, effectively adding ways to monetize it.
 permalink: /landscape-analysis/the_academic_publishing_industry_in_2018
 date: 2019-03-29 03:00:00

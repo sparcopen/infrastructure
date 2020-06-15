@@ -2,7 +2,7 @@
 layout: post
 title: Education Companies&#58; Background
 category: landscape-analysis
-tags:
+tags: market-analysis
 description: The continued decline of the higher education courseware business in the U.S. is driven by the interplay of three factors; student enrollment, pricing, and participation rates.
 permalink: /landscape-analysis/teaching-and-student-activities
 date: 2019-03-29 10:00:00

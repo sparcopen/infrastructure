@@ -2,7 +2,7 @@
 layout: post
 title: Strategic Choices
 category: roadmap-for-action
-tags: 
+tags: strategic-choices
 description: The second category of actions is more complex, since it relates to decisions that will need to be made specifically based on each individual institution’s mission, culture and values. It also involves the establishment of an explicit process to determine the position that each institution wants to take in regards to specific issues posed by the collection of data and the deployment of data analytics tools.
 permalink: /roadmap-for-action/strategic-choices
 date: 2019-11-01 07:00:00
