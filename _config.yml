@@ -1,0 +1,27 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+title: Community-Owned Infrastructure
+sass:
+    style: compressed
+exclude: ["README.md"] # files to exclude
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Community-Owned Infrastructure
+
+description: "Data and data analytics are spreading fast at higher education institutions, and the academic community is at a critical juncture. "
+author:
+  name: Scholarly Publishing and Academic Resources Coalition
+  email: joe@sparcopen.org
+  github: sparcopen
+  twitter: sparc_na
+  facebook: sparcopen
+
+BASE_PATH: https://epic-dijkstra-ae9167.netlify.app/
+
+plugins:
+  - jekyll-sitemap

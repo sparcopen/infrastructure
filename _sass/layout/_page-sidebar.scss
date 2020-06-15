@@ -1,0 +1,43 @@
+.page-sidebar {
+  background: $black;
+  color: $white;
+
+  @media (min-width: 768px) {
+    position: fixed;
+    left: 0;
+    min-height: 100vh;
+  }
+
+  ::selection {
+    background-color: $white;
+    color: $black;
+  }
+
+  h1 {
+    margin-top: 0;
+  }
+
+  .label a {
+    color: $white;
+  }
+
+  &__home {
+    display: block;
+    margin-bottom: $spacing-04;
+
+    svg {
+      fill: transparent;
+      transition: fill 250ms ease;
+
+      &:hover, &:focus, &:active {
+        fill: $white;
+      }
+    }
+  }
+
+  &__page {
+    @media (min-width: 768px) {
+      margin-left: 33.3333333%;
+    }
+  }
+}

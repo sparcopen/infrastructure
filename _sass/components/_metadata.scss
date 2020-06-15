@@ -1,0 +1,9 @@
+.metadata {
+  color: rgba($black, 0.75);
+  font-size: smaller;
+  @include font-sans;
+
+  a {
+    color: rgba($black, 0.75);
+  }
+}

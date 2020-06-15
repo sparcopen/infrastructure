@@ -1,0 +1,53 @@
+<footer class="row page-footer">
+  <div class="col col--2of3 col--group">
+    {% include svg/cc.svg %}
+    {% include svg/by.svg %}
+    <p>
+      <small>Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution 4.0 International license</a>.</small>
+    </p>
+    <p>
+      <small>The code is open source on <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">Github</a>.</small>
+    </p>
+  </div>
+
+  <figure class="col col--1of3 col--group page-footer__logo">
+    <a href="https://sparcopen.org" target="_blank" rel="noopener" title="Go to SPARC’s website">{% include svg/logo.svg %}</a>
+  </figure>
+</footer>
+
+<!-- Load JS CDNs -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
+<script>
+  // Generate anchor links for post headers & paragraphs
+  anchors.options = {
+    placement: 'left',
+    visible: 'touch',
+    icon: '¶',
+  };
+
+  anchors.add('.post .page-content > h2, .post .page-content > h3, .post .page-content > h4, .post .page-content > p, .post .page-content li, .post .page-content > blockquote');
+
+  // Copy to clipboard on click
+  var clipboard = new ClipboardJS('.anchorjs-link', {
+      text: function(trigger) {
+          return '{{ site.BASE_PATH }}' + '{{ page.url }}' + trigger.getAttribute('href');
+      }
+  });
+
+  // Copy pullquote text to avoid redundant copy
+  $(function() {
+  	  $('.pullquote').each(function() {
+
+  		var $parentParagraph = $(this).parent('p');
+
+  		$parentParagraph.css('position', 'relative');
+
+  		$(this).clone()
+  		  .addClass('pullquote__copy')
+  		  .prependTo($parentParagraph);
+  	  });
+  });
+
+</script>

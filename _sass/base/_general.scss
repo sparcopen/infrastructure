@@ -1,0 +1,121 @@
+/* General styles */
+
+html {
+  scroll-behavior: smooth;
+  font-size: 18px;
+
+  @media (min-width: 768px) {
+    font-size: 20px;
+  }
+}
+
+body {
+  color: $black;
+  line-height: 1.35;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  @include font-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+  font-weight: 300;
+  @include font-sans;
+}
+
+h1 {
+  margin: 0 0 $spacing-05 0;
+  @include typescale-01;
+}
+
+h2 {
+  @include typescale-02;
+}
+
+h3 {
+  @include typescale-03;
+}
+
+h4 {
+  @include typescale-04;
+}
+
+h5 {
+  @include typescale-05;
+}
+
+h6, small {
+  @include typescale-06;
+}
+
+p {
+  margin: 0 0 $spacing-04 0;
+}
+
+ul, ol {
+  padding-left: $spacing-04;
+
+  ul, ol {
+    margin-left: $spacing-03;
+  }
+
+  li {
+    line-height: 1.5;
+  }
+}
+
+pre, code {
+  @include font-monospace;
+}
+
+pre {
+  padding: $spacing-02;
+}
+
+code {
+  background: $light-grey;
+}
+
+a {
+  text-decoration: underline;
+  color: $black;
+  transition: all 250ms ease;
+
+  &:hover,
+  &:focus,
+  &:active {
+    color: $red;
+    text-decoration: none;
+  }
+}
+
+blockquote {
+  margin-left: 0;
+  padding-left: $spacing-03;
+  border-left: 2px solid $red;
+  font-weight: 600;
+  @include font-sans;
+}
+
+hr {
+  margin: $spacing-05 0;
+  border: 0;
+  height: 1px;
+  background-color: $black;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+time {
+  color: $grey;
+  @include typescale-06
+}
+
+::selection {
+  background-color: $red;
+  color: $white;
+}

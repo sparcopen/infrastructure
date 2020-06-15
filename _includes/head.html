@@ -1,0 +1,18 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
+  <meta name="author" content="{{ site.author.name }}">
+  {% if page.description %}
+	<meta name="description" content="{{ page.description }}">
+  {% else %}
+  <meta name="description" content="{{ site.description }}">
+	{% endif %}
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <meta name="theme-color" content="#1F2222">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;1,400&family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{ site.BASE_PATH }}/css/main.css">
+
+</head>
