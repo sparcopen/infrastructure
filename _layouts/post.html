@@ -33,7 +33,7 @@
         <nav class="row pagination">
           <div class="col col--1of2 col--group pagination__prev">
             {% if page.previous.url %}
-            <a href="{{ site.url }}{{ page.previous.url }}">
+            <a href="{{ site.BASE_PATH }}{{ page.previous.url }}">
               {% include svg/arrow-left.svg %}
               {{ page.previous.title }}
             </a>
@@ -42,7 +42,7 @@
 
           <div class="col col--1of2 col--group pagination__next">
             {% if page.next.url %}
-            <a href="{{ site.url }}{{ page.next.url }}">
+            <a href="{{ site.BASE_PATH }}{{ page.next.url }}">
               {{ page.next.title }}
               {% include svg/arrow-right.svg %}
             </a>
