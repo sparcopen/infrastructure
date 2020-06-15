@@ -1,4 +1,8 @@
 @media print {
+  body {
+    overflow: visible
+  }
+
   .page-sidebar {
     color: $black;
 
@@ -8,10 +12,11 @@
   }
 
   .post .page-content {
-    margin-top: 0;
+    margin-top: $spacing-03;
   }
 
   .anchorjs-link,
+  .pagination,
   #print-btn {
     display: none;
   }
