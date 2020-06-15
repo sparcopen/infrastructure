@@ -10,8 +10,57 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <meta name="theme-color" content="#1F2222">
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;1,400&family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+  <!--
+		GET FONTS AND GET THEM FAST.
+		FROM: https://csswizardry.com/2020/05/the-fastest-google-fonts/
+	  - 1. Preemptively warm up the fonts’ origin.
+	  -
+	  - 2. Initiate a high-priority, asynchronous fetch for the CSS file. Works in
+	  -    most modern browsers.
+	  -
+	  - 3. Initiate a low-priority, asynchronous fetch that gets applied to the page
+	  -    only after it’s arrived. Works in all browsers with JavaScript enabled.
+	  -
+	  - 4. In the unlikely event that a visitor has intentionally disabled
+	  -    JavaScript, fall back to the original method. The good news is that,
+	  -    although this is a render-blocking request, it can still make use of the
+	  -    preconnect which makes it marginally faster than the default.
+	  -->
+
+	<!-- [1] -->
+	<link rel="preconnect"
+	      href="https://fonts.gstatic.com"
+	      crossorigin />
+
+	<!-- [2] -->
+	<link rel="preload"
+	      as="style"
+	      href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;1,400&family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" />
+	<!-- [3] -->
+	<link rel="stylesheet"
+	      href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;1,400&family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
+	      media="print" onload="this.media='all'" />
+
+	<!-- [4] -->
+	<noscript>
+	  <link rel="stylesheet"
+	        href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" />
+	</noscript>
+
+<!--  Essential META Tags from https://css-tricks.com/essential-meta-tags-social-media/ and sparc site-->
+
+<meta property="og:image" content="{{ site.BASE_PATH }}/assets/media/social-image.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="627" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@sparc_na">
+
+<!--  Non-Essential, But Recommended from https://css-tricks.com/essential-meta-tags-social-media/ and sparc site-->
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="{{site.title}}">
+<meta name="twitter:image:alt" content="SPARC Logo">
+<meta property="og:type" content="website" />
 
   <link rel="stylesheet" href="{{ site.BASE_PATH }}/css/main.css">
 
