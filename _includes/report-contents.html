@@ -6,7 +6,7 @@
       </a>
     </h4>
     <p class="metadata">
-      {% assign words = page.content | number_of_words %}
+      {% assign words = post.content | number_of_words %}
       {% if words < 360 %}
         <em>1 min read</em>
       {% else %}
