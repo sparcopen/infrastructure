@@ -1,10 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-exclude: ["README.md"] # files to exclude
-markdown: kramdown
 title: Community-Owned Infrastructure
-permalink:
-  pretty
 sass:
     style: compressed
 exclude: ["README.md"] # files to exclude
