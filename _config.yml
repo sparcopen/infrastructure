@@ -21,7 +21,7 @@ author:
   twitter: sparc_na
   facebook: sparcopen
 
-BASE_PATH: https://epic-dijkstra-ae9167.netlify.app/
+BASE_PATH: https://upbeat-swirles-009f3e.netlify.app
 
 plugins:
   - jekyll-sitemap
