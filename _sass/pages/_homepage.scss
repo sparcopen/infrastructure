@@ -1,6 +1,7 @@
 .homepage {
 
   .cover {
+    margin-bottom: $spacing-05;
     min-height: 100vh;
     align-content: center;
     background-color: $black;
@@ -83,19 +84,6 @@
 
   h2, h3 {
     margin-top: 0;
-  }
-
-  .page-sidebar {
-    position: static;
-    min-height: 50vh;
-
-    h3 {
-      margin-top: $spacing-06;
-    }
-  }
-
-  .page-sidebar__page {
-    margin: $spacing-06 0 $spacing-03 0;
   }
 
 }
