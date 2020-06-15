@@ -4,15 +4,19 @@ button,
 .button {
   display: inline-block;
   padding: $spacing-02;
+  cursor: pointer;
   border: 2px solid $red;
+  background-color: transparent;
   color: $red;
-  transition: all 150ms ease-in; 
+  transition: all 150ms ease-in;
   @include typescale-06;
+  @include font-sans;
 
   &:hover,
   &:active,
   &:focus {
-    border-radius: $spacing-02;
+    background-color: $red;
+    color: $white;
   }
 }
 
