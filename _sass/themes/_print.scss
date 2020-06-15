@@ -11,13 +11,14 @@
     }
   }
 
-  .post .page-content {
+  .post .page-content,
+  .page-footer {
     margin-top: $spacing-03;
   }
 
   .anchorjs-link,
   .pagination,
-  #print-btn {
+  .page-sidebar-aside {
     display: none;
   }
 }
