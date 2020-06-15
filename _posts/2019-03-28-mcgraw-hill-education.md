@@ -8,8 +8,6 @@ permalink: /landscape-analysis/mcgraw-hill-education
 date: 2019-03-29 12:00:00
 ---
 
-### McGraw-Hill Education
-
 In March 2013, McGraw-Hill closed the sale of its education business to Apollo, a private equity company for $2.4 billion in cash. In the nine months before the sale was announced, the company had achieved a 15.8% operating margin, while EBITDA in 2013 was negative (making any multiple not meaningful).
 
 McGraw-Hill Education operates across higher education, K-12, and professional markets, but is very dependent higher education, which accounts for 41.5% of its revenues (Exhibit 13). The company exited the assessment business in 2015, effectively going in the opposite direction of Pearson, which has decided to abandon K-12 courseware and stay in assessment.

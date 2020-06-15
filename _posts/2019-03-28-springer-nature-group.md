@@ -8,8 +8,6 @@ permalink: /landscape-analysis/springer-nature-group
 date: 2019-03-29 06:00:00
 ---
 
-### Springer Nature Group
-
 #### The Basics
 
 The Springer Nature Group is the result of the 2015 merger of Springer Science+Business Media with the majority of the businesses owned by Holtzbrinck and operating as part of McMillan Science and Education. The company has two main shareholders: Holtzbrinck Group (a German family-owned publisher) which has 53% of the shares, and BC Partners (a European private equity firm) which has the balance (except for a small stake still owned by the Government of Singapore, which owned Springer before its sale to BC Partners). The Springer/Nature merger was quite expensive: BC Partners acquired Springer in 2013 for an estimated €3.1 billion and then agreed to give Holtzbrinck 53% of the equity of the combined entity. If by January 2015, when the Nature merger was announced, BC Partners valued its stake in Springer at least equally to its original investment, this means that Nature Publishing Group was valued at €3.5 billion, underlying the unique quality of its assets.
