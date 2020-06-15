@@ -21,8 +21,8 @@ author:
   twitter: sparc_na
   facebook: sparcopen
 
-BASE_PATH: https://upbeat-swirles-009f3e.netlify.app
-# LIVE: https://upbeat-swirles-009f3e.netlify.app LOCAL: http://127.0.0.1:4000
+BASE_PATH: https://infrastructure.sparcopen.org/
+# LIVE: https://infrastructure.sparcopen.org/ NETFLY https://upbeat-swirles-009f3e.netlify.app LOCAL: http://127.0.0.1:4000
 
 plugins:
   - jekyll-sitemap
