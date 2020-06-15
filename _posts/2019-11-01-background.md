@@ -21,11 +21,17 @@ We are pleased that this project has helped to stoke a debate around the need fo
 
 **Report Authors:**
 Claudio Aspesi (Lead Author)
+
 Nicole Allen
+
 Raym Crow
+
 Shawn Daugherty
+
 Heather Joseph
+
 Joseph McArthur
+
 Nick Shockey
 
 
