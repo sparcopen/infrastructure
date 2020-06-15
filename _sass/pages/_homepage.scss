@@ -1,0 +1,88 @@
+.homepage {
+
+  .cover {
+    margin-bottom: $spacing-05;
+    min-height: 100vh;
+    align-content: center;
+    background-color: $black;
+    color: $white;
+  }
+
+  .cover__heading,
+  .cover__content {
+    opacity: 0;
+    -webkit-animation: fadeIn ease-in 1;
+    -moz-animation: fadeIn ease-in 1;
+    animation: fadeIn ease-in 1;
+
+    -webkit-animation-fill-mode: forwards;
+    -moz-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-duration: .5s;
+    -moz-animation-duration: .5s;
+    animation-duration: .5s;
+
+    -webkit-animation-delay: .15s;
+    -moz-animation-delay: .15s;
+    animation-delay: .15s;
+  }
+
+  .cover__heading {
+    padding-bottom: $spacing-06;
+
+    @media (min-width: 768px) {
+      flex-direction: row;
+      &:after {
+        position: absolute;
+        left: 50vw;
+        top: 15vh;
+        margin: 0 auto;
+        height: 600px;
+        width: 20px;
+        content: '';
+        background-image: url("data:image/svg+xml,%3Csvg width='16' height='501' viewBox='0 0 16 501' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7.29292 500.707C7.68344 501.098 8.3166 501.098 8.70713 500.707L15.0711 494.343C15.4616 493.953 15.4616 493.319 15.0711 492.929C14.6806 492.538 14.0474 492.538 13.6569 492.929L8.00002 498.586L2.34317 492.929C1.95264 492.538 1.31948 492.538 0.928954 492.929C0.538429 493.319 0.538429 493.953 0.928954 494.343L7.29292 500.707ZM7 4.37114e-08L7.00002 500L9.00002 500L9 -4.37114e-08L7 4.37114e-08Z' fill='%23E8E8E8'/%3E%3C/svg%3E%0A");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+    }
+  }
+
+  .cover__title {
+    margin: $spacing-04 0 $spacing-06 0;
+    color: $light-grey;
+  }
+
+  .cover__tagline {
+    margin-top: $spacing-06;
+    display: block;
+  }
+
+  .cover__logo svg {
+    height: 20px;
+    width: auto;
+
+    path:first-child {
+      fill: $white;
+    }
+  }
+
+  .cover__content {
+    align-self: flex-end;
+    margin-top: $spacing-04;
+
+    p:first-of-type:first-letter {
+      padding-right: $spacing-02;
+      float: left;
+      color: $red;
+      font-weight: 600;
+      line-height: 1;
+      @include typescale-01;
+    }
+  }
+
+  h2, h3 {
+    margin-top: 0;
+  }
+}

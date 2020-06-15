@@ -3,9 +3,8 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-highlighter: rouge
 markdown: kramdown
-title: Community Owned Infrastructure
+title: Community-Owned Infrastructure
 permalink:
   pretty
 sass:
@@ -16,21 +15,19 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Community Owned Infrastructure
+      title: Community-Owned Infrastructure
 
-description: Stylish Jekyll Theme
+description: "Data and data analytics are spreading fast at higher education institutions, and the academic community is at a critical juncture. "
 author:
   name: Scholarly Publishing and Academic Resources Coalition
   email: joe@sparcopen.org
   github: sparcopen
   twitter: sparc_na
   facebook: sparcopen
-  bio: A very rough prototype here to find all the problems
-
-# set it as url of an image
-# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
 BASE_PATH: https://josephmcarthur.github.io/infrastructure
+
+url: http://127.0.0.1:4000/
 
 plugins:
   - jekyll-paginate

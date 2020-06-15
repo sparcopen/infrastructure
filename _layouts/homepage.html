@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body class="homepage">
+    <!-- Page header as cover page -->
+    <header class="row cover">
+      <div class="col col--1of2 cover__heading">
+        <h1 class="cover__title">
+          {{ page.title }} <br/>
+          <span class="cover__tagline">{{ page.tagline }}</span>
+        </h1>
+        <div class="cover__logo">
+          {% include svg/logo.svg %}
+        </div>
+      </div>
+
+      <div class="col col--1of2 cover__content">
+        {{ page.content }}
+      </div>
+    </header>
+
+    <main id="main">
+
+      <section class="row row--centered">
+        <div class="col col--2of3">
+          <p class="label"><small>Reports</small></p>
+          <h3>Guide your institution by understanding&hellip;</h3>
+          <ul class="toc col--group">
+            <li class="row">
+              <h4 class="col col--group col--1of2">&hellip;the landscape</h4>
+              <article class="col col--group col--1of2">
+                <h5><a href="landscape-analysis/" class="toc__link toc__link--arrow">The Landscape Analysis</a></h5>
+                <p class="toc__option">
+                  <a href="landscape-analysis/summary/">View Executive Summary</a>
+                  &bull;
+                  <a href="#">Download PDF</a>
+                </p>
+              </article>
+            </li>
+
+            <li class="row">
+              <h4 class="col col--group col--1of2">&hellip;how to respond</h4>
+              <article class="col col--group col--1of2">
+                <h5><a href="roadmap-for-action/" class="toc__link toc__link--arrow">The Roadmap for Action</a></h5>
+                <p class="toc__option">
+                  <a href="#">View Executive Summary</a>
+                  &bull;
+                  <a href="#">Download PDF</a>
+                </p>
+              </article>
+            </li>
+
+            <li class="row">
+              <h4 class="col col--group col--1of2">&hellip;the situation today</h4>
+              <article class="col col--group col--1of2">
+                <h5><a href="#" class="toc__link toc__link--arrow">The Update</a></h5>
+                <p class="toc__option">
+                  <a href="#">View Executive Summary</a>
+                  &bull;
+                  <a href="#">Download PDF</a>
+                </p>
+              </article>
+            </li>
+          </ul>
+
+          <p class="label"><small>Topics</small></p>
+          <h3>Get actionable insights on key topics&hellip;</h3>
+          <ul class="toc col--group">
+            <li class="row">
+              <h4 class="col col--group col--1of2">interventions to make today</h4>
+              <ul class="col col--group col--1of2">
+                <li><a href="risk-mitigation/" class="toc__link toc__link--arrow">Risk Mitigation</a></li>
+                <li><a href="strategic-choices/" class="toc__link toc__link--arrow">Strategic Choices </a></li>
+                <li><a href="community-actions/" class="toc__link toc__link--arrow">Community Actions</a></li>
+              </ul>
+            </li>
+
+            <li class="row">
+              <h4 class="col col--group col--1of2">underlying challenges</h4>
+              <ul class="col col--group col--1of2">
+                <li><a href="terms-and-conditions/" class="toc__link toc__link--arrow">Terms & Conditions</a></li>
+                <li><a href="market-consolidation/" class="toc__link toc__link--arrow">Market Consolidation</a></li>
+                <li><a href="financial-analysis/" class="toc__link toc__link--arrow">Financial Analysis</a></li>
+              </ul>
+            </li>
+
+            <li class="row">
+              <h4 class="col col--group col--1of2">the companies</h4>
+              <ul class="col col--group col--1of2">
+                <li><a href="#" class="toc__link toc__link--arrow">Elsevier</a></li>
+                <li><a href="#" class="toc__link toc__link--arrow">Wiley</a></li>
+                <li><a href="#" class="toc__link toc__link--arrow">Pearson</a></li>
+                <li><a href="#" class="toc__link toc__link--arrow">McGraw-Hill Education</a></li>
+              </ul>
+            </li>
+
+            <li class="row">
+              <h4 class="col col--group col--1of2">the choices ahead</h4>
+              <ul class="col col--group col--1of2">
+                <li><a href="#" class="toc__link toc__link--arrow">Purchasing a Research Information System</a></li>
+                <li><a href="#" class="toc__link toc__link--arrow">Signing a Big Deal</a></li>
+                <li><a href="#" class="toc__link toc__link--arrow">Signing up for Inclusive Access</a></li>
+                <li><a href="#" class="toc__link toc__link--arrow">Choosing Digital Courseware</a></li>
+              </ul>
+            </li>
+          </ul>
+
+          {% include footer.html %}
+        </div>
+      </section>
+
+
+    </main>
+  </body>
+
+</html>

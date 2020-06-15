@@ -1,0 +1,28 @@
+/* Buttons */
+
+button,
+.button {
+  display: inline-block;
+  padding: $spacing-02;
+  border: 2px solid $red;
+  color: $red;
+  transition: all 150ms ease-in; 
+  @include typescale-06;
+
+  &:hover,
+  &:active,
+  &:focus {
+    border-radius: $spacing-02;
+  }
+}
+
+.button--cta {
+  background-color: $red;
+  color: $white;
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: $white;
+  }
+}

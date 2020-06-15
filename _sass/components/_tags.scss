@@ -1,0 +1,24 @@
+.tags {
+  @include unstyled-list;
+}
+
+.tag {
+  padding: $spacing-01 $spacing-02;
+  margin: 0 $spacing-02 $spacing-02 0;
+  display: inline-block;
+  border-radius: $spacing-01;
+  background-color: $light-grey;
+  @include font-monospace;
+
+  a {
+    display: block;
+    text-decoration: none;
+    color: $black;
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: $red;
+  }
+}

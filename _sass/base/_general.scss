@@ -2,10 +2,10 @@
 
 html {
   scroll-behavior: smooth;
-  font-size: 20px;
+  font-size: 18px;
 
-  @media (max-width: 768px) {
-    font-size: 18px;
+  @media (min-width: 768px) {
+    font-size: 20px;
   }
 }
 
@@ -15,18 +15,17 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
-  @include font-sans;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  margin: $spacing-04 0;
-  line-height: 1.05;
-  font-weight: 600;
   @include font-serif;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+  font-weight: 300;
+  @include font-sans;
+}
+
 h1 {
-  margin: $spacing-04 0 $spacing-05;
+  margin: 0 0 $spacing-05 0;
   @include typescale-01;
 }
 
@@ -50,7 +49,7 @@ h6, small {
   @include typescale-06;
 }
 
-p, blockquote {
+p {
   margin: 0 0 $spacing-04 0;
 }
 
@@ -68,7 +67,6 @@ ul, ol {
 
 pre, code {
   @include font-monospace;
-  @include typescale-06;
 }
 
 pre {
@@ -82,6 +80,7 @@ code {
 a {
   text-decoration: underline;
   color: $black;
+  transition: all 250ms ease;
 
   &:hover,
   &:focus,
@@ -91,29 +90,19 @@ a {
   }
 }
 
-section {
-  padding: $spacing-04 0;
-}
-
-section aside {
-  border-left: 1px dashed $red;
-}
-
 blockquote {
-  padding-left: 1.5em;
-  border-left: 1px dashed $red;
-  font-style: italic;
-
-  em, i {
-    font-style: normal;
-  }
+  margin-left: 0;
+  padding-left: $spacing-03;
+  border-left: 2px solid $red;
+  font-weight: 600;
+  @include font-sans;
 }
 
 hr {
   margin: $spacing-05 0;
   border: 0;
   height: 1px;
-  background-color: rgba($grey, 0.5);
+  background-color: $black;
 }
 
 img {
@@ -121,65 +110,12 @@ img {
   max-width: 100%;
 }
 
-iframe {
-  margin-bottom: $spacing-04;
-  padding: $spacing-02;
-  width: 100%;
-  border: 1px dashed $red;
-}
-
 time {
-  font-size: smaller;
+  color: $grey;
+  @include typescale-06
 }
 
-table {
-  margin-bottom: $spacing-04;
-  width: 100%;
-
-  thead {
-    text-align: left;
-    color: $grey;
-    @include typescale-06;
-  }
-
-  tr {
-    border-bottom: 1px solid rgba($grey, 0.25);
-
-    &:last-child {
-      border: 0;
-    }
-  }
-
-  th, td {
-    vertical-align: top;
-    padding: $spacing-03 $spacing-02;
-
-    &:first-child {
-      padding-left: 0;
-    }
-  }
-
-  th {
-    text-align: left;
-    font-weight: 400;
-    color: $grey;
-    @include typescale-06;
-  }
-
-  td:last-child {
-    width: 50%;
-  }
-}
-
-::placeholder {
-  font-style: italic;
-  color: rgba($grey, 0.5);
-}
-
-aside {
-  color: $red;
-
-  a {
-    color: $white;
-  }
+::selection {
+  background-color: $red;
+  color: $white;
 }

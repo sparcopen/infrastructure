@@ -1,0 +1,22 @@
+.pagination {
+  color: $grey;
+  line-height: 1.15;
+  @include typescale-06;
+
+  a {
+    text-decoration: none;
+  }
+
+  svg {
+    width: 15px;
+    height: auto;
+  }
+
+  &__prev {
+
+  }
+
+  &__next {
+    text-align: right;
+  }
+}

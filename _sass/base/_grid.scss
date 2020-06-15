@@ -1,0 +1,88 @@
+/* Simple six-col grid */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.row {
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+  @media only screen and (min-width: 768px) {
+    flex-direction: row;
+  }
+}
+
+.row--centered {
+  justify-content: center;
+}
+
+.col {
+  flex: 0 0 auto;
+  padding: 0 30px;
+  flex-basis: 100%;
+  max-width: 100%;
+
+  @media (min-width: 768px) {
+    padding: 0 40px;
+  }
+}
+
+.col--1of1,
+.col--2of2,
+.col--3of3,
+.col--6of6 {
+  flex-basis: 100%;
+  max-width: 100%;
+}
+
+.col--1of2,
+.col--3of6 {
+  @media only screen and (min-width: 768px) {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+.col--1of3,
+.col--2of6 {
+  @media only screen and (min-width: 768px) {
+    flex-basis: 33.3333333%;
+    max-width: 33.3333333%;
+  }
+}
+
+.col--1of6 {
+  @media only screen and (min-width: 768px) {
+    flex-basis: 16.6666667%;
+    max-width: 16.6666667%;
+  }
+}
+
+.col--2of3,
+.col--4of6 {
+  @media only screen and (min-width: 768px) {
+    flex-basis: 66.6666667%;
+    max-width: 66.6666667%;
+  }
+}
+
+.col--5of6 {
+  @media only screen and (min-width: 768px) {
+    flex-basis: 83.3333333%;
+    max-width: 83.3333333%;
+  }
+}
+
+.col--group {
+  padding: 0;
+}
