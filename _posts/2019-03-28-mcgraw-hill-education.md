@@ -1,6 +1,6 @@
 ---
 layout: post
-title: McGraw-Hill Education
+title: Education Companies: McGraw-Hill Education
 category: landscape-analysis #understand-the-companies
 tags:
 description:

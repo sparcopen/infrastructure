@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Companies Part Two
-category: landscape-analysis
+category: #landscape-analysis hiding for now as we're using broken down versions
 tags:
 description: Estimating market share among publishers has been difficult. Higher education publishers report their revenues to the AAP (Association of American Publishers), which aggregates and circulates them. The consistency of the reporting has been called into question, however, in part because there is no clarity about whether all of the publishers are consistently reporting their courseware revenues (some may include sales of teaching materials, while others may only report courseware shipments).
 permalink: /landscape-analysis/the-companies-part-2
