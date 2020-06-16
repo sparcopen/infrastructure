@@ -3,7 +3,7 @@ layout: post
 title: Education Companies&#58; Other Publishers
 category: landscape-analysis #understand-the-companies
 tags: cengage
-description: Cengage is a pioneer in inclusive access and Cengage Unlimited, its full catalog subscription, was the first full offering of this kind. Cengage was also the first major publisher to offer a product branded as open educational resources (OER), although the content is still purchased by students enrolled in a course.
+description:
 permalink: /landscape-analysis/other-education-publisher
 date: 2019-03-29 14:00:00
 ---
