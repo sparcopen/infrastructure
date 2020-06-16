@@ -10,6 +10,19 @@
   }
 }
 
+
+.print-only {
+  display: none;
+}
+
+.screen-only {
+  display: none;
+
+  @media print {
+    display: block;
+  }
+}
+
 // Only display content to screen readers
 //
 // See: https://a11yproject.com/posts/how-to-hide-content/
@@ -25,8 +38,4 @@
   clip: rect(0, 0, 0, 0) !important;
   white-space: nowrap !important;
   border: 0 !important;
-}
-
-.print-only {
-  display: none;
 }
