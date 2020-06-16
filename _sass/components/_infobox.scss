@@ -39,6 +39,14 @@
         display: inline;
       }
     }
+
+    article {
+      margin-bottom: $spacing-04;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   }
 
   &--subscribe {
