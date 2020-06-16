@@ -1,0 +1,52 @@
+.infobox {
+  margin-top: $spacing-05;
+  padding: $spacing-04;
+  background-color: rgba($light-grey, 0.35);
+
+  h2 {
+    margin-top: 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  &__links {
+    margin-top: $spacing-04;
+    font-weight: 800;
+    @include font-sans;
+
+    a {
+      color: $red;
+    }
+  }
+
+  &--authors {
+    border-top: 5px solid $red;
+  }
+
+  &--subscribe {
+
+    h2 {
+      display: inline;
+      font-size: 1em;
+      line-height: 1.15;
+
+      a {
+        border-bottom: 2px solid $black;
+        font-weight: 800;
+        color: $black;
+        text-decoration: none;
+        @include font-serif;
+      }
+    }
+
+    p:first-of-type {
+      display: inline;
+    }
+  }
+}
