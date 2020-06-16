@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cengage Mcgraw-hill Merger Called Off
-tags: market-consolidation
+tags: market-consolidation mcgraw-hill-education cengage
 description:
 permalink: /cengage-mcgraw-hill-merger-called-off
 link: https://sparcopen.org/news/2020/cengage-mcgraw-hill-merger-called-off/

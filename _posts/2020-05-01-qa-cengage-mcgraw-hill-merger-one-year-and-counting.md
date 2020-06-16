@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Q&A: Cengage/McGraw-Hill Merger, One Year and Counting"
-tags: market-consolidation
+tags: market-consolidation mcgraw-hill-education cengage
 description:
 permalink: /qa-cengage-mcgraw-hill-merger-one-year-and-counting
 link: https://sparcopen.org/news/2020/qa-cengage-mcgraw-hill-merger-one-year-and-counting/
