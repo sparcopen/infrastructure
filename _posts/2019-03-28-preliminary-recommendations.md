@@ -3,7 +3,7 @@ layout: post
 title: Preliminary Recommendations
 category: landscape-analysis
 tags:
-description: Actively formulating and implementing solutions to these problems is complex but critically important, and something SPARC intends to work closely with the community on. However, we think it is worthwhile to conclude this document with a recap of some of the options for action currently available to the academic community.
+description: Actively formulating and implementing solutions to these problems is complex but critically important, and something SPARC intends to work closely with the community on. It is worthwhile to recap of some of the options for action.
 permalink: /landscape-analysis/preliminary-recommendations
 date: 2019-03-29 16:00:00
 ---
