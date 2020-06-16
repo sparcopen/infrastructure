@@ -8,8 +8,6 @@ permalink: /roadmap-for-action/stakeholder-relationships
 date: 2019-11-01 19:00:00
 ---
 
-### Realign Stakeholder Relationships
-
 These community-based actions portend several possible realignments within the academic community and its stakeholder groups that should also be considered as efforts move forward.
 
 #### Academic and Research Libraries

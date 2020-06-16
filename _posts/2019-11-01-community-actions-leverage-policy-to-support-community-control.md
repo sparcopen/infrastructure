@@ -8,8 +8,6 @@ permalink: /roadmap-for-action/leverage-policy-to-support-community-control
 date: 2019-11-01 18:00:00
 ---
 
-### Leverage Policy to Support Community Control
-
 #### Updating Federal and State Policy
 
 Another avenue to expand community’s control over data infrastructure is to advocate for favorable federal and state policies. Multiple studies have found that the current legal framework is insufficient to prevent the commercial exploitation of student data.[^20]: In the U.S., the most immediate opportunity centers on data privacy protections, and the primary federal law that governs student data privacy in higher education, the Family Educational Rights and Privacy Act (FERPA). This law was established before the internet, and is limited in both scope of coverage and protection it offers students. Updating FERPA is a clear opportunity to advocate for stronger provisions that guarantee students full control over their education data, protect it from exploitation, and set stronger security standards for vendors.
