@@ -9,6 +9,7 @@ button,
   background-color: transparent;
   color: $red;
   transition: all 150ms ease-in;
+  text-decoration: none;
   @include typescale-06;
   @include font-sans;
 
