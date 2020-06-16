@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dutch Consortia/Elsevier Contract&#58; The Real Risks
-tags: terms-and-conditions
+tags: terms-and-conditions elsevier
 description:
 permalink: /dutch-consortia-elsevier-contract
 date: 2020-05-28
