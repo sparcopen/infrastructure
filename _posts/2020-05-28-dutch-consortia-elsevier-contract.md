@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dutch Consortia/Elsevier Contract: The Real Risks
+title: The Dutch Consortia/Elsevier Contract&#58; The Real Risks
 tags: terms-and-conditions
 description:
 permalink: /dutch-consortia-elsevier-contract
