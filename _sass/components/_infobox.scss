@@ -38,6 +38,10 @@
       + p {
         display: inline;
       }
+
+      &:after {
+        content: '. ';
+      }
     }
 
     article {
