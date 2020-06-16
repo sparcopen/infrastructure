@@ -27,6 +27,18 @@
 
   &--authors {
     border-top: 5px solid $red;
+
+    h3 {
+      display: inline;
+      font-size: 1em;
+      font-weight: 800;
+      line-height: 1.15;
+      @include font-serif;
+
+      + p {
+        display: inline;
+      }
+    }
   }
 
   &--subscribe {
@@ -34,11 +46,11 @@
     h2 {
       display: inline;
       font-size: 1em;
+      font-weight: 800;
       line-height: 1.15;
 
       a {
         border-bottom: 2px solid $black;
-        font-weight: 800;
         color: $black;
         text-decoration: none;
         @include font-serif;
