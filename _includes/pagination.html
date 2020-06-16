@@ -1,5 +1,6 @@
 <nav class="pagination">
   <div class="pagination__prev">
+    <h2 class="sr-only">Previous article</h2>
     {% if page.previous.url %}
     <a href="{{ site.BASE_PATH }}{{ page.previous.url }}">
       {% include svg/arrow-left.svg %}
@@ -9,6 +10,7 @@
   </div>
 
   <div class="pagination__next">
+    <h2 class="sr-only">Next article</h2>
     {% if page.next.url %}
     <a href="{{ site.BASE_PATH }}{{ page.next.url }}">
       {{ page.next.title }}
