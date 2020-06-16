@@ -5,6 +5,7 @@ tags: terms-and-conditions
 description:
 permalink: /dutch-consortia-elsevier-contract
 date: 2020-05-28
+# This was members only content previously send by H title "FINAL Dutch agreement commentary.pdf"
 ---
 
 In December, [SPARC assessed an institutional agreement that a Dutch national academic consortia and Elsevier were in the process of negotiating](https://sparcopen.org/news/2019/leaked-dutch-contract-with-elsevier-raises-significant-alarm-bells/). At the time, we were responding to leaks in the press, which were largely confirmed by the subsequent release of the terms of a framework agreement between the Dutch consortia and the publisher. Last week, the parties announced the official terms of the agreement.
