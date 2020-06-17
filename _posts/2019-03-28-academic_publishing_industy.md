@@ -64,6 +64,8 @@ point. Similarly, the high cost of textbooks was an issue for students, and in p
 those coming from disadvantaged backgrounds, but scholarships and some forms of
 financial aid, as well as the used textbook market, tended to mitigate the problem.
 
+{% include subscribe-box.html %}
+
 The move by publishers into the core research and teaching missions of colleges and
 universities, with tools aimed at evaluating productivity and performance, means that
 the academic community could lose control over vast areas of its core activities. In
