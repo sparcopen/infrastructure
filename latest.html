@@ -1,0 +1,10 @@
+---
+layout: thread
+title: The Latest
+description:
+permalink: /latest
+---
+<!-- set the below to whatever you want and it'll generate a list -->
+{% for post in site.posts %}
+{% include thread-contents.html %}
+{% endfor %}
