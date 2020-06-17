@@ -21,7 +21,7 @@
     <header>
       {% if thread_type == "tags" and post.category %}
       <p class="label">
-        From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report
+        From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report &mdash; {% include post-date.html %}
       </p>
       {% endif %}
       <h4>
@@ -58,9 +58,9 @@
       {% if post.description %}
       <p>{{ post.description }}</p>
       {% endif %}
-      
+
       {% if thread_type == "tags" and post.category %}
-      <p class="metadata">From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report</p>
+      <p class="metadata">From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report, {% include post-date.html %}.</p>
       {% endif %}
     </div>
   </article>

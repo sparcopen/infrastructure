@@ -110,11 +110,6 @@ img {
   max-width: 100%;
 }
 
-time {
-  color: $grey;
-  @include typescale-06
-}
-
 ::selection {
   background-color: $red;
   color: $white;
