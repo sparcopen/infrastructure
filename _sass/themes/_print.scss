@@ -1,5 +1,14 @@
 @media print {
 
+  body, h1, h2, h3, h4, h5, h6, ol, ul, li, div, span, p, section, article, blockquote, aside, main, header {
+    // really ugly to make sure that text doesn’t get cut off 
+    display: block !important;
+    width: auto !important;
+    float: none !important;
+    position: static !important;
+    overflow: visible !important;
+  }
+
   .print-only {
     display: block;
   }
@@ -34,13 +43,19 @@
     margin-top: $spacing-03;
   }
 
+  .infobox--authors {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .anchorjs-link,
   .pagination,
   .page-sidebar-aside,
   .post__summary,
   .post__read-time,
   .sr-only,
-  .join-box {
+  .infobox--join,
+  .button {
     display: none;
   }
 }

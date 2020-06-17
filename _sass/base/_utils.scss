@@ -16,10 +16,8 @@
 }
 
 .screen-only {
-  display: none;
-
   @media print {
-    display: block;
+    display: none;
   }
 }
 

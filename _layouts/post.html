@@ -43,7 +43,11 @@
       </div>
 
       <aside class="col col--1of6 page-sidebar-aside">
-        <button id="print-btn" onClick="window.print()">Print or download</button>
+        {% if page.pdf %}
+        <a href="{{ page.pdf }}" class="button" download>Download</a>
+        {% else %}
+        <button id="print-btn" onClick="window.print()">Print</button>
+        {% endif %}
         {% if page.tags.size > 0 %}
         <h2>Related</h2>
         <ul class="tags">
