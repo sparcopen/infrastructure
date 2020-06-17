@@ -26,8 +26,4 @@ As new partnerships and financial arrangements that ensure greater alignment wit
 
 In the development of community-owned infrastructure, the relationship between academic institutions and societies might be productively reexamined and realigned to support mutual interests. The development and management of community owned infrastructure requires many functions, including some that are largely dependent on disciplinary expertise that societies alone possess. New kinds of direct fee-for- service arrangements may offer an alternative source of revenue to societies, while supporting direct community control of the communication of research outputs. Similarly, as more institutions invest in open educational resources, scholarly societies are poised to play a potential role as a service provider for vetting or publishing educational materials.
 
->“For example, a number of learned societies have established the Society Publishers Coalition.[^21] This is, effectively, a “coalition of the willing” with the aim to establish closer working relationships with academic institutions and funding bodies and may help taking the initial steps to establish more collaborative relationships between the academic community and societies.”
-
-
-***
-[^21]: [https://www.socpc.org/](https://www.socpc.org/)
+>“For example, a number of learned societies have established the [Society Publishers Coalition](https://www.socpc.org/). This is, effectively, a “coalition of the willing” with the aim to establish closer working relationships with academic institutions and funding bodies and may help taking the initial steps to establish more collaborative relationships between the academic community and societies.”
