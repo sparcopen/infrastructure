@@ -48,7 +48,8 @@
         <h2>Related</h2>
         <ul class="tags">
           {% for tag in page.tags %}
-          <li class="tag"><a href="../{{ tag }}">{{ tag | replace: '-',' ' | capitalize }}</a></li>
+          {% assign tag_name = tag | replace: '-',' ' %}
+          <li class="tag"><a href="../{{ tag }}">{{ tag_name | capitalize }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}
