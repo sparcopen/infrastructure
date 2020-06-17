@@ -8,7 +8,7 @@ permalink: /2020-update/the-bigger-deal
 date: 2020-06-17 09:00:00
 ---
 
-Finally, in December 2019, the Dutch press received leaked detailed information on a deal that Elsevier was about to sign with Dutch academic and research consortia.[^11] The general terms of the deal included a zero increase in total spending for access to subscriptions and on publishing articles in open access, in exchange for the broad adoption of Elsevier’s data analytics tools in Dutch universities. A few days later, a framework agreement was signed, with the final agreement signed at the end of May 2020. Although the full financial terms and conditions are not known, we have no reason to doubt the general terms highlighted in the press leaks. This raises several concerns:
+Finally, in December 2019, the [Dutch press received leaked detailed information on a deal that Elsevier was about to sign with Dutch academic and research consortia](https://www.scienceguide.nl/2019/11/leaked-document-on-elsevier-negotiations-sparks-controversy/). The general terms of the deal included a zero increase in total spending for access to subscriptions and on publishing articles in open access, in exchange for the broad adoption of Elsevier’s data analytics tools in Dutch universities. A few days later, a framework agreement was signed, with the final agreement signed at the end of May 2020. Although the full financial terms and conditions are not known, we have no reason to doubt the general terms highlighted in the press leaks. This raises several concerns:
 
 1. **Linking publishing and data contracts is deeply problematic.** It is easy to understand why Elsevier would like to bundle publishing and data contracts. Elsevier is under pressure from the academic community to lower its future revenue growth from journals. In addition, while the transition to open access may prove less disruptive than feared, there is still uncertainty over both the endgame of this transition and the complexity of managing a protracted transition phase. Contracts like this provide some degree of “insurance” from the risks posed by these issues.  
 
@@ -37,9 +37,3 @@ Finally, in December 2019, the Dutch press received leaked detailed information 
    In addition, lack of diversity may influence “what” academic institutions measure, not just “how.” If data analytics becomes a quasi-monopoly, what is for sale may well become the metrics that academic institutions use to evaluate their research, as happened with the Impact Factor. As we highlighted earlier, Elsevier is already attempting to play a leading role in defining standards for research assessment. If unchecked, Elsevier may well find itself in the position of defining, on behalf of the academic community, what constitutes good research and then selling the tools to perform the actual assessment.
 
 For all these reasons, agreements like the Elsevier/Dutch Institution deal are highly problematic. Institutions and consortia should pause to consider and robustly debate all the ramifications of these decisions, before pursuing what may prove to be partial and short-lived benefits.
-
-
-
-***
-
-[^11]: [https://www.scienceguide.nl/2019/11/leaked-document-on-elsevier-negotiations-sparks-controversy/](https://www.scienceguide.nl/2019/11/leaked-document-on-elsevier-negotiations-sparks-controversy/)
