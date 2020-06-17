@@ -22,8 +22,14 @@
           <h2>
             Table of Contents
           </h2>
-          <ul class="toc col--group">
-            {{ page.content }}
+          <ul class="toc toc--with-feature col--group">
+            {% if page.name contains "report-" %}
+            <!-- Report ToC -->
+            {% include report-contents.html %}
+            {% else %}
+            <!-- Topic-based thread contents -->
+            {% include thread-contents.html %}
+            {% endif %}
           </ul>
         </article>
 

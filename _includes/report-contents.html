@@ -1,3 +1,31 @@
+{% assign thread = page.permalink | remove: "/" %}
+{% if page.reversed %}
+{% assign posts = site.categories.[thread] | reverse %}
+{% else %}
+{% assign posts = site.categories.[thread] %}
+{% endif %}
+
+{% for post in posts limit:1 %}
+<!-- Featured / latest post -->
+<li class="toc__featured">
+  <div class="row">
+    <h4 class="col col--2of3 col--group">
+      <a href="{{ post.permalink }}" class="toc__link">
+        {{ post.title }}
+      </a>
+    </h4>
+    <p class="col col--1of3 col--group metadata">
+      {% include post-readtime.html %}
+    </p>
+  </div>
+  <p class="col col--5of6 col--group toc__featured-desc">
+    {{ post.description }}
+  </p>
+</li>
+{% endfor %}
+
+{% for post in posts offset:2 %}
+<!-- Rest of ToC -->
 <li class="row">
   <div class="col col--group col--1of3">
     <h4>
@@ -6,15 +34,11 @@
       </a>
     </h4>
     <p class="metadata">
-      {% assign words = post.content | number_of_words %}
-      {% if words < 360 %}
-        <em>1 min read</em>
-      {% else %}
-        <em>{{ words | divided_by:180 }} mins read</em>
-      {% endif %}
+      {% include post-readtime.html %}
     </p>
   </div>
   <p class="col col--group col--2of3">
     {{ post.description }}
   </p>
 </li>
+{% endfor  %}

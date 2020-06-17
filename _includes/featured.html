@@ -1,0 +1,20 @@
+<li class="toc__featured">
+  <div class="row">
+    <h4 class="col col--2of3 col--group">
+      <a href="{{ post.permalink }}" class="toc__link">
+        {{ post.title }}
+      </a>
+    </h4>
+    <p class="metadata col col--1of3 col--group">
+      {% assign words = post.content | number_of_words %}
+      {% if words < 360 %}
+        <em>1 min read</em>
+      {% else %}
+        <em>{{ words | divided_by:180 }} mins read</em>
+      {% endif %}
+    </p>
+  </div>
+  <p class="col col--5of6 col--group">
+    {{ post.description }}
+  </p>
+</li>
