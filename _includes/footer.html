@@ -9,7 +9,7 @@
       <small>The code is open source on <a href="https://github.com/{{ site.author.github }}/infrastructure" target="_blank" rel="noopener">Github</a>.</small>
     </p>
     <p class="print-only">
-      <small>Downloaded from <code>{{ site.BASE_PATH }}{{ page.url }}</code></small>
+      <small>Downloaded from <code>{{ site.BASE_PATH }}/{{ page.url }}</code></small>
     </p>
   </div>
 
@@ -35,7 +35,7 @@
   // Copy to clipboard on click
   var clipboard = new ClipboardJS('.anchorjs-link', {
       text: function(trigger) {
-          return '{{ site.BASE_PATH }}' + '{{ page.url }}' + trigger.getAttribute('href');
+          return '{{ site.BASE_PATH }}/' + '{{ page.url }}' + trigger.getAttribute('href');
       }
   });
 
