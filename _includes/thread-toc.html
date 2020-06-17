@@ -1,14 +1,26 @@
 {% assign thread = page.permalink | remove: "/" %}
-{% if page.reversed %}
-{% assign posts = site.categories.[thread] | reverse %}
+
+{% if page.name contains "report-" %}
+{% assign thread_type = "categories" %}
 {% else %}
-{% assign posts = site.categories.[thread] %}
+{% assign thread_type = "tags" %}
+{% endif %}
+
+{% if page.reversed %}
+{% assign posts = site.[thread_type].[thread] | reverse %}
+{% else %}
+{% assign posts = site.[thread_type].[thread] %}
 {% endif %}
 
 {% for post in posts limit:1 %}
 <!-- Featured / latest post -->
 <li class="toc__featured">
   <div class="row">
+    {% if thread_type == "tags" and post.category %}
+    <p class="label">
+      From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report
+    </p>
+    {% endif %}
     <h4 class="col col--2of3 col--group">
       <a href="{{ post.permalink }}" class="toc__link">
         {{ post.title }}
@@ -37,8 +49,11 @@
       {% include post-readtime.html %}
     </p>
   </div>
-  <p class="col col--group col--2of3">
-    {{ post.description }}
-  </p>
+  <div class="col col--group col--2of3">
+    <p>{{ post.description }}</p>
+    {% if thread_type == "tags" and post.category %}
+    <p class="metadata">From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report</p>
+    {% endif %}
+  </div>
 </li>
 {% endfor  %}
