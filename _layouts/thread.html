@@ -11,7 +11,10 @@
         </a>
         <p class="label">
           {% if page.name contains "report-" %}
-          Report
+          Report<br/>
+          <time datetime="{{ page.date | date: '%F' }}">
+            {{ page.date | date: "%b %e, %Y" }}
+          </time>
           {% elsif page.name == "latest.html" %}
 
           {% else %}
