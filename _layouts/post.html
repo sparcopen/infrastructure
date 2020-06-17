@@ -44,7 +44,7 @@
         <h2>Related</h2>
         <ul class="tags">
           {% for tag in page.tags %}
-          <li class="tag"><a href="../{{ tag }}">{{ tag | replace: '-',' '}}</a></li>
+          <li class="tag"><a href="../{{ tag }}">{{ tag | replace: '-',' ' | capitalize }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}
