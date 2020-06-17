@@ -54,7 +54,7 @@
   }
 
   &--join {
-    margin-left: -40px;
+    margin: 0 0 $spacing-04 -40px; // bleed to the left
 
     h2 {
       display: inline;
