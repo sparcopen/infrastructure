@@ -35,6 +35,11 @@
             Contents
             {% endif %}
           </h2>
+          {% if page.pdf %}
+          <a href="{{ page.pdf }}" class="button button--cta" download>
+            Download
+          </a>
+          {% endif %}
           <ul class="toc toc--with-feature col--group">
             {% include thread-toc.html %}
           </ul>
