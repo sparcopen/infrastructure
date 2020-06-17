@@ -27,10 +27,6 @@ permalink: /about
   </figure>
 
   <figure class="portrait">
-    <img src="{{ site.BASE_PATH }}/media/team/lese.png" alt="Portrait of Lese Fandel"/>
-  </figure>
-
-  <figure class="portrait">
     <img src="{{ site.BASE_PATH }}/media/team/nick.png" alt="Portrait of Nick Shockey"/>
   </figure>
 
