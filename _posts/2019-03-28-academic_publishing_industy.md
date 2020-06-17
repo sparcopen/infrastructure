@@ -66,7 +66,6 @@ financial aid, as well as the used textbook market, tended to mitigate the probl
 
 {% include join-box.html %}
 
-
 The move by publishers into the core research and teaching missions of colleges and
 universities, with tools aimed at evaluating productivity and performance, means that
 the academic community could lose control over vast areas of its core activities. In

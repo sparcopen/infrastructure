@@ -57,6 +57,8 @@ The outcome of the crisis for courseware publishers is much harder to forecast, 
 
 A crisis that extends into the second half of 2020 will likely lead to a drop in enrollment, as many academic institutions may choose to keep their physical doors closed for another semester, making it more likely for students to defer their attendance until they can return to campus. Historically, recessions have been good for college enrollment (and for textbook publishers): Pearson estimated, in the aftermath of the 2009 recession and the subsequent recovery, that a 1% change in the US unemployment rate would drive a 3% change (in the same direction) in college enrollment. However, this relationship is likely to break down if college doors remain closed.
 
+{% include join-box.html %}
+
 A significant number of students may be willing to shift to online courses and even online degrees, but it is unclear how many colleges are equipped to run a fully online program, including tutoring students, administering exams securely, etc. Some publishers (Pearson, Wiley) have strong capabilities in running online college programs, and may benefit more than others from enabling colleges to move to offering online classes and degrees. On March 23rd, 2020, Pearson issued a trading update indicating that it was seeing a substantial increase of interest in virtual schooling. The trading update referred specifically to Connections Academy, its K-12 virtual school, but the same trends may unfold for higher education as well. We will come back to the issues posed by a significant shift to online.
 
 ### The Impact of Debt on Academic Publishers

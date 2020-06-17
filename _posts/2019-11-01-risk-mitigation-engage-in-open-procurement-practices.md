@@ -17,4 +17,6 @@ Demanding the removal of NDAs from data and data analytics contracts is an impor
 
 Other important best practices in data procurement include retention of data ownership, data migration requirements, perpetual post-cancellation rights to output of data analytics, the preference (or even the mandate) for open source tools and software, the prohibition of disclosure of individual data to third parties (even if anonymized), the notification of subpoenas and government requests for data, and only working with vendors with industry-recognized security certifications.
 
+{% include join-box.html %}
+
 CDOs or task forces should coordinate with the institution’s legal office to establish open procurement policies and develop a framework under which exceptions are permissible. Institutions are likely to be confronted with situations where a vendor may offer a better deal in exchange for an NDA, and it is important to weigh the short term gain versus the long term benefit of a level playing field.

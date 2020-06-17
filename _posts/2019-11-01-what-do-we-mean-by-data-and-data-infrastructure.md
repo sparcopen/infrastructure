@@ -24,6 +24,8 @@ It is important to distinguish upfront between metrics, which refers to what is 
 
 Metrics should be controlled by academic institutions. It is their responsibility – and theirs alone – to ensure that evaluation is performed on the basis of multiple factors that align with the institution’s mission and values. This document does not advocate for academic institutions to choose any specific metric, but rather simply that they deliberately choose what metrics are used, rather than simply relying on those sold by commercial vendors. Developing metrics may be complex, resource-intensive, and unique to each institution’s context. However, the sharing of best practices across like-minded institutions may facilitate the establishment of a number of metrics which could become de facto standards.
 
+{% include join-box.html %}
+
 Algorithms, on the other hand, do not necessarily need to be controlled by each academic institution, but must be carefully understood and monitored. It is critical that algorithms are as transparent as possible, so that they can be fully analyzed and held accountable.
 
 So long as an algorithm remains a “black box,” an institution is powerless to understand whether it may contain biases that are incompatible with its values, or flaws that could lead to costly mistakes.

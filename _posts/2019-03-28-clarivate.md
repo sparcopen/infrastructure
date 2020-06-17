@@ -18,6 +18,7 @@ The sale price ($3.55 billion) implied a valuation of about 11.5x 2017 EBITDA ($
 
 When Thomson Reuters owned the science business, it kept it separate for many years from its other assets in the space (healthcare and IP), pursuing a strategy narrowly aimed at serving libraries and academic institutions with leading tools which would be neutral in the eyes of its customers and the scholarly communications industry. After the disposal of most of the healthcare assets in 2012, it became apparent that there was an opportunity to consolidate science and intellectual property in one group, with the view of offering, over time, products which bridged data on basic research with data on commercial applications.
 
+{% include join-box.html %}
 
 It is unclear to what extent the new owners of the business support this strategy. Despite the high level of debt, the company has made two acquisitions aimed at modernizing its research offerings: Kopernio, which is integrated into Web of Science, and Publons, which fits with ScholarOne, the manuscript management system. However, neither of these upend the company’s strategy as a neutral data analytics supplier to researchers and librarians. For many smaller publishers that are unable to compete with the investment budget of Elsevier, Clarivate offers the ideal partner to enhance their services.
 

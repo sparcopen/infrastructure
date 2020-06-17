@@ -88,6 +88,8 @@ We think that there are two different sets of responses. The first set is aimed 
 
 A second set of responses will require individual institutions to decide among trade- offs. For example, using data analytics to drive the admissions process is less expensive than hiring a large staff. Different institutions may choose different levels of human intervention to balance budget and cultural priorities. Similarly, different research institutions may choose different balances between commercial exploitation of intellectual property and funding of research with limited commercial upside. Some universities will support community solutions to these issues; others will be skeptical. In a separate document, we will offer an array of solutions and help individual institutions consider these issues.
 
+{% include join-box.html %}
+
 Alternatively, universities may consider pursuing antitrust cases against the largest suppliers. Whether such a course would succeed is unknown. To the extent that research intelligence tools are based on platforms for research dissemination and that there is a similar integration between digital courseware and data analytics tools among courseware publishers, it may be possible to argue that that there should be remedies. Whether the academic community has appetite for such strategy remains to be seen.
 
 Finally, institutions could respond by adopting community-owned solutions. This could take many forms -- acquire existing assets, sharing the costs of maintaining existing institutions-owned tools, or jointly developing new ones. We think that this approach has much merit and should be carefully studied.

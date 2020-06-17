@@ -2,7 +2,7 @@
 layout: post
 title: Emerging Concerns&#58; A Shift from Research Publishing to Research Assessment
 category: 2020-update
-tags: 
+tags:
 description:
 permalink: /2020-update/shift-from-research-publishing
 date: 2020-06-17 07:00:00
@@ -18,7 +18,8 @@ These two announcements were largely ignored by the media, but we believe that t
 
 2. **Excessive control.** Perhaps the greatest source of concern is the statement contained in the Elsevier/NETE press release highlighting the aspiration to offer “seamless solutions for managing research information.” It is laudable to pursue interoperability across research information systems, but it is risky to put these capabilities into the hands of one company which may find itself at the center (and perhaps in control) of a large percentage of all research dissemination and assessment data flows.
 
-In general, the academic community should approach any companies driving the definition of research evaluation methodologies and/or performing actual assessments when they have clear conflicts of interest with a healthy dose of skepticism. In the case of ICSR, these concerns are heightened by the announcement in March 2020 that it will operate a computational platform, ICSR Lab, which will host researchers wanting to analyze large data sets (including SCOPUS and PlumX, but also their own). 
+In general, the academic community should approach any companies driving the definition of research evaluation methodologies and/or performing actual assessments when they have clear conflicts of interest with a healthy dose of skepticism. In the case of ICSR, these concerns are heightened by the announcement in March 2020 that it will operate a computational platform, ICSR Lab, which will host researchers wanting to analyze large data sets (including SCOPUS and PlumX, but also their own).
+
+{% include join-box.html %}
 
 Users of ICSR Lab will maintain ownership of their own data sets, but they must grant ICSR and Elsevier the right to use the data fed by researchers “for the purpose of developing and maintaining the ICSR Lab and related services,” a formulation that is vague enough to allow ICSR (and possibly Elsevier) a wide and potentially unlimited range of uses. At a minimum, Elsevier and ICSR will have access to a significant amount of analytical work on science assessment and be in a position to affect the outcome of research projects on science assessment.
-

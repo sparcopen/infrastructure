@@ -22,6 +22,8 @@ Some of the key strategic themes that can be covered in strong privacy policies 
 
 4. Ensuring students are adequately informed of the possible uses of data collected through digital courseware, access cards, library records, etc. before using these services. This is especially important where the use of a specific product, system, or tool is required for a student’s coursework or campus life.
 
+{% include join-box.html %}
+
 5. Providing pathways for students to establish their own privacy preferences with digital services, particularly digital courseware. Students should be able to “opt- in” by category of usage (adaptive learning, usage logging, etc.) and the default position should be that digital courseware grants the same degree of anonymity as a print textbook.
 
 6. Ensuring that any contract with a third party that involves the collection of student or faculty data clearly stipulates data use, ownership, and migration terms. Data and information provided, generated, derived, or otherwise created through any service should remain the sole property of the institution or students and faculty themselves, and all uses of this data should require approval. This includes the obvious steps of prohibiting the re-licensing or selling data, but also the use of the data (even if de-identified) in product development, marketing, or profiling.

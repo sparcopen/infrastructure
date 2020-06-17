@@ -2,7 +2,7 @@
 layout: post
 title: Emerging Concerns&#58; The Bigger Deal
 category: 2020-update
-tags: 
+tags:
 description:
 permalink: /2020-update/the-bigger-deal
 date: 2020-06-17 09:00:00
@@ -21,13 +21,15 @@ Finally, in December 2019, the Dutch press received leaked detailed information 
    The parties indicate that Dutch universities retain vendor neutrality. However, once a university uses the Elsevier tools, it has no incentive to also acquire tools from other vendors. As a result, this deal structure could inflict further damage on competition in the data analytics business. Elsevier, in fact, is the only company offering both journals and analytics; its competitors in data analytics simply cannot match this offer. Clarivate, Academic Analytics, and Digital Science, among others, sell products that compete directly with Elsevier’s data analytics, but it is difficult to justify acquiring the products of multiple vendors because of cost duplication and because tools providing different recommendations generate administrative complexity. It is difficult to see how Clarivate, Digital Science or Academic Analytics can match the package offered by Elsevier and remain competitive.  
 
    Arguably, this may lead to consolidation between publishers and data analytics companies, with each leading publisher merging with an analytics company (for example, it would appear natural to bring together Springer Nature Group with Digital Science). Even so, the Elsevier publishing contract is often the largest one a library signs with journal publishers, and therefore there will be an incentive for libraries and consortia to sign a “Bigger Deal” with Elsevier rather than with any other company.
-   
+
 3. **Reduced competition will negatively impact customer leverage.** With less competition, universities may have fewer options on all terms and conditions of their contracts. Spending is one possible area of concern, but so are issues around the transparency of algorithms, the retention of ownership of the data, the retention of the right to use outputs when contracts are discontinued, non-disclosure agreements and other clauses that have historically penalized academic institutions in their dealings with scholarly publishers. In a market with robust competition, academic institutions may obtain favorable conditions on these issues; however, in a quasi-monopoly, that appears unlikely.
 
 4. **This deal structure may be bad for the health of scholarly publishing.** Historically, critics have been incensed by the high profitability of Elsevier and other large publishers of scholarly journals. However, should most or all revenue growth for Elsevier start to be driven by data analytics, amid expectations that “zero revenue growth” becomes the norm across the scholarly journal industry, there would be margin pressure on smaller publishers. In turn, this would reduce the availability of capital to fund new technologies, new journals, etc.  
 
    In the near term, some critics of commercial publishers might rejoice in these difficulties; paradoxically, however, Elsevier is best equipped to deal with “zero revenue growth” and would suffer less than anyone else (and perhaps even profit more) by shifting revenue and profits growth away from publishing and into data analytics. It is the smaller publishers and scholarly societies who would be left in the most precarious financial position.
-   
+
+   {% include join-box.html %}
+
 5. **Spending is the least relevant issue.** While the total cost of data and data analytics is likely to go up if the business becomes less competitive over time, this is the least significant problem. The real problem posed by a monopoly or quasi-monopoly on data analytics is the loss of diversity.  
 
    For example: one company (and one algorithm) may heavily influence decisions on which departments should grow in size and budget, which research projects should be funded, who should be promoted, etc. As we know, algorithms contain errors and biases, and those errors and biases could affect a vast amount of academic research. In addition, chasing productivity improvements as measured by a single vendor could well lead to an “arms race” with no discernible long-term gain for the participants. Senior administrators know only too well the behavior triggered by college and university rankings even among the most prestigious academic institutions. Maintaining and encouraging diversity is necessary for reasons that go well beyond spending.  

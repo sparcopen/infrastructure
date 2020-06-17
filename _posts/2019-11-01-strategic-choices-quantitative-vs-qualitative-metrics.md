@@ -13,12 +13,8 @@ Some institutions are already critically reevaluating how they use quantitative 
 
 >“No more procedures and processes with always the same templates, metrics and criteria which lump everyone together” and “The model must provide a response to the complaint of many young professors that quantitative parameters are predominant in the evaluation process. The well-known and overwhelming 'publication pressure' is the most prominent exponent of this. Ghent University is deliberately choosing to step out of the rat race between individuals, departments and universities. We no longer wish to participate in the ranking of people”.
 
-More broadly, the the San Francisco Declaration on Research Assessment (DORA)[^11] and the Leiden manifesto[^12] provide additional valuable frameworks on how to think about research assessment and should be viewed as a valuable starting point on how to transform and enrich the assessment process of faculty and researchers. It may be necessary to also define appropriate metrics to address the complexities of interdisciplinary work, which often are not recognized through traditional metrics.
+More broadly, the the [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/)[^11] and the [Leiden manifesto](http://www.leidenmanifesto.org/) provide additional valuable frameworks on how to think about research assessment and should be viewed as a valuable starting point on how to transform and enrich the assessment process of faculty and researchers. It may be necessary to also define appropriate metrics to address the complexities of interdisciplinary work, which often are not recognized through traditional metrics.
+
+{% include join-box.html %}
 
 The debate over metrics also extends to evaluation in other areas of campus life, including academic programs, grading, and return on investment for campus programs. While academic institutions may not be ready to altogether abandon the usage of quantitative metrics to evaluate their faculty, they should consider engaging in a genuine debate on the relative weight that they place on quantitative vs. qualitative assessment, and whether the quantitative metrics they use are representative of the objectives of the institution or just happen to be convenient because they are easily available and easily comparable.
-
-***
-
-[^11]: [https://sfdora.org/](https://sfdora.org/)
-
-[^12]: [http://www.leidenmanifesto.org/](http://www.leidenmanifesto.org/)

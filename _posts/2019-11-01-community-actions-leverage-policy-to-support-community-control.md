@@ -20,6 +20,8 @@ In both the U.S. and Canada, higher education is closely tied to the state or pr
 
 There are also possible actions that can be considered under existing antitrust law. Both the scholarly communications and courseware publishing markets have become increasingly concentrated in recent years, despite concerns raised within the academic community. The rise of data analytics adds another layer of concern: if the economic model of digital publishing favors oligopolies, that of data analytics favors the rise of monopolies. As our experience of social networks and search engines demonstrates, the future of research and education could end up being defined by singular firms with excessive market power.
 
+{% include join-box.html %}
+
 The recent decision of the Department of Justice to initiate an investigation into the practices of leading tech companies suggest that the view of regulators over these issues may evolve, particularly in regard to the collection and usage of data. While it is early days, the academic community should monitor how regulators (and the courts) decide on concentration of data and data analytics services and their ties to the provision of other services and – if the situation demands it – initiate or support antitrust actions at the appropriate point in time. The community can also work collectively to take proactive antitrust action by filing comments with antitrust enforcement agencies or working actively to oppose mergers.
 
 
