@@ -16,7 +16,7 @@
   }
 
   &__links {
-    margin-top: $spacing-04;
+    margin-top: $spacing-03;
     font-weight: 800;
     @include font-sans;
 
@@ -55,18 +55,19 @@
 
   &--join {
     margin: 0 0 $spacing-04 -40px; // bleed to the left
+    line-height: 1.65;
+    @include font-sans;
+    @include typescale-06;
 
     h2 {
       display: inline;
       font-size: 1em;
       font-weight: 800;
-      line-height: 1.15;
 
       a {
         border-bottom: 2px solid $black;
         color: $black;
         text-decoration: none;
-        @include font-serif;
       }
     }
 
