@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Landscape Analysis
+title: Update to The Landscape Analysis
 category: 2020-update
 tags:
 description:
-permalink: /2020-update/the-landscape-analysis
+permalink: /2020-update/update-to-the-landscape-analysis
 date: 2020-06-17 03:00:00
 ---
 
