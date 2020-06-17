@@ -35,6 +35,25 @@
       list-style: none;
     }
   }
+
+  &__featured {
+    font-size: 22px;
+
+    h4 {
+      margin-bottom: 0;
+      @include typescale-01;
+    }
+
+    .metadata {
+      margin-bottom: 0;
+      align-self: flex-end;
+      text-align: right;
+    }
+
+    &-desc {
+      margin-top: $spacing-05;
+    }
+  }
 }
 
 .toc__link {
