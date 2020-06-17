@@ -10,7 +10,11 @@
           <span class="sr-only">Return to homepage</span>
         </a>
         <p class="label">
+          {% if page.name contains "report-" %}
           Report
+          {% else %}
+          Topic
+          {% endif %}
         </p>
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
