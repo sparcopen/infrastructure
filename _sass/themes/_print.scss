@@ -1,7 +1,7 @@
 @media print {
 
   body, h1, h2, h3, h4, h5, h6, ol, ul, li, div, span, p, section, article, blockquote, aside, main, header {
-    // really ugly to make sure that text doesn’t get cut off 
+    // really ugly to make sure that text doesn’t get cut off
     display: block !important;
     width: auto !important;
     float: none !important;
@@ -56,6 +56,6 @@
   .sr-only,
   .infobox--join,
   .button {
-    display: none;
+    display: none !important;
   }
 }
