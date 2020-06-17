@@ -1,12 +1,15 @@
 <footer class="row page-footer">
   <div class="col col--2of3 col--group">
-    {% include svg/cc.svg %}
-    {% include svg/by.svg %}
     <p>
-      <small>Content is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution 4.0 International license</a>.</small>
-    </p>
-    <p>
-      <small>The code is open source on <a href="https://github.com/{{ site.author.github }}/infrastructure" target="_blank" rel="noopener">Github</a>.</small>
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener" title="Content is licensed under a Creative Commons Attribution 4.0 International license.">
+        {% include svg/cc.svg %}
+        {% include svg/by.svg %}
+      </a>
+      <a>
+        <a href="https://github.com/{{ site.author.github }}/infrastructure" target="_blank" rel="noopener" title="The code is open source on Github.">
+          {% include svg/github.svg %}
+        </a>
+      </a>
     </p>
     <p class="print-only">
       <small>Downloaded from <code>{{ site.BASE_PATH }}/{{ page.url }}</code></small>

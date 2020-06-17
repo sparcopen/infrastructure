@@ -6,15 +6,19 @@
   > .col {
     align-self: flex-end;
   }
+
+  a {
+    text-decoration: none;
+  }
+
+  svg {
+    height: $spacing-04;
+    width: auto;
+  }
 }
 
 .page-footer__logo {
   margin: 0 0 $spacing-04 0;
   text-align: right;
-
-  svg {
-    height: $spacing-03;
-    width: auto;
-  }
 
 }
