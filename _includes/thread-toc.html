@@ -60,7 +60,7 @@
       {% endif %}
 
       {% if thread_type == "tags" and post.category %}
-      <p class="metadata">From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report, {% include post-date.html %}.</p>
+      <p class="metadata">From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report. <br/>Published on {% include post-date.html %}.</p>
       {% endif %}
     </div>
   </article>
