@@ -55,7 +55,10 @@
       </p>
     </header>
     <div class="col col--group col--2of3">
+      {% if post.description %}
       <p>{{ post.description }}</p>
+      {% endif %}
+      
       {% if thread_type == "tags" and post.category %}
       <p class="metadata">From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report</p>
       {% endif %}

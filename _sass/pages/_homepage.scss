@@ -1,11 +1,13 @@
 .homepage {
 
   .cover {
+    padding-bottom: $spacing-05;
     margin-bottom: $spacing-05;
     min-height: 100vh;
     align-content: center;
     background-color: $black;
     color: $white;
+    font-size: 1em * 1.10;
   }
 
   .cover__heading,
@@ -29,10 +31,11 @@
   }
 
   .cover__heading {
-    padding-bottom: $spacing-06;
+    padding-bottom: $spacing-05;
 
     @media (min-width: 768px) {
       flex-direction: row;
+
       &:after {
         position: absolute;
         left: 50vw;
@@ -70,7 +73,7 @@
 
   .cover__content {
     align-self: flex-end;
-    margin-top: $spacing-04;
+    margin: $spacing-03 0;
 
     p:first-of-type:first-letter {
       padding-right: $spacing-02;
