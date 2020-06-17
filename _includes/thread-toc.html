@@ -6,7 +6,9 @@
 {% assign thread_type = "tags" %}
 {% endif %}
 
-{% if page.reversed %}
+{% if page.name == "latest.html" %}
+{% assign posts = site.posts %}
+{% elsif page.reversed %}
 {% assign posts = site.[thread_type].[thread] | reverse %}
 {% else %}
 {% assign posts = site.[thread_type].[thread] %}
@@ -15,12 +17,12 @@
 {% for post in posts limit:1 %}
 <!-- Featured / latest post -->
 <li class="toc__featured">
+  {% if thread_type == "tags" and post.category %}
+  <p class="label">
+    From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report
+  </p>
+  {% endif %}
   <div class="row">
-    {% if thread_type == "tags" and post.category %}
-    <p class="label">
-      From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report
-    </p>
-    {% endif %}
     <h4 class="col col--2of3 col--group">
       <a href="{{ post.permalink }}" class="toc__link">
         {{ post.title }}
@@ -36,8 +38,8 @@
 </li>
 {% endfor %}
 
-{% for post in posts offset:2 %}
 <!-- Rest of ToC -->
+{% for post in posts offset:2 %}
 <li class="row toc__item">
   <div class="col col--group col--1of3">
     <h4>
