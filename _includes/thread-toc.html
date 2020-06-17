@@ -17,21 +17,21 @@
 {% for post in posts limit:1 %}
 <!-- Featured / latest post -->
 <li class="toc__featured">
-  {% if thread_type == "tags" and post.category %}
-  <p class="label">
-    From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report
-  </p>
-  {% endif %}
-  <div class="row">
-    <h4 class="col col--2of3 col--group">
+  <header>
+    {% if thread_type == "tags" and post.category %}
+    <p class="label">
+      From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report
+    </p>
+    {% endif %}
+    <h4>
       <a href="{{ post.permalink }}" class="toc__link">
         {{ post.title }}
       </a>
     </h4>
-    <p class="col col--1of3 col--group metadata">
+    <p class="metadata">
       {% include post-readtime.html %}
     </p>
-  </div>
+  </header>
   <p class="col col--5of6 col--group toc__featured-desc">
     {{ post.description }}
   </p>
