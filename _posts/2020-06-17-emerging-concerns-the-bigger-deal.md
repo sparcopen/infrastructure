@@ -1,0 +1,43 @@
+---
+layout: post
+title: Emerging Concerns&#58; The Bigger Deal
+category: 2020-update
+tags: 
+description:
+permalink: /2020-update/the-bigger-deal
+date: 2020-06-17 09:00:00
+---
+
+Finally, in December 2019, the Dutch press received leaked detailed information on a deal that Elsevier was about to sign with Dutch academic and research consortia.[^11] The general terms of the deal included a zero increase in total spending for access to subscriptions and on publishing articles in open access, in exchange for the broad adoption of Elsevier’s data analytics tools in Dutch universities. A few days later, a framework agreement was signed, with the final agreement signed at the end of May 2020. Although the full financial terms and conditions are not known, we have no reason to doubt the general terms highlighted in the press leaks. This raises several concerns:
+
+1. **Linking publishing and data contracts is deeply problematic.** It is easy to understand why Elsevier would like to bundle publishing and data contracts. Elsevier is under pressure from the academic community to lower its future revenue growth from journals. In addition, while the transition to open access may prove less disruptive than feared, there is still uncertainty over both the endgame of this transition and the complexity of managing a protracted transition phase. Contracts like this provide some degree of “insurance” from the risks posed by these issues.  
+
+   Academic institutions, however, have no reason to go along just because the contract is in the interest of Elsevier. These products serve different purposes, are acquired by different entities within academic institutions, and compete with different alternatives. By allowing Elsevier to link two separate products together, the academic community limits its future flexibility to cancel or discontinue *either* product. It is questionable enough to be required to acquire bundles of journals containing titles of little interest to the research community in order to gain access to the leading Elsevier journals, but it is even more questionable to be asked to sign contracts that make access to *Cell* or the *Lancet* contingent in some way on purchasing a research management system like *Pure*.
+
+2. **This deal structure is bad for competition in data analytics.** Data analytics businesses are naturally likely to become concentrated oligopolies or monopolies. In scholarly publishing, there are cost areas such as sales, administration and IT that benefit from company consolidation, but many other costs (editing and peer review administration, for example) are dependent on the number of articles published. As a result, publishing has concentrated, but there are still many publishers, particularly in niche positions, providing diversity and alternatives. Data analytics, on the other hand, is naturally a highly concentrated oligopoly (or even monopoly) because users want access to the best data and analytics or to the broadest reach, regardless of cost.  
+
+   Search engines or social networks provide compelling examples of just how powerful these oligopolies have become even in the consumer market.  
+
+   The parties indicate that Dutch universities retain vendor neutrality. However, once a university uses the Elsevier tools, it has no incentive to also acquire tools from other vendors. As a result, this deal structure could inflict further damage on competition in the data analytics business. Elsevier, in fact, is the only company offering both journals and analytics; its competitors in data analytics simply cannot match this offer. Clarivate, Academic Analytics, and Digital Science, among others, sell products that compete directly with Elsevier’s data analytics, but it is difficult to justify acquiring the products of multiple vendors because of cost duplication and because tools providing different recommendations generate administrative complexity. It is difficult to see how Clarivate, Digital Science or Academic Analytics can match the package offered by Elsevier and remain competitive.  
+
+   Arguably, this may lead to consolidation between publishers and data analytics companies, with each leading publisher merging with an analytics company (for example, it would appear natural to bring together Springer Nature Group with Digital Science). Even so, the Elsevier publishing contract is often the largest one a library signs with journal publishers, and therefore there will be an incentive for libraries and consortia to sign a “Bigger Deal” with Elsevier rather than with any other company.
+   
+3. **Reduced competition will negatively impact customer leverage.** With less competition, universities may have fewer options on all terms and conditions of their contracts. Spending is one possible area of concern, but so are issues around the transparency of algorithms, the retention of ownership of the data, the retention of the right to use outputs when contracts are discontinued, non-disclosure agreements and other clauses that have historically penalized academic institutions in their dealings with scholarly publishers. In a market with robust competition, academic institutions may obtain favorable conditions on these issues; however, in a quasi-monopoly, that appears unlikely.
+
+4. **This deal structure may be bad for the health of scholarly publishing.** Historically, critics have been incensed by the high profitability of Elsevier and other large publishers of scholarly journals. However, should most or all revenue growth for Elsevier start to be driven by data analytics, amid expectations that “zero revenue growth” becomes the norm across the scholarly journal industry, there would be margin pressure on smaller publishers. In turn, this would reduce the availability of capital to fund new technologies, new journals, etc.  
+
+   In the near term, some critics of commercial publishers might rejoice in these difficulties; paradoxically, however, Elsevier is best equipped to deal with “zero revenue growth” and would suffer less than anyone else (and perhaps even profit more) by shifting revenue and profits growth away from publishing and into data analytics. It is the smaller publishers and scholarly societies who would be left in the most precarious financial position.
+   
+5. **Spending is the least relevant issue.** While the total cost of data and data analytics is likely to go up if the business becomes less competitive over time, this is the least significant problem. The real problem posed by a monopoly or quasi-monopoly on data analytics is the loss of diversity.  
+
+   For example: one company (and one algorithm) may heavily influence decisions on which departments should grow in size and budget, which research projects should be funded, who should be promoted, etc. As we know, algorithms contain errors and biases, and those errors and biases could affect a vast amount of academic research. In addition, chasing productivity improvements as measured by a single vendor could well lead to an “arms race” with no discernible long-term gain for the participants. Senior administrators know only too well the behavior triggered by college and university rankings even among the most prestigious academic institutions. Maintaining and encouraging diversity is necessary for reasons that go well beyond spending.  
+
+   In addition, lack of diversity may influence “what” academic institutions measure, not just “how.” If data analytics becomes a quasi-monopoly, what is for sale may well become the metrics that academic institutions use to evaluate their research, as happened with the Impact Factor. As we highlighted earlier, Elsevier is already attempting to play a leading role in defining standards for research assessment. If unchecked, Elsevier may well find itself in the position of defining, on behalf of the academic community, what constitutes good research and then selling the tools to perform the actual assessment.
+
+For all these reasons, agreements like the Elsevier/Dutch Institution deal are highly problematic. Institutions and consortia should pause to consider and robustly debate all the ramifications of these decisions, before pursuing what may prove to be partial and short-lived benefits.
+
+
+
+***
+
+[^11]: [https://www.scienceguide.nl/2019/11/leaked-document-on-elsevier-negotiations-sparks-controversy/](https://www.scienceguide.nl/2019/11/leaked-document-on-elsevier-negotiations-sparks-controversy/)
