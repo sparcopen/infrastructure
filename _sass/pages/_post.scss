@@ -53,6 +53,10 @@
       }
     }
 
+    li .anchorjs-link {
+      margin-left: -2.75em !important; // Ugly but need to override anchorJS
+    }
+
     .anchorjs-link {
       font-size: 1rem;
       @include font-sans;
