@@ -1,0 +1,25 @@
+.anchorjs-link {
+  /* Display anchor links as tooltip */
+  &:after {
+    display: inline-block;
+    padding: $spacing-01 $spacing-02;
+    transition: opacity .25s linear;
+    border-radius: $spacing-01;
+    background-color: $grey;
+    vertical-align: .8ex;
+    font-weight: 300;
+    color: $white;
+    font-size: 10px;
+    @include font-sans;
+  }
+
+  /* Tooltip arrow */
+  &:before {
+    content: "";
+    display: inline-block;
+    border-top: .3ex solid transparent;
+    border-right: .5ex solid $grey;
+    border-bottom: .3ex solid transparent;
+    vertical-align: .35ex;
+  }
+}
