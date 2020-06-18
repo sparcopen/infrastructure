@@ -28,7 +28,7 @@ Finally, in December 2019, the [Dutch press received leaked detailed information
 
    In the near term, some critics of commercial publishers might rejoice in these difficulties; paradoxically, however, Elsevier is best equipped to deal with “zero revenue growth” and would suffer less than anyone else (and perhaps even profit more) by shifting revenue and profits growth away from publishing and into data analytics. It is the smaller publishers and scholarly societies who would be left in the most precarious financial position.
 
-   {% include join-box.html %}
+{% include join-box.html %}
 
 5. **Spending is the least relevant issue.** While the total cost of data and data analytics is likely to go up if the business becomes less competitive over time, this is the least significant problem. The real problem posed by a monopoly or quasi-monopoly on data analytics is the loss of diversity.  
 
