@@ -66,3 +66,9 @@
     margin: $spacing-05 0;
   }
 }
+
+.page-sidebar-footer {
+  @media (min-width: 768px) {
+    margin-left: 33.3333333%;
+  }
+}
