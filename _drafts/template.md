@@ -41,11 +41,15 @@ and another list
 3. has
 4. numbers
 
+---
+
 ## Logo (image needs love)
 
 The logo is an inlined SVG image:
 
 {% include svg/logo.svg %}
+
+---
 
 ## Table (table needs love )
 
@@ -55,6 +59,8 @@ The logo is an inlined SVG image:
 | Data        | Data        | Data        | Data        |
 | Data        | Data        | Data        | Data        |
 | Data        | Data        | Data        | Data        |
+
+---
 
 ## Graphic
 
