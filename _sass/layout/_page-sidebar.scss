@@ -42,7 +42,9 @@
   }
 
   &__bleed {
-    margin-right: -16.6666667%;
+    @media (min-width: 768px) {
+      margin-right: -16.6666667%;
+    }
   }
 }
 
