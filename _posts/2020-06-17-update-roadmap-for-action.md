@@ -33,7 +33,7 @@ infrastructure.** We outlined earlier the issues posed by linking data analytics
 
 In the original Roadmap, we advocated for academic institutions to identify a list of “principles” as a basis for adopting appropriate data policies (Exhibit 2). It is unrealistic to argue that all these principles are equally nonnegotiable in an emergency (for example, demanding an independent audit of algorithms may be unrealistic in the current crisis).
 
-However, academic institutions should consider adopting three non negotiable principles, and demand – in parallel – that commercial vendors also support them if they want to operate with their community:
+However, academic institutions should consider adopting four non negotiable principles, and demand – in parallel – that commercial vendors also support them if they want to operate with their community:
 
 1. **Strong privacy protection.** Faculty and students should give informed consent to the collection of data and be entitled to an explanation as to how it will be used. They should also have a right to restrict processing to a specific list of tasks (without being forced to provide a blanket acceptance) and they should have a right to demand erasure after courses are completed. Individuals should also have a right to demand rectification of data that is wrong or incomplete. Within applicable laws, requests from any government for data should be notified immediately to the individuals involved and the data handed over only in the presence of a legitimate court order.
 
@@ -41,7 +41,7 @@ However, academic institutions should consider adopting three non negotiable pri
 
 3. **Human control.** There should be a right to opt out of AI-driven decisions and demand a human process.
 
-{% include join-box.html %}
+4. **Accessibility and Equity.** There should be explicit indications that data and data services are accessible to all relevant constituencies, with no barriers or impediments. There should be rights in place to demand that any biases that are identified, including when identified outside the institution (for example, by other academic institutions or independent auditors) are immediately notified and corrected."
 
 ### Strategy Actions
 
