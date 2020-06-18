@@ -72,7 +72,7 @@ Finally, the threat of a major recession has a significant and asymmetrical impa
 
 [^1]: [https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/the-economic-impact-ofcoronavirus-202003.html]( https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/the-economic-impact-ofcoronavirus-202003.html)
 
-[^2]: [https://www.bloomberg.com/news/articles/2020-03-22/fed-s-bullard-says-u-s-jobless-ratemay-soar-to-30-in-2q?utm_content=business&utm_medium=social&utm_campaign=socialfloworganic&cmpid=socialflow-twitter-business&utm_source=twitter]( https://www.bloomberg.com/news/articles/2020-03-22/fed-s-bullard-says-u-s-jobless-ratemay-soar-to-30-in-2q?utm_content=business&utm_medium=social&utm_campaign=socialfloworganic&cmpid=socialflow-twitter-business&utm_source=twitter)
+[^2]: [https://www.bloomberg.com/news/articles/2020-03-22/fed-s-bullard-says-u-s-jobless-ratemay-soar-to-30-in-2q](https://www.bloomberg.com/news/articles/2020-03-22/fed-s-bullard-says-u-s-jobless-ratemay-soar-to-30-in-2q)
 
 [^3]: [https://www.fool.ca/2020/05/04/coronavirus-recession-should-you-sell-your-stocks-now/]( https://www.fool.ca/2020/05/04/coronavirus-recession-should-you-sell-your-stocks-now/)
 
