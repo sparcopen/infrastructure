@@ -44,7 +44,7 @@
         {% if page.pdf %}
         <a href="{{ page.pdf }}" class="button" download>Download</a>
         {% else %}
-        <button id="print-btn" onClick="window.print()">Print</button>
+        <button id="printButton" onClick="window.print()">Print</button>
         {% endif %}
         {% if page.tags.size > 0 %}
         <h2>Related</h2>
