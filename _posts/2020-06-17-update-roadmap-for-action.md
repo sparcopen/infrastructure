@@ -41,6 +41,8 @@ However, academic institutions should consider adopting three non negotiable pri
 
 3. **Human control.** There should be a right to opt out of AI-driven decisions and demand a human process.
 
+{% include join-box.html %}
+
 ### Strategy Actions
 
 As we pointed out in the Roadmap for Action, this second category of actions is more complex, since it relates to decisions that will need to be made specifically based on each individual institution’s mission, culture and values. It also involves the establishment of an explicit, structured process to determine the position that each institution wants to take in regards to specific issues posed by the collection of data and the deployment of data analytics tools. Establishing such processes in the midst of a crisis is certainly complex. Running such processes will be more difficult at a time of campus closure, financial stress and planning uncertainty.
