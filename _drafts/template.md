@@ -23,6 +23,10 @@ As the project unfolded, we recognized the need for a range of potential solutio
 This is a line break, or `<br/>`  
 Created by inserting two spaces and a return
 
+Insert a _Join SPARC_ infobox anywhere in the text like this (make sure that there is no extra indentation or spaces before):
+
+{% include join-box.html %}
+
 ---
 
 ## Lists
