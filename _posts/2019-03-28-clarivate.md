@@ -16,6 +16,8 @@ Clarivate is the name the new private equity owners (Onex and Baring Asia) gave 
 
 Science and IP accounted for only 8% of Thomson Reuters revenues...
 
+![Thompson Reuters Revenue by Segment]({{ site.BASE_PATH }}/media/LA_Exhibit_5_real.png)
+
 ### Exhibit 6
 
 ...and, by 2016, its growth had slowed down considerably.
