@@ -3,7 +3,7 @@ layout: post
 title: Publicly Listed Companies
 category: 2020-update
 tags:
-description:
+description: The companies that are fully or partially owned by private equity (PE) companies (Springer Nature Group, McGraw-Hill Education and Cengage), all have significant debt.
 permalink: /2020-update/publicly-listed-companies
 date: 2020-06-17 04:00:00
 ---
