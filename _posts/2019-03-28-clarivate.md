@@ -10,7 +10,7 @@ date: 2019-03-29 08:00:00
 
 #### The Basics
 
-Clarivate is the name the new private equity owners (Onex and Baring Asia) gave to the assets previously owned by Thomson Reuters when they acquired them in 2016 (but management had already decided to sell it by 2015). In our view, Thomson Reuters decided to sell the business for two reasons: it was small, relative to its portfolio at the time (Exhibit 6), and it was not providing the same reliable mid-single digit revenue growth it had enjoyed until a few years earlier (Exhibit 7). In addition, the management of Thomson Reuters believed that changes in the journal business and the rise of OA would add to uncertainty over the future business model, potentially putting pressure on valuations. At the same time, the business’ high profitability meant that a sale would generate substantial amounts of cash.
+Clarivate is the name the new private equity owners (Onex and Baring Asia) gave to the assets previously owned by Thomson Reuters when they acquired them in 2016 (but management had already decided to sell it by 2015). In our view, Thomson Reuters decided to sell the business for two reasons: it was small, relative to its portfolio at the time (Exhibit 5), and it was not providing the same reliable mid-single digit revenue growth it had enjoyed until a few years earlier (Exhibit 6). In addition, the management of Thomson Reuters believed that changes in the journal business and the rise of OA would add to uncertainty over the future business model, potentially putting pressure on valuations. At the same time, the business’ high profitability meant that a sale would generate substantial amounts of cash.
 
 ### Exhibit 5
 
