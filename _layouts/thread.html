@@ -36,7 +36,7 @@
             {% endif %}
           </h2>
           {% if page.pdf %}
-          <a href="{{ page.pdf }}" class="button button--cta" download>
+          <a href="{{ site.BASE_PATH }}/media/pdf/{{ page.name | remove: '.html' }}.pdf" class="button button--cta" download>
             Download
           </a>
           {% endif %}
