@@ -3,7 +3,7 @@ layout: post
 title: Update to The Landscape Analysis
 category: 2020-update
 tags:
-description:
+description: The uncertainty surrounding COVID-19’s impact on research funding may well affect open access publishing specifically.
 permalink: /2020-update/update-to-the-landscape-analysis
 date: 2020-06-17 03:00:00
 ---
