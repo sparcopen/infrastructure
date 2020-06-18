@@ -49,10 +49,12 @@ The logo is an inlined SVG image:
 
 ## Table (table needs love )
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Header      | Header      | Header      | Header      |
+| ----------- | ----------- | ----------- | ----------- |
+| Data        | Data        | Data        | Data        |
+| Data        | Data        | Data        | Data        |
+| Data        | Data        | Data        | Data        |
+| Data        | Data        | Data        | Data        |
 
 ## Graphic
 
