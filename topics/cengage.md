@@ -1,6 +1,6 @@
 ---
 layout: thread
 title: Cengage
-description:
+description: Analysis of their latest moves, finances, and strategy. 
 permalink: /cengage
 ---

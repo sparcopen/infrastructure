@@ -1,6 +1,6 @@
 ---
 layout: thread
 title: Wiley
-description:
+description: Analysis of their latest moves, finances, and strategy.
 permalink: /wiley
 ---

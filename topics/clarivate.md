@@ -1,6 +1,6 @@
 ---
 layout: thread
 title: Clarivate
-description:
+description: Analysis of their latest moves, finances, and strategy. 
 permalink: /clarivate
 ---
