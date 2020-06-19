@@ -3,7 +3,7 @@ layout: post
 title: About the Report
 category: landscape-analysis
 tags:
-description:
+description: Commissioned in response to the growing trend of commercial acquisition of critical infrastructure in our institutions this report provides a comprehensive look at the current players in this arena, their strategies and potential actions, and the implications of these on the operations of our libraries and home institutions.
 permalink: /landscape-analysis/about-the-report
 date: 2019-03-29 17:00:00
 ---

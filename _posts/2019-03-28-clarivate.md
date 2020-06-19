@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Companies&#58; Clarivate
-category: landscape-analysis #understand-the-companies
+category: landscape-analysis 
 tags: clarivate
 description: Clarivate is the name the new private equity owners (Onex and Baring Asia) gave to the assets previously owned by Thomson Reuters when they acquired them in 2016 (but management had already decided to sell it by 2015).
 permalink: /landscape-analysis/clarivate

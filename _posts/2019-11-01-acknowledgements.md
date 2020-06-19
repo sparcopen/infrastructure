@@ -3,7 +3,7 @@ layout: post
 title: Acknowledgements
 category: roadmap-for-action
 tags:
-description:
+description: "We would like to acknowledge that the development of this publication was generously supported by grants from the Open Society Foundations and Arcadia – a charitable fund of Lisbet Rausing and Peter Baldwin."
 permalink: /roadmap-for-action/acknowledgements
 date: 2019-11-01 21:00:00
 ---

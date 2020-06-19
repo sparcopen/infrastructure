@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education Companies&#58; Other Publishers
-category: landscape-analysis #understand-the-companies
+category: landscape-analysis 
 tags: cengage
 description:
 permalink: /landscape-analysis/other-education-publisher

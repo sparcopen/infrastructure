@@ -2,7 +2,7 @@
 layout: post
 title: Update to the Roadmap for Action
 category: 2020-update
-tags:
+tags: risk-mitigation strategic-choices community-actions
 description:
 permalink: /2020-update/update-to-roadmap-for-action
 date: 2020-06-17 10:00:00
@@ -10,7 +10,7 @@ date: 2020-06-17 10:00:00
 
 ### New Responses in the Context of the COVID-19 Crisis
 
-Acting in conditions of high uncertainty is particularly difficult. Academic institutions do not know what will happen to their revenues and expenses in the next six to nine months, let alone a couple of years out, and anecdotal evidence suggests that library budgets will have to be repeatedly recast as 2020 progresses. Offering near-term relief and maintaining some degree of operational continuity is paramount, and makes any longerterm planning difficult. However, uncertainty will decrease over time, allowing academic institutions to refine economic forecasts. It is important to take steps now to help maintain viability in the near term, while offering options for launching strategic initiatives at a later stage. 
+Acting in conditions of high uncertainty is particularly difficult. Academic institutions do not know what will happen to their revenues and expenses in the next six to nine months, let alone a couple of years out, and anecdotal evidence suggests that library budgets will have to be repeatedly recast as 2020 progresses. Offering near-term relief and maintaining some degree of operational continuity is paramount, and makes any longerterm planning difficult. However, uncertainty will decrease over time, allowing academic institutions to refine economic forecasts. It is important to take steps now to help maintain viability in the near term, while offering options for launching strategic initiatives at a later stage.
 
 In the original Roadmap, we identified three classes of action. Below, we’ve provided additional actions that could help accomplish the twin goals of supporting near-term viability while laying the groundwork for future strategic initiatives:
 
@@ -21,7 +21,7 @@ These are actions that libraries, in particular, and academic institutions, in g
 1. **Limit cash outlays.** If there are subscription collection expirations, this is the time to avoid renewing them, regardless of the intention to renew at a later stage or not. Negotiations could be put on hold until librarians have better visibility on 1) their budget for the next academic year and 2) the likely outcome of the possible new mandate for OA for federally funded research in the US. The value of subscriptions could even decline substantially in the years to come as a result of regulatory developments in various countries, and maintaining flexibility seems particularly valuable now. In this environment, publishers will likely be eager to be seen as collaborating with academic institutions and to avoid a constant stream of cancellations news in the press, so they will probably be more willing to offer discounts to minimize public controversies.  
 
    We would also urge academic institutions to pursue alternatives before accepting inclusive access deals that raise total tuition costs for students and/or institutional spending (if their cost is wrapped into tuitions). OER is a practical alternative that limits total spending at a time when this issue is particularly urgent.
-   
+
 2. **Negotiate terms and conditions affecting sustainability.** Historically, the academic library community has focused a great deal of its relationships (and tensions) with publishers on the rising costs associated with subscription contracts. There are several other terms and conditions that should also be put on the table now; the following are all essential elements of sustainability that should be pursued: billing in local currency, retention of perpetual rights to subscribed content, default author retention of copyright, financial hardships clauses, and price recalibration clauses as open content increases. Most important, the academic community should rally around open identifiers, and demand that all the relevant data that drives the data infrastructure is consistently open. This would create, over time, a “more level” playing field for new participants in the academic data and data analytics industry, as they would be able to build services that use the same data as the existing services. ORCID and DOI are good examples of these identifiers, but more are needed linking them also to data sets, grants, etc.
 
 3.  **Avoid "bigger deals" and distribution agreements that penalize alternative
@@ -37,7 +37,7 @@ However, academic institutions should consider adopting four non negotiable prin
 
 1. **Strong privacy protection.** Faculty and students should give informed consent to the collection of data and be entitled to an explanation as to how it will be used. They should also have a right to restrict processing to a specific list of tasks (without being forced to provide a blanket acceptance) and they should have a right to demand erasure after courses are completed. Individuals should also have a right to demand rectification of data that is wrong or incomplete. Within applicable laws, requests from any government for data should be notified immediately to the individuals involved and the data handed over only in the presence of a legitimate court order.
 
-2. **Accountability.** There should be rights in place to demand remedy for any decisions that are made by algorithms, and there should be clearly identified and accessible processes in place to appeal decisions. 
+2. **Accountability.** There should be rights in place to demand remedy for any decisions that are made by algorithms, and there should be clearly identified and accessible processes in place to appeal decisions.
 
 3. **Human control.** There should be a right to opt out of AI-driven decisions and demand a human process.
 
@@ -56,7 +56,7 @@ A number of actions require such large efforts that only concerted action, susta
 1. **Support community initiatives on dissemination and data infrastructure.** Financial resources will shrink for the foreseeable future, penalizing new initiatives aimed at building the next generation of community-owned tools and infrastructure. Scarce financial resources should be pooled to achieve the most impact, rather than dispersed through individual library spending.  
 
    This is an ideal time to pool whatever resources are available, including, if possible, some of the savings from the cancellation of collections subscriptions, into open infrastructure initiatives (such as IOI) and library-supported platforms.
-   
+
 2. **Advocate for the immediate opening of all articles to text and data mining.** One of the lessons learned from this crisis is that text and data mining are becoming important tools in accelerating science. There is no morally defensible reason why such acceleration would be possible only to help treat COVID-19 patients. This is the time to ask publicly all publishers to relinquish text and data mining rights for all articles and to identify publicly any publishers refusing to do so.
 
 3. **Seek opportunities to acquire courseware publisher content in order to make it

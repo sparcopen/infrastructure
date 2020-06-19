@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Companies&#58; Springer Nature
-category: landscape-analysis #understand-the-companies
+category: landscape-analysis 
 tags: springer-nature
 description: Springer’s reluctance to enter the data analytics business may be driven by the $3.47 billion debt. The board and management team of are now in a tight spot.
 permalink: /landscape-analysis/springer-nature-group

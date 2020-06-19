@@ -3,7 +3,7 @@ layout: post
 title: Appendix&#58; Scholarly Journals
 category: 2020-update
 tags:
-description:
+description: The scholarly journals business is still on a path to raising its profitability, but pricing pressures will intensify.
 permalink: /2020-update/appendix-scholarly-journals
 date: 2020-06-17 13:00:00
 ---
@@ -21,9 +21,9 @@ Transformative agreements have been an increasingly significant topic of discuss
 * First, the publishers are going to ask for substantial price increases to agree to transformative agreements (both “read and publish” and “publish and read”) that really advance open access. This is perfectly rational: Elsevier reports that 15% of its journal revenues derive from corporate and individual subscriptions; these revenues can be expected to evaporate completely. It is rational for publishers to attempt to recoup these revenues, and this requires them to raise their charges to the academic sector by 20% on average.  
 
    In addition, transformative agreements are not being negotiated between one publisher and one institution, but over time and across a very large number of institutions. While “transformative” agreements are being negotiated with large numbers of institutions, many more are likely to remain outside such arrangements. Those “read” institutions will expect their subscription fees to decrease to reflect the open content, requiring that more be captured from “publish”-intensive institutions. While this may be equitable, it remains to be seen whether “publish” institutions will be able and willing to accept the radical reallocation of costs logically implied by transformative agreements. Every deal signed lowers the value of “read” subscriptions at all other institutions (because more of the content is available OA)– but the perception of that value is different for every institution. Hence, publishers need to protect themselves by offsetting that lost value via the institutions that sign ‘publish” deals.
-   
+
    It is no surprise that the Elsevier deal with Couperin, the French consortium of universities and research organizations, which was touted as leading to a decrease of subscription fees, has disappointed. The deal is not Plan S compliant; it is not even a real OA deal. Articles authored by researchers unwilling to pay APCs (even at the discounted rate offered by Elsevier) will remain under embargo for one year.
-   
+
 * Moreover, these deals are not homogenous, and – until standards emerge – they will continue to require lengthy negotiations, limiting the capacity of most publishers and institutions to roll them out fast enough. In the meantime, they disadvantage smaller publishers – including many society publishers – and further entrench large commercial publishers.
 
 * Finally, these contracts are complicated and based on a number of assumptions which are driven by scarcely understood forecasts. In the words of the CEO of an important publisher, “I don’t know whether we will make money or lose money.” Of course, this is just as true for the counterparts on the other side of the table, and negotiating teams have no easy way of knowing whether libraries will be better or worse off as a result of these deals.

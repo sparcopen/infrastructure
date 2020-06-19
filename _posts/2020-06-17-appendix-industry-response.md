@@ -2,8 +2,8 @@
 layout: post
 title: Appendix&#58; The Industry Response
 category: 2020-update
-tags:
-description:
+tags: elsevier springer-nature pearson wiley mcgraw-hill-education
+description: Leading publishers strengthening their digital offerings and – in the case of McGraw-Hill Education and Cengage – by proposing a merger in order to reduce costs and strengthen their economics.
 permalink: /2020-update/appendix-the-industry-response
 date: 2020-06-17 15:00:00
 ---

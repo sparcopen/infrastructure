@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Education Companies&#58; McGraw-Hill Education
-category: landscape-analysis #understand-the-companies
+category: landscape-analysis
 tags: mcgraw-hill-education
-description:
+description: McGraw-Hill is owned by Apollo, a private equity company. Apollo has hoped for a long time to IPO the business to exit the investment. The company exited the assessment business in 2015, effectively going in the opposite direction of Pearson.
 permalink: /landscape-analysis/mcgraw-hill-education
 date: 2019-03-29 12:00:00
 ---
