@@ -3,7 +3,7 @@ layout: post
 title: The Effect of the Failed Cengage/McGraw-Hill Education Merger
 category: 2020-update
 tags: cengage mcgraw-hill-education market-consolidation
-description:
+description: The decision to abandon their merger because of the divestitures required by the Department of Justice (DOJ) has left the companies with a more complicated future.
 permalink: /2020-update/cengage-mcgraw-merger
 date: 2020-06-17 05:00:00
 ---

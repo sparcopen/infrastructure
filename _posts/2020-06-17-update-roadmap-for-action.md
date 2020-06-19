@@ -3,7 +3,8 @@ layout: post
 title: Update to the Roadmap for Action
 category: 2020-update
 tags: risk-mitigation strategic-choices community-actions
-description:
+description: Acting in conditions of high uncertainty is particularly difficult. These are actions that libraries, in particular, and academic institutions, in general, could take regardless of the current situation.
+
 permalink: /2020-update/update-to-roadmap-for-action
 date: 2020-06-17 10:00:00
 ---

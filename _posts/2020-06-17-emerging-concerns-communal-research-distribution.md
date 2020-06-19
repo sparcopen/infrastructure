@@ -3,7 +3,7 @@ layout: post
 title: Emerging Concerns&#58; From Individual to Communal Research Distribution
 category: 2020-update
 tags:
-description:
+description: GetFTR has several disadvantages, both operational and strategic, for academic institutions and, in particular, for academic libraries.
 permalink: /2020-update/communal-research-distribution
 date: 2020-06-17 08:00:00
 ---

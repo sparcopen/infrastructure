@@ -3,7 +3,7 @@ layout: post
 title: Background
 category: 2020-update
 tags:
-description:
+description: What does the landscape, and path to action, look like one year after our initial analysis?
 permalink: /2020-update/background
 date: 2020-06-17 02:00:00
 ---

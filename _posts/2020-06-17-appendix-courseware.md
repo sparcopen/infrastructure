@@ -2,7 +2,7 @@
 layout: post
 title: Appendix&#58; Courseware
 category: 2020-update
-tags:
+tags: market-analysis
 description: Can digital revenues return the courseware business to growth?
 permalink: /2020-update/appendix-courseware
 date: 2020-06-17 14:00:00
@@ -20,4 +20,3 @@ Can digital revenues return the courseware business to growth? For the time bein
 
 However, the leading publishers may be satisfied even earlier than that. The courseware business is likely to become even more concentrated when the transition to digital is completed. Smaller publishers are likely to struggle to match the technology investments of the market leaders, and pricing models like Cengage Unlimited (an all-you-can-
 eat scheme) can only make sense for publishers with significant market share. The failure of the McGraw-Hill/Cengage merger will slow down for a while the trend toward concentration, and these publishers will need to review their asset portfolios and rethink their cost structures. However, the investments required to support the transition to digital continue to be beyond the reach of smaller companies. Should McGraw-Hill and/ or Cengage pursue a merger with companies from complementary areas of activity (for example, from the consumer fintech sector), smaller publishers will again face the issue of competing against a small number of formidable, large companies.
-
