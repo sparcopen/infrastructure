@@ -3,8 +3,8 @@ layout: post
 title: Executive Summary
 category: roadmap-for-action
 tags:
-description: Academic publishing is undergoing a major transition as some of its leaders are moving
-from a content-provision to a data analytics business. This shift is still in its early days. There are actions and strategies that institutions can consider adopting, both individually and collectively, to mitigate the potential risks posed by this trend, and to leverage potential benefits. 
+description: "Academic publishing is undergoing a major transition as some of its leaders are moving
+from a content-provision to a data analytics business. This shift is still in its early days. There are actions and strategies that institutions can consider adopting, both individually and collectively, to mitigate the potential risks posed by this trend, and to leverage potential benefits."
 permalink: /roadmap-for-action/executive-summary
 date: 2019-11-01 00:10:00
 ---
