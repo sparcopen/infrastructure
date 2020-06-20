@@ -3,7 +3,7 @@ layout: post
 title: Conduct A Data Inventory
 category: roadmap-for-action
 tags: risk-mitigation
-description: These actions are designed to be concrete, practical steps that any institution can begin taking immediately.
+description: A common-sense response to the increasing volumes of data collected across campuses and the rising deployment of data analytics tools.
 permalink: /roadmap-for-action/conduct-a-data-inventory
 date: 2019-11-01 05:00:00
 ---

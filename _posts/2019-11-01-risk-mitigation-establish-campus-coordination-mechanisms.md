@@ -3,7 +3,7 @@ layout: post
 title: Establish Campus Coordination Mechanisms
 category: roadmap-for-action
 tags: risk-mitigation
-description: These actions are designed to be concrete, practical steps that any institution can begin taking immediately.
+description: Coordination mechanisms to adjudicate conflicts among departments and offices will become key as increasing volumes of data are collected across campuses and data analytics tools are deployed.
 permalink: /roadmap-for-action/establish-campus-coordination-mechanisms
 date: 2019-11-01 06:00:00
 ---
