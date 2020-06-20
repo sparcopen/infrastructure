@@ -21,16 +21,10 @@ We are pleased that this project has helped to stoke a debate around the need fo
 
 **Report Authors:**
 
-Claudio Aspesi (Lead Author)
-
-Nicole Allen
-
-Raym Crow
-
-Shawn Daugherty
-
-Heather Joseph
-
-Joseph McArthur
-
-Nick Shockey
+Claudio Aspesi (Lead Author)<br />
+[Nicole Allen](https://sparcopen.org/people/nicole-allen/)<br/>
+[Raym Crow](https://sparcopen.org/people/raym-crow/)<br/>
+Shawn Daugherty<br/>
+[Heather Joseph](https://sparcopen.org/people/heather-joseph/)<br/>
+[Joseph McArthur](https://sparcopen.org/people/joseph-mcarthur/)<br/>
+[Nick Shockey](https://sparcopen.org/people/nick-shockey/)
