@@ -26,9 +26,7 @@ Metrics should be controlled by academic institutions. It is their responsibilit
 
 {% include join-box.html %}
 
-Algorithms, on the other hand, do not necessarily need to be controlled by each academic institution, but must be carefully understood and monitored. It is critical that algorithms are as transparent as possible, so that they can be fully analyzed and held accountable.
-
-So long as an algorithm remains a “black box,” an institution is powerless to understand whether it may contain biases that are incompatible with its values, or flaws that could lead to costly mistakes.
+Algorithms, on the other hand, do not necessarily need to be controlled by each academic institution, but must be carefully understood and monitored. It is critical that algorithms are as transparent as possible, so that they can be fully analyzed and held accountable. So long as an algorithm remains a “black box,” an institution is powerless to understand whether it may contain biases that are incompatible with its values, or flaws that could lead to costly mistakes.
 
 
 ***
