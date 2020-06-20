@@ -42,7 +42,7 @@ However, academic institutions should consider adopting four non negotiable prin
 
 3. **Human control.** There should be a right to opt out of AI-driven decisions and demand a human process.
 
-4. **Accessibility and Equity.** There should be explicit indications that data and data services are accessible to all relevant constituencies, with no barriers or impediments. There should be rights in place to demand that any biases that are identified, including when identified outside the institution (for example, by other academic institutions or independent auditors) are immediately notified and corrected."
+4. **Accessibility and Equity.** There should be explicit indications that data and data services are accessible to all relevant constituencies, with no barriers or impediments. There should be rights in place to demand that any biases that are identified, including when identified outside the institution (for example, by other academic institutions or independent auditors) are immediately notified and corrected.
 
 ### Strategy Actions
 
