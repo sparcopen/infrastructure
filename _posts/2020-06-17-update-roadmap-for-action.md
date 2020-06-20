@@ -34,7 +34,9 @@ infrastructure.** We outlined earlier the issues posed by linking data analytics
 
 In the original Roadmap, we advocated for academic institutions to identify a list of “principles” as a basis for adopting appropriate data policies (Exhibit 2). It is unrealistic to argue that all these principles are equally nonnegotiable in an emergency (for example, demanding an independent audit of algorithms may be unrealistic in the current crisis).
 
-### Exhibit 2: Principles of Data Analytics Usage [^13]
+---
+
+##### Exhibit 2: Principles of Data Analytics Usage [^13]
 
 * **Transparency.** Open source software, disclosure to enable testing for biases,
 auditing and evaluation requirements, etc.
@@ -49,6 +51,8 @@ recommendations, etc.
 subset of users, etc.
 * **Governance.** Effective input from all stakeholders, independent review mechanisms,
 etc.
+
+---
 
 However, academic institutions should consider adopting four non negotiable principles, and demand – in parallel – that commercial vendors also support them if they want to operate with their community:
 
