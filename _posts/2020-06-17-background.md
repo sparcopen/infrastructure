@@ -24,13 +24,8 @@ Aspesi also served as lead author for the original SPARC Landscape Analysis and 
 #### Report Authors
 
 Claudio Aspesi (Lead Author)
-
 Nicole Allen
-
 Raym Crow
-
 Heather Joseph
-
 Joseph McArthur
-
 Nick Shockey
