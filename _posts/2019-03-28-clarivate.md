@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Research Companies&#58; Clarivate
-category: landscape-analysis 
+category: landscape-analysis
 tags: clarivate
-description: Clarivate is the name the new private equity owners (Onex and Baring Asia) gave to the assets previously owned by Thomson Reuters when they acquired them in 2016 (but management had already decided to sell it by 2015).
+description: "Clarivate is the name the new private equity owners gave to the assets previously owned by Thomson Reuters. The company’s strategy is to be a neutral data analytics supplier to researchers and librarians."
 permalink: /landscape-analysis/clarivate
 date: 2019-03-29 08:00:00
 ---
@@ -35,4 +35,3 @@ When Thomson Reuters owned the science business, it kept it separate for many ye
 It is unclear to what extent the new owners of the business support this strategy. Despite the high level of debt, the company has made two acquisitions aimed at modernizing its research offerings: Kopernio, which is integrated into Web of Science, and Publons, which fits with ScholarOne, the manuscript management system. However, neither of these upend the company’s strategy as a neutral data analytics supplier to researchers and librarians. For many smaller publishers that are unable to compete with the investment budget of Elsevier, Clarivate offers the ideal partner to enhance their services.
 
 Integration within Clarivate between scientific and academic research and the other areas of activity is less prominent. In fact, the few interviews given by Annette Thomas, the CEO of the Scientific and Academic Research Group, are focused on the core business. Nonetheless, we think that integration between core data analytics and intellectual property remains a significant opportunity, as it can lead to serving both universities when seeking deeper ties (and funding) with industry, and industry when looking at identifying, understanding, and supporting relevant research in its early stages.
-
