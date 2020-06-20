@@ -34,6 +34,22 @@ infrastructure.** We outlined earlier the issues posed by linking data analytics
 
 In the original Roadmap, we advocated for academic institutions to identify a list of “principles” as a basis for adopting appropriate data policies (Exhibit 2). It is unrealistic to argue that all these principles are equally nonnegotiable in an emergency (for example, demanding an independent audit of algorithms may be unrealistic in the current crisis).
 
+### Exhibit 2: Principles of Data Analytics Usage [^13]
+
+* **Transparency.** Open source software, disclosure to enable testing for biases,
+auditing and evaluation requirements, etc.
+* **Strong privacy protection.** Consent, control over the use of data, right to erasure
+and correction, right to restrict processing, etc.
+* **Accountability.** Remedy for automated decisions, ability to appeal, etc.
+* **Equity.** Identification/correction of errors/biases, fairness, environmental impact,
+etc.
+* **Human control.** Opt out of automated decisions, human review of
+recommendations, etc.
+* **Customization.** Definition of non-standard reports, development of tools for a
+subset of users, etc.
+* **Governance.** Effective input from all stakeholders, independent review mechanisms,
+etc.
+
 However, academic institutions should consider adopting four non negotiable principles, and demand – in parallel – that commercial vendors also support them if they want to operate with their community:
 
 1. **Strong privacy protection.** Faculty and students should give informed consent to the collection of data and be entitled to an explanation as to how it will be used. They should also have a right to restrict processing to a specific list of tasks (without being forced to provide a blanket acceptance) and they should have a right to demand erasure after courses are completed. Individuals should also have a right to demand rectification of data that is wrong or incomplete. Within applicable laws, requests from any government for data should be notified immediately to the individuals involved and the data handed over only in the presence of a legitimate court order.
@@ -68,3 +84,5 @@ open.** The continuing decline in the size of the courseware market, coupled wit
 ***
 
 [^12]:  For example, see here [https://hybridpedagogy.org/our-bodies-encoded-algorithmic-test-proctoring-inhigher-education/](https://hybridpedagogy.org/our-bodies-encoded-algorithmic-test-proctoring-inhigher-education/)
+
+[^13]: Based on Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI published under the auspices of the Berkman Klein Center at Harvard University
