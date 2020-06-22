@@ -5,4 +5,5 @@ description:
 permalink: /2020-update
 reversed: true
 date: 2020-06-17
+pdf: "https://osf.io/preprints/lissa/"
 ---
