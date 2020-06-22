@@ -2,7 +2,7 @@
 layout: post
 title: Appendix&#58; Courseware
 category: 2020-update
-tags: market-analysis
+tags: #market-analysis TODO unhide when threads can be prioritized
 description: Can digital revenues return the courseware business to growth?
 permalink: /2020-update/appendix-courseware
 date: 2020-06-17 14:00:00
