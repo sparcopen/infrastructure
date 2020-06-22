@@ -2,7 +2,7 @@
 layout: post
 title: Appendix&#58; Scholarly Journals
 category: 2020-update
-tags: market-analysis
+tags: #market-analysis TODO unhide when threads can be prioritized
 description: The scholarly journals business is still on a path to raising its profitability, but pricing pressures will intensify.
 permalink: /2020-update/appendix-scholarly-journals
 date: 2020-06-17 13:00:00
