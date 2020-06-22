@@ -12,7 +12,7 @@ Compiling a map of all the products and services that the three leading research
 data analytics vendors (Clarivate, Digital Science, Elsevier) market outside libraries
 is inherently a best effort exercise (Exhibit 7). Many of the companies or businesses within each company rely on a large trove of data and, effectively, repackage this data to serve as many different purposes as possible. In other words, only ingenuity limits what can be sold. The Elsevier and Clarivate offerings tend to rely heavily on data they first collect as part of their library services: Scopus and Web of Science represent significant foundations for many of the services and products offered respectively by Elsevier and Clarivate.
 
-### Exhibit 7
+##### Exhibit 7
 
 A map of the data tools and services offered by Clarivate, Digital Science, and Elsevier.
 
