@@ -14,7 +14,7 @@ McGraw-Hill Education operates across higher education, K-12, and professional m
 
 Apollo has hoped for a long time to IPO the business to exit the investment. Net debt at the end of 2017 stood at $1.832 billion, implying a net debt/EBITDA ratio of 8.5x. An IPO that would raise fresh funds and pay down debt would be quite a relief to management, but so far has proven impossible to pull off. The company filed papers in 2015 and again in 2016, but market conditions have prevented Apollo from carrying out this step. The company has spent about $700 million in technology since Apollo acquired it, and this demand on its cash flow shows in the net debt, which peaked in 2016 at $1.927 billion, rising from $1.242 billion at the end of 2013 (the year of the acquisition).
 
-### Exhibit 12
+#### Exhibit 12
 
 Higher Ed accounts for 41.5% of McGraw-Hill Education revenues
 
