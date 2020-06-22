@@ -16,7 +16,7 @@ The events of 2016 were startling: at the end of 2015, Pearson’s management ex
 
 The publishers entered 2017 with significant misgivings. Even if Pearson blamed a one-time inventory adjustment amongst bookstores for the revenue decline of 2016, its guidance for the following year implied a further 6-7% decline in underlying demand for textbooks and courseware in 2017 (management indicated that revenues may come in between +1 and -7%, depending on stocking strategies of retailers). Against such dire scenarios, the -3% organic revenue decline of 2017 was almost a relief, and it led management to issue a slightly improved guidance for a further -6% decline in demand for courseware in 2018 (against a previously issued guidance of -6 to -7%). Once again, other publishers posted similar or even worse numbers: Wiley reported a -6% revenue decline for textbooks in the FY which ended on the 30th April 2018, McGraw-Hill Education Higher Education revenues declined by -2.8% and Cengage a -3.4% decline in domestic learning revenues for the FY ending on the 31st March 2018 (Exhibit 8).
 
-### Exhibit 8
+##### Exhibit 8
 
 US Higher Education courseware revenue decline for selected publishers.
 
@@ -24,23 +24,23 @@ US Higher Education courseware revenue decline for selected publishers.
 
 The continued decline of the higher education courseware business in the U.S. is driven by the interplay of three factors: student enrollment, pricing, and participation rates.
 
-#### Factor 1: Student Enrollment
+### Factor 1: Student Enrollment
 
 The first factor of student enrollment is cyclical in nature based on the economy (even if there are longer term trends in terms of participation). Pearson estimates that every 1% change (up or down) in the U.S. unemployment rate drives a 3% change (in the opposite direction) in the U.S. college enrollment rate. The robust labor market of 2016 and 2017, therefore, could be expected to drive down enrollment rates in college, which – in fact – declined by -1.4% in 2016 and by -1.0% in 2017 (Exhibit 9). Drops were not equal across all categories of institutions; however, for-profit and community colleges continue to show above average rates of decline, while both public and private non-profit four-year colleges show below average rates of decline (or some modest growth).
 
-### Exhibit 9
+##### Exhibit 9
 
 Changes in student enrollment in US colleges, 2015-2017
 
 ![Student enrollment in US colleges, 2015-2017]({{ site.BASE_PATH }}/media/LA_Exhibit_9.png)
 
-#### Factor 2: Pricing
+### Factor 2: Pricing
 
 Assessing changes in average pricing is rather difficult. Contrary to trade books, college textbooks do not have uniform suggested retail prices. College and digital bookstores therefore are free to set any mark-up above the wholesale price set by the publisher. In addition, in the transition from print to digital, publishers can lower their wholesale prices to reflect lower costs, such as the savings on printing, binding, shipping, and warehousing costs (which account for an estimated 7% of publisher revenues and 9% of costs). In fact, because of the potential to sell digital materials directly to students, publishers could stand to increase their revenues despite lower prices by appropriating at least part of the estimated average 25% mark-up practiced by bookstores. Also, “inclusive access” (a model where a time-limited subscription to digital textbooks is automatically charged to students) allows publishers to also increase overall revenues by increasing their sell-through rate and potentially convincing institutions to subscribe to a broader range of content.
 
 Student spending habits may show some impact on price changes. The annual student survey published by the National Association of College Stores suggests that student spending on textbooks has declined over recent years, thanks at least in part to a variety of strategies to access the materials, including textbook rentals, alternate editions, and used books (Exhibit 10). However, other studies suggest that students opting out of purchasing textbooks likely also contributes to the decline in student spending, which calls into question whether students are in fact better off.
 
-### Exhibit 10
+##### Exhibit 10
 
 Student spending on courseware continues to decline according to some sources.
 
@@ -48,7 +48,7 @@ Student spending on courseware continues to decline according to some sources.
 
 Product mix also influences realized prices. Follett explains a fairly broad range of options and prices: for a $100 print textbook being sold new in a college bookstore, the used version will command about $75, rental should cost anywhere between $50 and $65, digital editions will retail anywhere between $40 and $60 and custom editions (which are assembled exclusively for a specific campus) will retail at $30. Custom programs are arrangements in which the publishers produce materials that are specifically customized for a course by assembling chapters and articles from multiple sources. These materials are often offered at a steep discount, in large part because of the increased sell-through rate, since students are unable to seek used or rental copies off campus. This has a similar effect as inclusive access, and though different, sometimes the two approaches are combined. As the availability of lower cost options have proliferated over the last decade, it is easy to see how average spending could appear to be in decline.
 
-#### Factor 3: Participation Rates
+### Factor 3: Participation Rates
 
 Student participation rates (the rate at which students buy new books) are also difficult to assess. The National Association of College Stores survey indicates that 63% of college students buy new books, 56% buy used books and 25% acquire digital materials. This data does not paint the full picture, since most students apply a mixed strategy based on the available options and whether they believe they may need the textbook beyond completion of the class. Most publishers mention seeing market research pointing to about 25 to 33% of students in an average U.S. college course buying new books, about 50% buying used books and the balance resorting to other strategies (borrowing, renting, photocopying, just not using any course material, etc.)
 
