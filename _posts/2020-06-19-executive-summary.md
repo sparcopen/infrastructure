@@ -3,7 +3,7 @@ layout: post
 title: Executive Summary
 category: 2020-update
 tags:
-description: Coming soon...
+description: In the year since our initial analysis major companies have shifted away from research publishing and towards research assessment; from individual research distribution to consolidated models and the emergence of a “Bigger Deal,” where institutional content licensing is directly linked to the purchase of data analytics services.
 permalink: /2020-update/executive-summary
 date: 2020-06-17 01:00:00
 ---
