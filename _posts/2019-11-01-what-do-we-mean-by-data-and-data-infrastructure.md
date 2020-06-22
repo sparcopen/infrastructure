@@ -8,7 +8,7 @@ permalink: /roadmap-for-action/what-do-we-mean-by-data-and-data-infrastructure
 date: 2019-11-01 02:00:00
 ---
 
-## Research Data and “Grey Data”
+### Research Data and “Grey Data”
 
 In this document, we talk about two types of data. The first is Research Data, which refers to the data academic institutions generate through their research activities. The second is Grey Data, which refers to the vast amount of data produced by universities outside of core research activities, and which tends to focus on the individuals belonging to its community (primarily students – but also faculty and staff). This includes data from applications, student records, ID cards, surveys, sensors, surveillance video, internet and network usage, etc. The term [“Grey Data” was coined by Dr. Christine Borgman](https://arxiv.org/pdf/1802.02953.pdf) at the University of California Los Angeles, who points out that the boundaries between research and Grey Data are increasingly blurry, and it is necessary to consider both when discussing solutions to the issues posed by the rise of data and data analytics in academic institutions. As a result, this document addresses both types of data.
 
@@ -18,7 +18,7 @@ Our goal is to ensure that academic institutions retain control over the use of 
 
 Of course, in many ways, this phenomenon mirrors the rise of data capture and usage in society, and it poses similar challenges. What is different is the declining opportunity for individuals within academic institutions to actively opt out of data collection. Individuals working for corporations, depending on where they live, have limited or no expectations about digital privacy at work. On the other hand, academic institutions, at least in many western countries, have always protected academic freedom, including the right to conduct research and search for information, without prying eyes. These concepts are now at risk.
 
-## Metrics and algorithms
+### Metrics and algorithms
 
 It is important to distinguish upfront between metrics, which refers to what is being measured, and algorithms, which refers to how it is being measured. These two categories are often interrelated, but they pose different issues, and therefore, should be addressed separately.
 
