@@ -31,6 +31,7 @@
       </header>
 
       <div class="col col--3of6 page-sidebar-content">
+
         <article class="page-content">
           {{ page.content }}
         </article>
@@ -38,6 +39,9 @@
         {% include pagination.html %}
 
         {% include authors-box.html %}
+
+        <h2>Cite it</h2>
+        {% include citation.html %}
       </div>
 
       <aside class="col col--1of6 page-sidebar-aside">
