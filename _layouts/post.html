@@ -39,17 +39,17 @@
         {% include pagination.html %}
 
         {% include authors-box.html %}
-
-        <h2>Cite it</h2>
-        {% include citation.html %}
       </div>
 
       <aside class="col col--1of6 page-sidebar-aside">
-        {% if page.pdf %}
-        <a href="{{ page.pdf }}" class="button" download>Download</a>
-        {% else %}
-        <button id="printButton" onClick="window.print()">Print</button>
-        {% endif %}
+        <p>
+          {% if page.pdf %}
+            <a href="{{ page.pdf }}" class="button" download>Download</a>
+          {% else %}
+          <button id="printButton" onClick="window.print()">Print</button>
+          {% endif %}
+        </p>
+
         {% if page.tags.size > 0 %}
         <h2>Related</h2>
         <ul class="tags">
@@ -59,6 +59,11 @@
           {% endfor %}
         </ul>
         {% endif %}
+
+        <p>
+          <a href="#citationContent" class="button accordion-toggle">Cite this report</a>
+        </p>
+        {% include citation.html class="accordion__content" id="citationContent"%}
       </aside>
 
       <div class="col col--3of6 page-sidebar-footer">
