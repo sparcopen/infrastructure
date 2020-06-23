@@ -1,0 +1,13 @@
+.cite {
+  @include font-sans;
+  @include typescale-06;
+
+  h2 {
+    @include font-serif;
+  }
+
+  h3 {
+    font-size: 1em;
+    font-weight: 800;
+  }
+}

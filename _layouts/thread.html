@@ -23,7 +23,6 @@
         </p>
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
-
       </header>
 
       <div class="col col--2of3 page-sidebar-content">
@@ -40,6 +39,12 @@
             Download
           </a>
           {% endif %}
+
+          {% if page.name contains "report-" %}
+            <a href="#citationContent" class="button accordion-toggle">Cite this report</a>
+            {% include citation.html class="accordion__content" id="citationContent"%}
+          {% endif %}
+
           <ul class="toc toc--with-feature col--group">
             {% include thread-toc.html %}
           </ul>

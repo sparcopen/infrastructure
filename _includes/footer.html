@@ -36,23 +36,52 @@
 
   // Copy to clipboard on click
   var clipboard = new ClipboardJS('.anchorjs-link', {
-      text: function(trigger) {
-          return '{{ site.BASE_PATH }}/' + '{{ page.url }}' + trigger.getAttribute('href');
-      }
+    text: function(trigger) {
+      return '{{ site.BASE_PATH }}/' + '{{ page.url }}' + trigger.getAttribute('href');
+    }
   });
 
   // Copy pullquote text to avoid redundant copy
   $(function() {
-  	  $('.pullquote').each(function() {
+    $('.pullquote').each(function() {
 
-  		var $parentParagraph = $(this).parent('p');
+      var $parentParagraph = $(this).parent('p');
 
-  		$parentParagraph.css('position', 'relative');
+      $parentParagraph.css('position', 'relative');
 
-  		$(this).clone()
-  		  .addClass('pullquote__copy')
-  		  .prependTo($parentParagraph);
-  	  });
+      $(this).clone()
+      .addClass('pullquote__copy')
+      .prependTo($parentParagraph);
+    });
   });
 
+  // simple accordion
+  // Listen for click on the document
+  document.addEventListener('click', function (event) {
+
+    //Bail if our clicked element doesn't have the class
+    if (!event.target.classList.contains('accordion-toggle')) return;
+
+    // Get the target content
+    var content = document.querySelector(event.target.hash);
+    if (!content) return;
+
+    // Prevent default link behavior
+    event.preventDefault();
+
+    // If the content is already expanded, collapse it and quit
+    if (content.classList.contains('accordion__content--active')) {
+      content.classList.remove('accordion__content--active');
+      return;
+    }
+
+    // Get all open accordion content, loop through it, and close it
+    var accordions = document.querySelectorAll('.accordion__content.accordion__content--active');
+    for (var i = 0; i < accordions.length; i++) {
+      accordions[i].classList.remove('accordion__content--active');
+    }
+
+    // Toggle our content
+    content.classList.toggle('accordion__content--active');
+  })
 </script>

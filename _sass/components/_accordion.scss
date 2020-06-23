@@ -1,0 +1,13 @@
+.accordion {
+  &__toggle {
+    display: inline-block;
+  }
+
+  &__content {
+    display: none;
+  }
+
+  &__content.accordion__content--active {
+    display: block;
+  }
+}

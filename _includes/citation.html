@@ -1,67 +1,71 @@
-<h3>APA</h3>
+<section class="cite{% if include.class %} {{ include.class }}{% endif %}"{% if include.id %} id="{{ include.id }}"{% endif %}>
+  <h2>Cite this report</h2>
 
-<p>
-{% for author in page.authors %}
-  {% if forloop.first %}
-    {% for au in site.data.authors[author] %}
-      {{ au.last_name }}, {{ au.first_name | slice: 0 }}. {% if au.middle_name %}{{ au.middle_name }}{% endif %}
-    {% endfor %}
-  {% elsif forloop.last %}
-    {% for au in site.data.authors[author] %}
-      , & {{ au.last_name }}, {{ au.first_name | slice: 0 }}. {% if au.middle_name %} {{ au.middle_name }}{% endif %}
-    {% endfor %}
-  {% else %}
-    {% for au in site.data.authors[author] %}
-      , {{ au.last_name }}, {{ au.first_name | slice: 0 }}. {% if au.middle_name %} {{ au.middle_name }}{% endif %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+  <h3>APA</h3>
 
-({{ page.date | date: "%Y, %B %e" }}).
-
-{{ page.title }}.
-
-{% if page.doi %}
-{{ page.doi }}
-{% endif %}
-</p>
-
-<h3>MLA</h3>
-
-{% for author in page.authors limit:1 %}
-  {% for au in site.data.authors[author] %}
-    {{ au.last_name }}, {{ au.first_name }}{% if au.middle_name %} {{ au.middle_name }}{% endif %}{% if page.authors.size > 1 %}, et al{% endif %}.
+  <p>
+  {% for author in page.authors %}
+    {% if forloop.first %}
+      {% for au in site.data.authors[author] %}
+        {{ au.last_name }}, {{ au.first_name | slice: 0 }}. {% if au.middle_name %}{{ au.middle_name }}{% endif %}
+      {% endfor %}
+    {% elsif forloop.last %}
+      {% for au in site.data.authors[author] %}
+        , & {{ au.last_name }}, {{ au.first_name | slice: 0 }}. {% if au.middle_name %} {{ au.middle_name }}{% endif %}
+      {% endfor %}
+    {% else %}
+      {% for au in site.data.authors[author] %}
+        , {{ au.last_name }}, {{ au.first_name | slice: 0 }}. {% if au.middle_name %} {{ au.middle_name }}{% endif %}
+      {% endfor %}
+    {% endif %}
   {% endfor %}
-{% endfor %}
 
-“{{ page.title }}.”
+  ({{ page.date | date: "%Y, %B %e" }}).
 
-{{ page.date | date: "%e %b. %Y" }}. Web.
+  {{ page.title }}.
 
-<h3>Chicago</h3>
-
-{% for author in page.authors %}
-  {% if forloop.first %}
-    {% for au in site.data.authors[author] %}
-      {{ au.last_name }}, {{ au.first_name }}{% if au.middle_name %} {{ au.middle_name }}{% endif %},
-    {% endfor %}
-  {% elsif forloop.last %}
-    {% for au in site.data.authors[author] %}
-      and {{ au.first_name 0 }} {{ au.last_name }}.
-    {% endfor %}
-  {% else %}
-    {% for au in site.data.authors[author] %}
-        {{ au.first_name }} {{ au.last_name }},
-    {% endfor %}
+  {% if page.doi %}
+  https://doi.org/{{ page.doi }}
   {% endif %}
-{% endfor %}
+  </p>
 
-{{ page.date | date: "%Y" }}.
+  <h3>MLA</h3>
 
-“{{ page.title }}.”
+  {% for author in page.authors limit:1 %}
+    {% for au in site.data.authors[author] %}
+      {{ au.last_name }}, {{ au.first_name }}{% if au.middle_name %} {{ au.middle_name }}{% endif %}{% if page.authors.size > 1 %}, et al{% endif %}.
+    {% endfor %}
+  {% endfor %}
 
-{{ page.date | date: "%B %e" }}.
+  “{{ page.title }}.”
 
-{% if page.doi %}
-{{ page.doi }}
-{% endif %}
+  {{ page.date | date: "%e %b. %Y" }}. Web.
+
+  <h3>Chicago</h3>
+
+  {% for author in page.authors %}
+    {% if forloop.first %}
+      {% for au in site.data.authors[author] %}
+        {{ au.last_name }}, {{ au.first_name }}{% if au.middle_name %} {{ au.middle_name }}{% endif %},
+      {% endfor %}
+    {% elsif forloop.last %}
+      {% for au in site.data.authors[author] %}
+        and {{ au.first_name 0 }} {% if au.middle_name %} {{ au.middle_name }}{% endif %} {{ au.last_name }}.
+      {% endfor %}
+    {% else %}
+      {% for au in site.data.authors[author] %}
+          {{ au.first_name }} {% if au.middle_name %} {{ au.middle_name }}{% endif %} {{ au.last_name }},
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+
+  {{ page.date | date: "%Y" }}.
+
+  “{{ page.title }}.”
+
+  {{ page.date | date: "%B %e" }}.
+
+  {% if page.doi %}
+  https://doi.org/{{ page.doi }}
+  {% endif %}
+</section>
