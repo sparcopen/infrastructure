@@ -59,6 +59,10 @@
     font-weight: 400;
   }
 
+  .tags {
+    margin-bottom: $spacing-03;
+  }
+
   @media (min-width: 768px) {
     position: fixed;
     right: 0;
