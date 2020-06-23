@@ -1,11 +1,19 @@
 {% assign thread = page.permalink | remove: "/" %}
 
+{% comment %}
+  Identify thread types:
+  - reports (using categories)
+  - topics (using tags)
+{% endcomment %}
 {% if page.name contains "report-" %}
   {% assign thread_type = "categories" %}
 {% else %}
   {% assign thread_type = "tags" %}
 {% endif %}
 
+{% comment %}
+  Determine post order.
+{% endcomment %}
 {% if page.name == "latest.html" %}
   {% assign posts = site.posts %}
 {% elsif page.reversed %}
@@ -14,55 +22,28 @@
   {% assign posts = site.[thread_type].[thread] %}
 {% endif %}
 
-{% for post in posts limit:1 %}
-<!-- Featured / latest post -->
-<li class="toc__featured">
-  <article>
-    <header>
-      {% if thread_type == "tags" and post.category %}
-      <p class="label">
-        From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report &mdash; {% include post-date.html %}
-      </p>
-      {% endif %}
-      <h4>
-        <a href="{{ post.permalink }}" class="toc__link">
-          {{ post.title }}
-        </a>
-      </h4>
-      <p class="metadata">
-        {% include post-readtime.html %}
-      </p>
-    </header>
-    <p class="col col--5of6 col--group toc__featured-desc">
-      {{ post.description }}
-    </p>
-  </article>
-</li>
-{% endfor %}
+{% if thread_type == "tags" %}
+  <!-- For tag / topic-based threads, display featured post first  -->
+  {% for post in posts %}
+    {% if post.featured %}
+      {% include featured-post.html %}
+    {% endif %}
+  {% endfor %}
+{% elsif thread_type == "categories" %}
+  <!-- For category / reports, display latest post as featured post -->
+  {% for post in posts limit: 1 %}
+    {% include featured-post.html %}
+  {% endfor %}
+{% endif %}
 
-<!-- Rest of ToC -->
-{% for post in posts offset:1 %}
-<li class="toc__item">
-  <article class="row">
-    <header class="col col--group col--1of3">
-      <h4>
-        <a href="{{ post.permalink }}" class="toc__link">
-          {{ post.title }}
-        </a>
-      </h4>
-      <p class="metadata">
-        {% include post-readtime.html %}
-      </p>
-    </header>
-    <div class="col col--group col--2of3">
-      {% if post.description %}
-      <p>{{ post.description }}</p>
-      {% endif %}
-
-      {% if thread_type == "tags" and post.category %}
-      <p class="metadata">From the <a href="/{{ post.category }}">{{ post.category | replace: '-',' ' | upcase }}</a> report. <br/>Published on {% include post-date.html %}</p>
-      {% endif %}
-    </div>
-  </article>
-</li>
-{% endfor  %}
+{% if thread_type == "tags" %}
+  <!-- Display all topic posts -->
+  {% for post in posts %}
+    {% include post.html %}
+  {% endfor %}
+{% elsif thread_type == "categories" %}
+  <!-- Display rest of report posts -->
+  {% for post in posts offset: 1 %}
+    {% include post.html %}
+  {% endfor %}
+{% endif %}
