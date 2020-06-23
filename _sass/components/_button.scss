@@ -16,8 +16,7 @@ button,
   @include font-sans;
 
   &:hover,
-  &:active,
-  &:focus {
+  &:active {
     background-color: $red;
     color: $white;
   }
