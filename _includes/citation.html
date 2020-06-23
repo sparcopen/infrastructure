@@ -7,15 +7,15 @@
     {% for author in page.authors %}
       {% if forloop.first %}
         {% for au in site.data.authors[author] %}
-          {{ au.last_name }}, {{ au.first_name | slice: 0 }}. {% if au.middle_name %}{{ au.middle_name }}{% endif %}
+          {{ au.last_name }}, {{ au.first_name | slice: 0 }}.{% if au.middle_name %} {{ au.middle_name }}{% endif %},
         {% endfor %}
       {% elsif forloop.last %}
         {% for au in site.data.authors[author] %}
-          , & {{ au.last_name }}, {{ au.first_name | slice: 0 }}. {% if au.middle_name %} {{ au.middle_name }}{% endif %}
+          & {{ au.last_name }}, {{ au.first_name | slice: 0 }}.{% if au.middle_name %} {{ au.middle_name }}{% endif %}
         {% endfor %}
       {% else %}
         {% for au in site.data.authors[author] %}
-          , {{ au.last_name }}, {{ au.first_name | slice: 0 }}. {% if au.middle_name %} {{ au.middle_name }}{% endif %}
+          {{ au.last_name }}, {{ au.first_name | slice: 0 }}.{% if au.middle_name %} {{ au.middle_name }}{% endif %},
         {% endfor %}
       {% endif %}
     {% endfor %}
