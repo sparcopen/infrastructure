@@ -5,7 +5,7 @@ category: 2020-update
 tags: #market-analysis TODO unhide when threads can be prioritized
 description: The scholarly journals business is still on a path to raising its profitability, but pricing pressures will intensify.
 permalink: /2020-update/appendix-scholarly-journals
-date: 2020-06-17 13:00:00
+date: 2020-06-22 13:00:00
 ---
 
 The most detailed information on scholarly journals revenue trends comes from Wiley. In early March, the company presented its Q3 2020 (for the three and nine months ending on January 31st, 2020). In its 8K form, the company stated that its 3% constant currency revenue growth for the quarter was “primarily driven by growth in open access.” In previous quarters, the research business grew in the range of 3% to 4%, and – in the quarters when management offered commentary – volume growth in open access publishing was identified invariably as the driver of revenue growth.

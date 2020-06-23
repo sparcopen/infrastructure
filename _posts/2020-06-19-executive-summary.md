@@ -5,7 +5,7 @@ category: 2020-update
 tags:
 description: In the year since our initial analysis major companies have shifted away from research publishing and towards research assessment; from individual research distribution to consolidated models and the emergence of a “Bigger Deal,” where institutional content licensing is directly linked to the purchase of data analytics services.
 permalink: /2020-update/executive-summary
-date: 2020-06-17 01:00:00
+date: 2020-06-22 01:00:00
 ---
 
 Last year, SPARC released its [Landscape Analysis](https://osf.io/preprints/lissa/58yhb/download), an in-depth look at how academic and scholarly publishing are changing and the implications of those changes for the academic community. This was followed by the [Roadmap for Action](https://osf.io/preprints/lissa/a7nk8/download), which was designed to provide higher education leaders suggested actions that institutions might take in order to manage the challenges surfaced in the Landscape Analysis.

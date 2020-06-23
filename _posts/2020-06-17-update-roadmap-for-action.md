@@ -6,7 +6,7 @@ tags: risk-mitigation strategic-choices community-actions
 description: Acting in conditions of high uncertainty is particularly difficult. These are actions that libraries, in particular, and academic institutions, in general, could take regardless of the current situation.
 
 permalink: /2020-update/update-to-roadmap-for-action
-date: 2020-06-17 10:00:00
+date: 2020-06-22 10:00:00
 ---
 
 ### New Responses in the Context of the COVID-19 Crisis

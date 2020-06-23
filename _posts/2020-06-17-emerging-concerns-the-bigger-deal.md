@@ -5,7 +5,7 @@ category: 2020-update
 tags:
 description: Agreements like the Elsevier/Dutch Institution deal are highly problematic. Institutions and consortia should consider and robustly debate the ramifications of these decisions, before pursuing what may prove to be partial and short-lived benefits.
 permalink: /2020-update/the-bigger-deal
-date: 2020-06-17 09:00:00
+date: 2020-06-22 09:00:00
 ---
 
 Finally, in December 2019, the [Dutch press received leaked detailed information on a deal that Elsevier was about to sign with Dutch academic and research consortia](https://www.scienceguide.nl/2019/11/leaked-document-on-elsevier-negotiations-sparks-controversy/). The general terms of the deal included a zero increase in total spending for access to subscriptions and on publishing articles in open access, in exchange for the broad adoption of Elsevier’s data analytics tools in Dutch universities. A few days later, a framework agreement was signed, with the final agreement signed at the end of May 2020. Although the full financial terms and conditions are not known, we have no reason to doubt the general terms highlighted in the press leaks. This raises several concerns:

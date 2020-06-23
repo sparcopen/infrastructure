@@ -5,7 +5,7 @@ category: 2020-update
 tags: elsevier
 description: There is an inherent conflict of interest between assessing and evaluating research, on the one hand, and disseminating it.
 permalink: /2020-update/shift-from-research-publishing
-date: 2020-06-17 07:00:00
+date: 2020-06-22 07:00:00
 ---
 
 In June 2019, Elsevier announced a co-development agreement with NETE, a digital solutions company focusing primarily on providing research assessment to federal government agencies. Two weeks later, Elsevier announced the launch of an International Center for the Study of Research (ICSR), a venture designed to “cultivate the thoughtful use of metrics and indicators in research evaluation and to promote evaluation best practices.” ICSR is tasked with “developing, characterizing and validating new and existing research metrics, indicators and research assessment practices; it also supports independent, external studies on topics within this scope.”

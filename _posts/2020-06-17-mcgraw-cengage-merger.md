@@ -5,7 +5,7 @@ category: 2020-update
 tags: cengage mcgraw-hill-education market-consolidation
 description: The decision to abandon their merger because of the divestitures required by the Department of Justice (DOJ) has left the companies with a more complicated future.
 permalink: /2020-update/cengage-mcgraw-merger
-date: 2020-06-17 05:00:00
+date: 2020-06-22 05:00:00
 ---
 
 The decision to abandon their merger because of the divestitures required by the Department of Justice (DOJ) has left the companies with a more complicated future. In a call with investors in the aftermath of the decision to scrap the deal, Cengage’s management indicated that they have embarked on a cost reduction program and formulated a number of scenarios about the impact of COVID-19 in 2021; the pessimistic one is based on a 25% decline in revenues, equal to about $300/310 million.[^8] Since the cash costs of goods sold would also decline because of lower variable costs (print and warehousing, royalties, some selling costs), in this scenario, the cash flow of Cengage could decline by about $180 million (variable cash costs were 44% of revenues in FY 2019).
