@@ -5,7 +5,7 @@ category: 2020-update
 tags:
 description: Use this opportunity not just to reopen the current academic system but also to make substantive progress toward building a more equitable and open one.
 permalink: /2020-update/time-for-radical-change
-date: 2020-06-17 11:00:00
+date: 2020-06-22 11:00:00
 ---
 
 All the attention, anxiety and fear are focused on what will happen in the days and weeks to come. It seems impossible to think beyond the COVID-19 emergency. And yet, this is exactly the moment to ask if it is possible to think about a different future, and to use this opportunity not just to reopen the current academic system but also to make substantive progress toward building a more equitable and open one.

@@ -5,7 +5,7 @@ category: 2020-update
 tags:
 description: Underlying market trends highlighted in 2019 continue unabated.
 permalink: /2020-update/appendix-intro
-date: 2020-06-17 12:00:00
+date: 2020-06-22 12:00:00
 ---
 
 ### Underlying Market Trends Continue Unabated

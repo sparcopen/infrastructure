@@ -5,7 +5,7 @@ category: 2020-update
 tags:
 description: What does the landscape, and path to action, look like one year after our initial analysis?
 permalink: /2020-update/background
-date: 2020-06-17 02:00:00
+date: 2020-06-22 02:00:00
 ---
 
 In early 2019, SPARC released its Landscape Analysis, an in-depth look at how academic and scholarly publishing are changing, how the leading publishers are responding to these changes, and the implications for the academic community. Later last year, the Landscape Analysis was followed by a Roadmap for Action outlining steps that the academic community might take to manage the issues that surfaced in the earlier document.

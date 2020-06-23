@@ -5,7 +5,7 @@ category: 2020-update
 tags: market-analysis
 description: The uncertainty surrounding COVID-19’s impact on research funding may well affect open access publishing specifically.
 permalink: /2020-update/update-to-the-landscape-analysis
-date: 2020-06-17 03:00:00
+date: 2020-06-22 03:00:00
 ---
 
 ### Market Changes in the Context of the COVID-19 Crisis

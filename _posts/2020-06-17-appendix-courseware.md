@@ -5,7 +5,7 @@ category: 2020-update
 tags: #market-analysis TODO unhide when threads can be prioritized
 description: Can digital revenues return the courseware business to growth?
 permalink: /2020-update/appendix-courseware
-date: 2020-06-17 14:00:00
+date: 2020-06-22 14:00:00
 ---
 
 The courseware and textbook industry continues to face a much more difficult market than scholarly journals. McGraw-Hill Education reported in its 2019 annual report that the US higher education market declined by about 12% from $3.2 billion to $2.8 billion. This decline is reflected in the higher education revenue decline for the three largest publishers: Pearson reported a 12% decline, McGraw-Hill Education a 7.7% decline and Cengage (which operates on an April 1st to March 31st calendar) projects a 5% decline in higher education revenues for FY 2020, which will actually include three quarters of calendar year 2019.

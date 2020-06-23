@@ -5,7 +5,7 @@ category: 2020-update
 tags:
 description: GetFTR has several disadvantages, both operational and strategic, for academic institutions and, in particular, for academic libraries.
 permalink: /2020-update/communal-research-distribution
-date: 2020-06-17 08:00:00
+date: 2020-06-22 08:00:00
 ---
 
 A second issue that raises red flags is the December 2019 launch of GetFTR, a new service from Elsevier, SNG, Wiley, Taylor & Francis and the American Chemical Society. GetFTR is a service to facilitate seamless access to published articles by leveraging a one-time-per-device user sign-on. GetFTR will serve both subscribed and open access content located through publisher websites as well as other discovery services, repositories, academic social networks and library systems; it will send users to the “best” full-text version of an article, based on the permissions (i.e. subscriptions) available to each individual user.

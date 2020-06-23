@@ -5,7 +5,7 @@ category: 2020-update
 tags:
 description: The companies that are fully or partially owned by private equity (PE) companies (Springer Nature Group, McGraw-Hill Education and Cengage), all have significant debt.
 permalink: /2020-update/publicly-listed-companies
-date: 2020-06-17 04:00:00
+date: 2020-06-22 04:00:00
 ---
 
 The three companies that are publicly listed are currently in relatively good shape. Pearson and, to a lesser extent RELX, have prudent Net Debt/EBITDA ratios (1.3x and 2.5x, respectively, at December 31st, 2019); Wiley sits exactly midway in between Pearson and RELX at 1.8x.
