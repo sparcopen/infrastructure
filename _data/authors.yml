@@ -1,47 +1,63 @@
 sparc:
 - full_name: Scholarly Publishing and Academic Resources Coalition
-  bio:
+  short_bio: "SPARC is a coalition of academic and research libraries that work to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education."
+  bio: "<p>The Scholarly Publishing and Academic Resources Coalition works to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education. As a catalyst for action, SPARC focuses on collaborating with other stakeholders—including authors, publishers, libraries, students, funders, policymakers and the public—to build on the opportunities created by the Internet, promoting changes to both infrastructure and culture needed to make open the default for research and education.</p> <p>The key to SPARC’s success is the commitment of our members to support and shape our initiatives. Our 240+ members are primarily academic and research libraries located in the U.S. and Canada, who use the resources and support provided by SPARC to actively promote Open Access to scholarly articles, the open sharing of research data, and the creation and adoption of Open Educational Resources on their campuses.</p>"
+  contact: "https://sparcopen.org/contact/"
 
 nicole:
 - full_name: Nicole Allen
   first_name: Nicole
   middle_name: S.
   last_name: Allen
+  short_bio: <p>Nicole Allen is the Director of Open Education for SPARC.</p>
   bio:
+  contact: "mailto:nicole@sparcopen.org"
 
 claudio:
 - full_name: Claudio Aspesi
   first_name: Claudio
   last_name: Aspesi
-  bio:
+  short_bio: "A respected market analyst with over a decade of experience covering the academic publishing market, and leadership roles at Sanford C. Bernstein, and McKinsey."
+  bio: "<p>A respected market analyst with more than a decade of experience covering the academic publishing market for international investors. Between 2004 and 2016, Aspesi was the Senior Research Analyst at Sanford C. Bernstein covering European Media Stocks. The academic publishing market – and Reed Elsevier and Pearson in specific – was a key area focus for him during his tenure. Previously he was Global Senior Vice President of Strategy at EMI Music and was responsible for defining EMI’s business model as the music industry entered the digital age. Before joining EMI in 2002, Claudio was a member of the executive team at Airclic, an Internet infrastructure company and, prior to that, a partner at McKinsey and Co., working with many leading media and entertainment companies.</p>"
+  contact:
 
 raym:
 - full_name: Raym Crow
   first_name: Raym
   last_name: Crow
+  short_bio: <p>Raym Crow has been Senior Consultant at SPARC since 2002.</p>
   bio:
+  contact: "mailto:crow@sparcopen.org"
 
 heather:
 - full_name: Heather Joseph
   first_name: Heather
   last_name: Joseph
+  short_bio: <p>Heather Joseph serves as SPARC’s Executive Director, leading the strategic and operational activities of the organization.</p>
   bio:
+  contact: "mailto:heather@sparcopen.org"
 
 joe:
 - full_name: Joseph McArthur
   first_name: Joseph
   middle_name: T. W.
   last_name: McArthur
+  short_bio: <p>Joseph McArthur is the Assistant Director of the Right to Research Coalition, SPARC’s student initiative.</p>
   bio:
+  contact: "mailto:joe@righttoresearch.org"
 
 nick:
 - full_name: Nick Shockey
   first_name: Nick
   last_name: Shockey
+  short_bio: <p>Nick Shockey is the Director of Programs & Engagement for SPARC and founding Director of the Right to Research Coalition.</p>
   bio:
+  contact: "mailto:nick@sparcopen.org"
 
 shawn:
 - full_name: Shawn Daugherty
   first_name: Shawn
   last_name: Daugherty
+  short_bio:
   bio:
+  contact:

@@ -1,19 +1,49 @@
 <section class="infobox infobox--authors">
-  <h2>About the authors</h2>
+  {% if page.authors %}
+  <h2>
+    About the author{% if page.authors[0].size > 1 %}s{% endif %}
+  </h2>
+
+  {% for author in page.authors %}
+  {% assign au = site.data.authors[author] %}
+  <article class="row">
+    <h3 class="col col--1of3 col--group">{{ au[0].full_name }}</h3>
+    <div class="col col--2of3 col--group">
+      {{ au[0].short_bio }}
+
+      {% if au[0].contact %}
+      <p class="contact">
+        <a href="{{ au[0].contact }}?subject=Community-Owned Infrastructure">
+          {% include svg/mail.svg %}&nbsp;{{ au[0].contact | remove: "mailto:" }}
+        </a>
+      </p>
+      {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+
+  {% else %}
+  <h2>
+    About the authors
+  </h2>
+
   <article>
-    <h3>Claudio Aspesi</h3>
+    <h3>{{ site.data.authors.claudio[0].full_name }}</h3>
     <p>
-      A respected market analyst with over a decade of experience covering the academic publishing market, and leadership roles at Sanford C. Bernstein, and McKinsey.
+      {{ site.data.authors.claudio[0].short_bio }}
     </p>
   </article>
   <article>
-    <h3>SPARC</h3>
+    <h3>{{ site.data.authors.sparc[0].full_name }}</h3>
     <p>
-      SPARC is a coalition of academic and research libraries that work to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education.
+      {{ site.data.authors.sparc[0].short_bio }}
+    </p>
+
+    <p class="contact">
+      <a href="https://sparcopen.org/contact/" target="_blank" rel="noopener">
+        {% include svg/mail.svg %}&nbsp;Contact form
+      </a>
     </p>
   </article>
-  <!-- Not sure about the authors page, so hiding this for now.
-  <p>
-    <a href="{{ site.BASE_PATH }}/about" class="button button--cta">About us</a>
-  </p>-->
+  {% endif %}
 </section>
