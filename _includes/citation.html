@@ -1,5 +1,5 @@
 <section class="cite{% if include.class %} {{ include.class }}{% endif %}"{% if include.id %} id="{{ include.id }}"{% endif %}>
-  <h2>Cite this report</h2>
+  <h2>Cite this</h2>
 
   <h3>APA</h3>
 
@@ -29,8 +29,14 @@
 
     {{ page.title }}.
 
+    <em>
+      {{ page.category | replace: '-',' ' | capitalize }}
+    </em>,
+
     {% if page.doi %}
     https://doi.org/{{ page.doi }}
+    {% else %}
+    {{ site.BASE_PATH }}{{ page.url }}
     {% endif %}
   </p>
 
@@ -50,7 +56,17 @@
 
     “{{ page.title }}.”
 
-    {{ page.date | date: "%e %b. %Y" }}. Web.
+    <em>
+      {{ page.category | replace: '-',' ' | capitalize }}
+    </em>,
+
+    {{ page.date | date: "%e %b. %Y" }},
+
+    {% if page.doi %}
+    https://doi.org/{{ page.doi }}
+    {% else %}
+    {{ site.BASE_PATH }}{{ page.url }}
+    {% endif %}.
   </p>
 
   <h3>Chicago</h3>
@@ -81,10 +97,16 @@
 
     “{{ page.title }}.”
 
+    <em>
+      {{ page.category | replace: '-',' ' | capitalize }}
+    </em>,
+
     {{ page.date | date: "%B %e" }}.
 
     {% if page.doi %}
     https://doi.org/{{ page.doi }}
+    {% else %}
+    {{ site.BASE_PATH }}{{ page.url }}
     {% endif %}
   </p>
 </section>
