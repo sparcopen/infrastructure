@@ -37,15 +37,19 @@
     }
 
     article {
-      margin-bottom: $spacing-05;
+      margin-bottom: $spacing-04;
 
       &:last-child {
         margin-bottom: 0;
       }
     }
 
+    p {
+      margin-bottom: $spacing-03;
+    }
+
     svg {
-      height: 12px;
+      height: 10px;
       width: auto;
     }
   }
