@@ -7,13 +7,13 @@
   {% for author in page.authors %}
   {% assign au = site.data.authors[author] %}
   <article class="row">
-    <div class="col col--1of6 col--group">
+    <div class="col col--1of3 col--group">
       <figure class="portrait">
         <img src="{{ site.BASE_PATH }}/media/team/{{ au[0].first_name | downcase }}.png" alt="Portrait of {{ au[0].full_name }}"/>
       </figure>
     </div>
 
-    <div class="col col--5of6 col--group">
+    <div class="col col--2of3 col--group">
       <h3>{{ au[0].full_name }}</h3>
       <p>{{ au[0].short_bio }}</p>
       {% if au[0].contact %}
@@ -36,12 +36,12 @@
   <h2>About the authors</h2>
 
   <article class="row">
-    <div class="col col--1of6 col--group">
+    <div class="col col--1of3 col--group">
       <figure class="portrait">
         <img src="{{ site.BASE_PATH }}/media/team/claudio.png" alt="Portrait of Claudio Aspesi"/>
       </figure>
     </div>
-    <div class="col col--5of6 col--group">
+    <div class="col col--2of3 col--group">
       <h3>{{ site.data.authors.claudio[0].full_name }}</h3>
       <p>{{ site.data.authors.claudio[0].short_bio }}</p>
       <p class="contact">
@@ -53,10 +53,10 @@
   </article>
 
   <article class="row">
-    <div class="col col--1of6 col--group">
+    <div class="col col--1of3 col--group">
       {% include svg/logo.svg %}
     </div>
-    <div class="col col--5of6 col--group">
+    <div class="col col--2of3 col--group">
       <h3>{{ site.data.authors.sparc[0].full_name }}</h3>
       <p>{{ site.data.authors.sparc[0].short_bio }}</p>
       <p class="contact">
