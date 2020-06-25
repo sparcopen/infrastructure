@@ -100,7 +100,3 @@ In `_sass/base/_typescale.scss`, we define six typeface sizes: `$typescale-01..$
 The typescale number (`-01..-06`) reflects heading size (from larger to smaller, `<h1>..<h6>`); see [the `_general.scss` stylesheet](https://github.com/sparcopen/infrastructure/blob/master/_sass/base/_general.scss). 
 
 Every time we declare `font-size`, we use a typescale variable **or** `1em` to make sure the text is the same size as its parent element’s text. 
-
-
-
-
