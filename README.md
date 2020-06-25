@@ -61,7 +61,7 @@ This project uses SASS (`.scss`) to organise all of the website’s stylesheets,
 - `themes`
   - Only contains print CSS styles: stylesheets for a different context. 
 
-These files are then compiled (in that order) into a single static CSS file using imports in [`css/main.scss`](https://github.com/sparcopen/infrastructure/blob/master/css/main.scss). 
+These files are then compiled (in that order, from general to specific) into a single static CSS file using imports in [`css/main.scss`](https://github.com/sparcopen/infrastructure/blob/master/css/main.scss). 
 
 #### More about the pre-processor SCSS / SASS
 
