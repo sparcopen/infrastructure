@@ -1,7 +1,7 @@
 sparc:
 - full_name: Scholarly Publishing and Academic Resources Coalition
   short_bio: "SPARC is a coalition of academic and research libraries that work to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education."
-  bio: "<p>The Scholarly Publishing and Academic Resources Coalition works to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education. As a catalyst for action, SPARC focuses on collaborating with other stakeholders—including authors, publishers, libraries, students, funders, policymakers and the public—to build on the opportunities created by the Internet, promoting changes to both infrastructure and culture needed to make open the default for research and education.</p> <p>The key to SPARC’s success is the commitment of our members to support and shape our initiatives. Our 240+ members are primarily academic and research libraries located in the U.S. and Canada, who use the resources and support provided by SPARC to actively promote Open Access to scholarly articles, the open sharing of research data, and the creation and adoption of Open Educational Resources on their campuses.</p>"
+  bio:
   contact: "https://sparcopen.org/contact/"
 
 nicole:
@@ -10,7 +10,7 @@ nicole:
   middle_name: S.
   last_name: Allen
   short_bio: <p>Nicole Allen is the Director of Open Education for SPARC.</p>
-  bio:
+  bio: "https://sparcopen.org/people/nicole-allen/"
   contact: "mailto:nicole@sparcopen.org"
 
 claudio:
@@ -26,7 +26,7 @@ raym:
   first_name: Raym
   last_name: Crow
   short_bio: <p>Raym Crow has been Senior Consultant at SPARC since 2002.</p>
-  bio:
+  bio: "https://sparcopen.org/people/raym-crow/"
   contact: "mailto:crow@sparcopen.org"
 
 heather:
@@ -34,7 +34,7 @@ heather:
   first_name: Heather
   last_name: Joseph
   short_bio: <p>Heather Joseph serves as SPARC’s Executive Director, leading the strategic and operational activities of the organization.</p>
-  bio:
+  bio: "https://sparcopen.org/people/heather-joseph/"
   contact: "mailto:heather@sparcopen.org"
 
 joe:
@@ -43,7 +43,7 @@ joe:
   middle_name: T. W.
   last_name: McArthur
   short_bio: <p>Joseph McArthur is the Assistant Director of the Right to Research Coalition, SPARC’s student initiative.</p>
-  bio:
+  bio: "https://sparcopen.org/people/joseph-mcarthur/"
   contact: "mailto:joe@righttoresearch.org"
 
 nick:
@@ -51,7 +51,7 @@ nick:
   first_name: Nick
   last_name: Shockey
   short_bio: <p>Nick Shockey is the Director of Programs & Engagement for SPARC and founding Director of the Right to Research Coalition.</p>
-  bio:
+  bio: "https://sparcopen.org/people/nick-shockey/"
   contact: "mailto:nick@sparcopen.org"
 
 shawn:
@@ -59,5 +59,5 @@ shawn:
   first_name: Shawn
   last_name: Daugherty
   short_bio:
-  bio:
+  bio: 
   contact:

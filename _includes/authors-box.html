@@ -7,26 +7,25 @@
   {% for author in page.authors %}
   {% assign au = site.data.authors[author] %}
   <article class="row">
-    <h3 class="col col--1of3 col--group">
-      {{ au[0].full_name }}<br/><br/>
-
+    <div class="col col--1of6 col--group">
       <figure class="portrait">
-        <img src="{{ site.BASE_PATH }}/media/team/joe.png" alt="Portrait of Joseph McArthur"/>
+        <img src="{{ site.BASE_PATH }}/media/team/{{ au[0].first_name | downcase }}.png" alt="Portrait of {{ au[0].full_name }}"/>
       </figure>
+    </div>
 
-    </h3>
-    <div class="col col--2of3 col--group">
-
-      {{ au[0].short_bio }}
+    <div class="col col--5of6 col--group">
+      <h3>{{ au[0].full_name }}</h3>
+      <p>{{ au[0].short_bio }}</p>
       {% if au[0].contact %}
       <p class="contact">
+        <a href="{{ au[0].bio }}" target="_blank" rel="noopener">
+          {% include svg/arrow-right.svg %}  About
+        </a>
+        <br/>
         <a href="{{ au[0].contact }}?subject=Community-Owned Infrastructure">
           {% include svg/mail.svg %}&nbsp;{{ au[0].contact | remove: "mailto:" }}
         </a>
         &bull;
-        <a href="https://sparcopen.org/who-we-are/" target="_blank" rel="noopener">
-          About
-        </a>
       </p>
       {% endif %}
     </div>
@@ -34,9 +33,7 @@
   {% endfor %}
 
   {% else %}
-  <h2>
-    About the authors
-  </h2>
+  <h2>About the authors</h2>
 
   <article class="row">
     <div class="col col--1of6 col--group">
@@ -46,11 +43,7 @@
     </div>
     <div class="col col--5of6 col--group">
       <h3>{{ site.data.authors.claudio[0].full_name }}</h3>
-
-      <p>
-        {{ site.data.authors.claudio[0].short_bio }}
-      </p>
-
+      <p>{{ site.data.authors.claudio[0].short_bio }}</p>
       <p class="contact">
         <a href="{{ site.BASE_PATH }}/about">
           {% include svg/arrow-right.svg %} About
@@ -58,17 +51,14 @@
       </p>
     </div>
   </article>
+
   <article class="row">
     <div class="col col--1of6 col--group">
       {% include svg/logo.svg %}
     </div>
     <div class="col col--5of6 col--group">
       <h3>{{ site.data.authors.sparc[0].full_name }}</h3>
-
-      <p>
-        {{ site.data.authors.sparc[0].short_bio }}
-      </p>
-
+      <p>{{ site.data.authors.sparc[0].short_bio }}</p>
       <p class="contact">
         <a href="https://sparcopen.org/who-we-are/" target="_blank" rel="noopener">
           {% include svg/arrow-right.svg %}  About
