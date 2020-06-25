@@ -48,10 +48,6 @@
     padding-right: 0;
   }
 
-  .page-footer__logo {
-    text-align: left;
-  }
-
   .anchorjs-link,
   .pagination,
   .page-sidebar-aside,
@@ -59,8 +55,7 @@
   .post__read-time,
   .sr-only,
   .infobox--join,
-  .button,
-  .contact {
+  .button {
     display: none !important;
   }
 }

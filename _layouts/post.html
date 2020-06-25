@@ -31,10 +31,6 @@
       </header>
 
       <div class="col col--3of6 page-sidebar-content">
-        {% if page.collection == "members" %}
-        {% include members-box.html %}
-        {% endif %}
-
         <article class="page-content">
           {{ page.content }}
         </article>
@@ -45,19 +41,11 @@
       </div>
 
       <aside class="col col--1of6 page-sidebar-aside">
-        <p>
-          {% if page.pdf %}
-            <a href="{{ page.pdf }}" class="button" download>Download</a>
-          {% else %}
-          <button id="printButton" onClick="window.print()">Print</button>
-          {% endif %}
-
-          <a href="#citationContent" class="button button--cta accordion-toggle">Cite</a>
-        </p>
-
-
-        {% include citation.html class="accordion__content" id="citationContent"%}
-
+        {% if page.pdf %}
+        <a href="{{ page.pdf }}" class="button" download>Download</a>
+        {% else %}
+        <button id="printButton" onClick="window.print()">Print</button>
+        {% endif %}
         {% if page.tags.size > 0 %}
         <h2>Related</h2>
         <ul class="tags">
@@ -67,7 +55,6 @@
           {% endfor %}
         </ul>
         {% endif %}
-
       </aside>
 
       <div class="col col--3of6 page-sidebar-footer">

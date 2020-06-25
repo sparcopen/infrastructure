@@ -29,28 +29,27 @@
     border-top: 5px solid $red;
 
     h3 {
-      margin-top: 0;
+      display: inline;
       font-size: 1em;
       font-weight: 800;
       line-height: 1.15;
       @include font-serif;
+
+      + p {
+        display: inline;
+      }
+
+      &:after {
+        content: '. ';
+      }
     }
 
     article {
-      margin-bottom: $spacing-05;
+      margin-bottom: $spacing-04;
 
       &:last-child {
         margin-bottom: 0;
       }
-    }
-
-    p {
-      margin-bottom: $spacing-03;
-    }
-
-    svg {
-      height: 10px;
-      width: auto;
     }
   }
 
