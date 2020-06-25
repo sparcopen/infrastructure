@@ -9,6 +9,10 @@
 	{% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <meta name="theme-color" content="#1F2222">
+  
+  {% if page.collection == "members" %}
+  <meta name="robots" content="noindex,nofollow">
+  {% endif %}
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.BASE_PATH }}/media/favicons/apple-touch-icon.png">

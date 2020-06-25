@@ -1,0 +1,112 @@
+<section class="cite{% if include.class %} {{ include.class }}{% endif %}"{% if include.id %} id="{{ include.id }}"{% endif %}>
+  <h2 class="sr-only">Cite this</h2>
+
+  <h3>APA</h3>
+
+  <p>
+    {% if page.authors %}
+    {% for author in page.authors %}
+      {% if forloop.first %}
+        {% for au in site.data.authors[author] %}
+          {{ au.last_name }}, {{ au.first_name | slice: 0 }}.{% if au.middle_name %} {{ au.middle_name| slice: 0 }}.{% endif %},
+        {% endfor %}
+      {% elsif forloop.last %}
+        {% for au in site.data.authors[author] %}
+          & {{ au.last_name }}, {{ au.first_name | slice: 0 }}.{% if au.middle_name %} {{ au.middle_name| slice: 0 }}.{% endif %}
+        {% endfor %}
+      {% else %}
+        {% for au in site.data.authors[author] %}
+          {{ au.last_name }}, {{ au.first_name | slice: 0 }}.{% if au.middle_name %} {{ au.middle_name| slice: 0 }}.{% endif %},
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+
+    {% else %}
+    Aspesi, C. & SPARC (Scholarly Publishing and Academic Resources Coalition).
+    {% endif %}
+
+    ({{ page.date | date: "%Y, %B %e" }}).
+
+    {{ page.title }}.
+
+    <em>
+      {{ page.category | replace: '-',' ' | capitalize }}
+    </em>,
+
+    {% if page.doi %}
+    https://doi.org/{{ page.doi }}
+    {% else %}
+    {{ site.BASE_PATH }}{{ page.url }}
+    {% endif %}
+  </p>
+
+  <h3>MLA</h3>
+
+  <p>
+    {% if page.authors %}
+    {% for author in page.authors limit:1 %}
+      {% for au in site.data.authors[author] %}
+        {{ au.last_name }}, {{ au.first_name }}{% if au.middle_name %} {{ au.middle_name }}{% endif %}{% if page.authors.size > 1 %}, et al{% endif %}.
+      {% endfor %}
+    {% endfor %}
+
+    {% else %}
+    Aspesi, Claudio & SPARC (Scholarly Publishing and Academic Resources Coalition).
+    {% endif %}
+
+    “{{ page.title }}.”
+
+    <em>
+      {{ page.category | replace: '-',' ' | capitalize }}
+    </em>,
+
+    {{ page.date | date: "%e %b. %Y" }},
+
+    {% if page.doi %}
+    https://doi.org/{{ page.doi }}
+    {% else %}
+    {{ site.BASE_PATH }}{{ page.url }}
+    {% endif %}.
+  </p>
+
+  <h3>Chicago</h3>
+
+  <p>
+    {% if page.authors %}
+    {% for author in page.authors %}
+      {% if forloop.first %}
+        {% for au in site.data.authors[author] %}
+          {{ au.last_name }}, {{ au.first_name }}{% if au.middle_name %} {{ au.middle_name }}{% endif %},
+        {% endfor %}
+      {% elsif forloop.last %}
+        {% for au in site.data.authors[author] %}
+          and {{ au.first_name 0 }} {% if au.middle_name %} {{ au.middle_name }}{% endif %} {{ au.last_name }}.
+        {% endfor %}
+      {% else %}
+        {% for au in site.data.authors[author] %}
+            {{ au.first_name }} {% if au.middle_name %} {{ au.middle_name }}{% endif %} {{ au.last_name }},
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+
+    {% else %}
+    Aspesi, Claudio & SPARC (Scholarly Publishing and Academic Resources Coalition).
+    {% endif %}
+
+    {{ page.date | date: "%Y" }}.
+
+    “{{ page.title }}.”
+
+    <em>
+      {{ page.category | replace: '-',' ' | capitalize }}
+    </em>,
+
+    {{ page.date | date: "%B %e" }}.
+
+    {% if page.doi %}
+    https://doi.org/{{ page.doi }}
+    {% else %}
+    {{ site.BASE_PATH }}{{ page.url }}
+    {% endif %}
+  </p>
+</section>

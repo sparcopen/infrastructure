@@ -1,19 +1,74 @@
 <section class="infobox infobox--authors">
+  {% if page.authors %}
+  <h2>
+    About the author{% if page.authors[0].size > 1 %}s{% endif %}
+  </h2>
+
+  {% for author in page.authors %}
+  {% assign au = site.data.authors[author] %}
+  <article class="row">
+    <div class="col col--1of6 col--group">
+      <figure class="portrait">
+        <img src="{{ site.BASE_PATH }}/media/team/{{ au[0].first_name | downcase }}.png" alt="Portrait of {{ au[0].full_name }}"/>
+      </figure>
+    </div>
+
+    <div class="col col--5of6 col--group">
+      <h3>{{ au[0].full_name }}</h3>
+      <p>{{ au[0].short_bio }}</p>
+      {% if au[0].contact %}
+      <p class="contact">
+        <a href="{{ au[0].bio }}" target="_blank" rel="noopener">
+          {% include svg/arrow-right.svg %}  About
+        </a>
+        <br/>
+        <a href="{{ au[0].contact }}?subject=Community-Owned Infrastructure">
+          {% include svg/mail.svg %}&nbsp;{{ au[0].contact | remove: "mailto:" }}
+        </a>
+        &bull;
+      </p>
+      {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+
+  {% else %}
   <h2>About the authors</h2>
-  <article>
-    <h3>Claudio Aspesi</h3>
-    <p>
-      A respected market analyst with over a decade of experience covering the academic publishing market, and leadership roles at Sanford C. Bernstein, and McKinsey.
-    </p>
+
+  <article class="row">
+    <div class="col col--1of6 col--group">
+      <figure class="portrait">
+        <img src="{{ site.BASE_PATH }}/media/team/claudio.png" alt="Portrait of Claudio Aspesi"/>
+      </figure>
+    </div>
+    <div class="col col--5of6 col--group">
+      <h3>{{ site.data.authors.claudio[0].full_name }}</h3>
+      <p>{{ site.data.authors.claudio[0].short_bio }}</p>
+      <p class="contact">
+        <a href="{{ site.BASE_PATH }}/about">
+          {% include svg/arrow-right.svg %} About
+        </a>
+      </p>
+    </div>
   </article>
-  <article>
-    <h3>SPARC</h3>
-    <p>
-      SPARC is a coalition of academic and research libraries that work to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education.
-    </p>
+
+  <article class="row">
+    <div class="col col--1of6 col--group">
+      {% include svg/logo.svg %}
+    </div>
+    <div class="col col--5of6 col--group">
+      <h3>{{ site.data.authors.sparc[0].full_name }}</h3>
+      <p>{{ site.data.authors.sparc[0].short_bio }}</p>
+      <p class="contact">
+        <a href="https://sparcopen.org/who-we-are/" target="_blank" rel="noopener">
+          {% include svg/arrow-right.svg %}  About
+        </a>
+        <br/>
+        <a href="https://sparcopen.org/contact/" target="_blank" rel="noopener">
+          {% include svg/mail.svg %}&nbsp;Contact form
+        </a>
+      </p>
+    </div>
   </article>
-  <!-- Not sure about the authors page, so hiding this for now.
-  <p>
-    <a href="{{ site.BASE_PATH }}/about" class="button button--cta">About us</a>
-  </p>-->
+  {% endif %}
 </section>

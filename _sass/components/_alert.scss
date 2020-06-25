@@ -1,0 +1,12 @@
+.alert {
+  margin-top: $spacing-04;
+  padding: $spacing-03;
+  border: 5px solid $red;
+  background: rgba($red, .05);
+  color: $red;
+  @include font-sans;
+
+  a {
+    color: $red;
+  }
+}

@@ -48,11 +48,16 @@
     }
   }
 
+  .contact {
+    @include typescale-06;
+    @include font-sans;
+  }
+
   #printButton {
     display: none;
 
     @media only screen and (min-width: 768px) {
-      display: block;
+      display: inline-block;
     }
   }
 }

@@ -3,19 +3,20 @@
 button,
 .button {
   display: inline-block;
-  padding: $spacing-02;
+  margin-right: $spacing-03;
+  padding: $spacing-03;
   cursor: pointer;
   border: 2px solid $red;
   background-color: transparent;
   color: $red;
   transition: all 150ms ease-in;
   text-decoration: none;
+  line-height: 1;
   @include typescale-06;
   @include font-sans;
 
   &:hover,
-  &:active,
-  &:focus {
+  &:active {
     background-color: $red;
     color: $white;
   }
