@@ -27,6 +27,9 @@
 
       <div class="col col--2of3 page-sidebar-content">
         <section class="page-content">
+          {% if page.name == "members.md" %}
+          {% include members-box.html %}
+          {% endif %}
           <h2>
             {% if page.name contains "report-" %}
             Table of Contents

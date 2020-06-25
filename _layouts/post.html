@@ -32,9 +32,7 @@
 
       <div class="col col--3of6 page-sidebar-content">
         {% if page.collection == "members" %}
-        <p class="alert">
-          This content is members-only. <a href="/members/">See all members-only content</a>. Do not share bla bla lorem ipsum dolor sit amet; <a href="#">some.email@example.com</a>. 
-        </p>
+        {% include members-box.html %}
         {% endif %}
 
         <article class="page-content">
@@ -53,7 +51,12 @@
           {% else %}
           <button id="printButton" onClick="window.print()">Print</button>
           {% endif %}
+
+          <a href="#citationContent" class="button button--cta accordion-toggle">Cite</a>
         </p>
+
+
+        {% include citation.html class="accordion__content" id="citationContent"%}
 
         {% if page.tags.size > 0 %}
         <h2>Related</h2>
@@ -65,10 +68,6 @@
         </ul>
         {% endif %}
 
-        <p>
-          <a href="#citationContent" class="button button--cta accordion-toggle">Cite this</a>
-        </p>
-        {% include citation.html class="accordion__content" id="citationContent"%}
       </aside>
 
       <div class="col col--3of6 page-sidebar-footer">
