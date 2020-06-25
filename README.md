@@ -35,9 +35,17 @@ Ruby is required.
 
 All content can be found in:
 - `_data/`: records for each author, in `authors.yml`
-- `_posts`: individual posts in Markdown 
-- `reports`: one Markdown file per report
-- `topics`: one Markdown file per topic (_threads_)
+- `_members/`: for members-only posts (same format as files in `_posts/`)
+- `_posts/`: individual posts in Markdown 
+- `reports/`: one Markdown file per report
+- `topics/`: one Markdown file per topic (_threads_)
+
+### Layout (`_layout/`)
+
+
+
+### Partials (`_includes/`)
+
 
 ### Stylesheets 
 
@@ -89,9 +97,10 @@ Spacing sizes start from smaller (`0.1875rem` = 3.75px on large devices) to larg
 
 In `_sass/base/_typescale.scss`, we define six typeface sizes: `$typescale-01..$typescale-06`. This typescale is based on a [minor third interval](https://en.wikipedia.org/wiki/Minor_third). 
 
-The typescale number (`-01..-06`) reflects heading size (from larger to smaller); see [the `_general.scss` stylesheet](https://github.com/sparcopen/infrastructure/blob/master/_sass/base/_general.scss). 
+The typescale number (`-01..-06`) reflects heading size (from larger to smaller, `<h1>..<h6>`); see [the `_general.scss` stylesheet](https://github.com/sparcopen/infrastructure/blob/master/_sass/base/_general.scss). 
 
 Every time we declare `font-size`, we use a typescale variable **or** `1em` to make sure the text is the same size as its parent element’s text. 
+
 
 
 
