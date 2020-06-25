@@ -45,11 +45,11 @@
       </div>
 
       <aside class="col col--1of6 page-sidebar-aside">
-        <p>
+        <p class="button-group">
           {% if page.pdf %}
             <a href="{{ page.pdf }}" class="button" download>Download</a>
           {% else %}
-          <button id="printButton" onClick="window.print()">Print</button>
+          <button id="printButton" class="button" onClick="window.print()">Print</button>
           {% endif %}
 
           <a href="#citationContent" class="button accordion-toggle">Cite</a>
