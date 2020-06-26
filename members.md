@@ -1,7 +1,7 @@
 ---
 layout: thread
 title: Members-only content
-description: This is members-only. Do not share. Lorem ipsum dolor sit amet. Bla bla.
+description: Please don't share this page, it contains sensitive information for SPARC members-only.
 permalink: /members
 date: 2019-03-29
 ---
