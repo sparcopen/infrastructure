@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About the authors
-description:
-permalink: /about
+description: A respected market analyst with over a decade of experience covering the academic publishing market, and leadership roles at Sanford C. Bernstein, and McKinsey.
+permalink: /claudio-aspesi
 ---
 
 ## {{ site.data.authors.claudio[0].full_name }}
@@ -12,9 +12,3 @@ permalink: /about
 </figure>
 
 {{ site.data.authors.claudio[0].bio }}
-
----
-
-## With thanks to&hellip;
-
-We produced this comprehensive analysis after conducting interviews with dozens of key stakeholders including provosts, CIO’s, library leaders, students, and higher education administrators in a wide variety of North American institutions, as well as publishers, and other market experts.
