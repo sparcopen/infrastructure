@@ -34,7 +34,9 @@ Looking at the specific needs of academic institutions, we have identified princ
 
 Identifying which areas of activity of academic institutions should not be AI-based is just as important as the actual deployment of AI. Different institutions may differ on what to exclude explicitly, every institution should debate what it wants to exclude, and on what grounds. For example, staff assessment processes may be aided by data collection but also might explicitly exclude using data or algorithms to rank or assess performance. Other activities that could be reasonably excluded altogether are disciplinary actions, staff recruiting and student admissions.
 
-AI can encode the bias of its creators within algorithms in ways that can be difficult to detect and present as “objective” measures . Because of this, it is important that the process of deciding which areas are appropriate for the application of AI be inclusive by design: including regular, meaningful consultation with the full campus community and ensuring the support of those from underrepresented groups who are targets of this bias.
+AI can encode the bias of its creators within algorithms in ways that can be difficult to detect and present as “objective” measures ^3. Because of this, it is important that the process of deciding which areas are appropriate for the application of AI be inclusive by design: including regular, meaningful consultation with the full campus community and ensuring the support of those from underrepresented groups who are targets of this bias.
+
+[^3] For further analysis, see *Algorithms of Oppression* by Safiya Umoja Noble
 
 ### Accountability
 
