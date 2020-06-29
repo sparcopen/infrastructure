@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Emerging Concerns&#58; The Bigger Deal
-category: 2020-update
-tags:
+category: 2020-update 
+tags: dutch-deal
 description: Agreements like the Elsevier/Dutch Institution deal are highly problematic. Institutions and consortia should consider and robustly debate the ramifications of these decisions, before pursuing what may prove to be partial and short-lived benefits.
 permalink: /2020-update/the-bigger-deal
 date: 2020-06-22 09:00:00
