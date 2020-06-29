@@ -20,9 +20,12 @@ Looking at the specific needs of academic institutions, we have identified princ
 
 | Internal | Both Internal and Third-party | Third-party |
 | ----------- | ----------- | ----------- |
-| Areas of application        | Strong privacy protections        | Data        |
-| Accountability        | Safety and security        | Data        |
-| Human control of technology        | Data        | Data        |
-| Governance (internal)        | Data        | Data        |
+| Areas of application        | Strong privacy protections        | Fairness and non-discrimination        |
+| Accountability        | Safety and security        | Professional responsibility        |
+| Human control of technology        | Transparency and explainability        | Promotion of human values        |
+| Governance (internal)        | Interoperability        | Governance (JVs)        |
+||Ownership of data|
+||Enduring access|
+
 
 ## PRINCIPLES FOR INTERNAL GOVERNANCE
