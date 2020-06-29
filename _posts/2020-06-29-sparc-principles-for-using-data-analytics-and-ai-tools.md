@@ -7,4 +7,5 @@ description: The use of AI in academia is rising. We have identified principles 
 permalink: /sparc-principles-for-using-data-analytics-and-ai-tools
 date: 2020-06-29
 link: "https://keen-panini.netlify.app/media/draft-sparc-principles-for-using-data-analytics-and-ai-tools.pdf"
+reading-time: 12 minutes
 ---
