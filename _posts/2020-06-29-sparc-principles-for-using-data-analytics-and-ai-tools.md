@@ -2,7 +2,7 @@
 layout: post
 title: SPARC Principles for using Data Analytics and AI tools
 category:
-tags: terms-and-conditions
+tags: terms-and-conditions dutch-deal
 description:
 permalink: /sparc-principles-for-using-data-analytics-and-ai-tools
 date: 2020-06-29
