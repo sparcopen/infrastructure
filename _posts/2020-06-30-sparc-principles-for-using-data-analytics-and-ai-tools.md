@@ -2,7 +2,7 @@
 layout: post
 title: SPARC Principles for using Data Analytics and AI tools
 category:
-tags:
+tags: terms-and-conditions
 description:
 permalink: /sparc-principles-for-using-data-analytics-and-ai-tools
 date: 2020-06-30
@@ -17,3 +17,12 @@ While some of the principles overlap, most do not, and for good reason: the Dutc
 Looking at the specific needs of academic institutions, we have identified principles that should affect internal documents (i.e. codes of ethics, data policies), principles that should drive relationships with third parties, and principles that affect both (Exhibit 1). In the following page we will provide a brief description of each principle and some examples of how to translate it into concrete steps (such as provisions in internal codes or contractual terms and conditions).
 
 ##### Exhibit 1 A map of AI principles
+
+| Internal | Both Internal and Third-party | Third-party |
+| ----------- | ----------- | ----------- |
+| Areas of application        | Strong privacy protections        | Data        |
+| Accountability        | Safety and security        | Data        |
+| Human control of technology        | Data        | Data        |
+| Governance (internal)        | Data        | Data        |
+
+## PRINCIPLES FOR INTERNAL GOVERNANCE
