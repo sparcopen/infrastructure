@@ -24,8 +24,8 @@ Looking at the specific needs of academic institutions, we have identified princ
 | Accountability        | Safety and security        | Professional responsibility        |
 | Human control of technology        | Transparency and explainability        | Promotion of human values        |
 | Governance (internal)        | Interoperability        | Governance (JVs)        |
-||Ownership of data|
-||Enduring access|
+|||Ownership of data|
+|||Enduring access|
 
 
 ## PRINCIPLES FOR INTERNAL GOVERNANCE
