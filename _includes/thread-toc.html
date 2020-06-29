@@ -25,13 +25,16 @@
       </p>
       {% endif %}
       <h4>
-        <a href="{{ post.permalink }}" class="toc__link">
-          {{ post.title }}
+        <a {% if post.link %}href="{{ post.link }}" target="_blank" rel="noopener"{% else %}href="{{ post.permalink }}"{% endif %} class="toc__link">
+          {{ post.title }}{% if post.link %} {% include svg/arrow-northeast.svg %}{% endif %}
         </a>
       </h4>
       <p class="metadata">
-        {% include post-readtime.html %}
-      </p>
+        {% if post.link %}
+          {{ post.reading-time }}
+        {% else %}
+          {% include post-readtime.html %}
+        {% endif %}      </p>
     </header>
     <p class="col col--5of6 col--group toc__featured-desc">
       {{ post.description }}
