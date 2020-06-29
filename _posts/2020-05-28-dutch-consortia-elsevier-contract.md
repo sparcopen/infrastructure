@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Dutch Consortia/Elsevier Contract&#58; The Real Risks
-tags: terms-and-conditions elsevier
-description: This agreement raises significant issues both in terms of some of the novel problems it poses. We hope that institutions exercise caution before entering similar deals.
+tags: terms-and-conditions elsevier dutch-deal
+description: This agreement raises significant issues through some of the novel problems it poses. We hope that institutions exercise caution before entering similar deals.
 permalink: /dutch-consortia-elsevier-contract
 date: 2020-05-28
 # This was members only content previously send by H title "FINAL Dutch agreement commentary.pdf"
