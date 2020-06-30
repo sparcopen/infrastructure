@@ -1,6 +1,10 @@
-{% assign words = post.content | number_of_words %}
-{% if words < 360 %}
-1 min read
+{% if post.link %}
+  {{ post.reading-time }}
 {% else %}
-{{ words | divided_by:180 }} mins read
+  {% assign words = post.content | number_of_words %}
+  {% if words < 360 %}
+  1 min read
+  {% else %}
+  {{ words | divided_by:180 }} mins read
+  {% endif %}
 {% endif %}
