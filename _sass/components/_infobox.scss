@@ -51,9 +51,16 @@
     }
 
     .logo {
+      display: block;
       margin-bottom: $spacing-04;
-      height: 20px;
+      height: 30px;
       width: auto;
+
+      @media (min-width: 768px) {
+        padding-right: $spacing-04;
+        height: auto;
+        width: 100%;
+      }
     }
 
     .infobox__links {
