@@ -7,7 +7,7 @@
       </p>
       {% endif %}
       <h4>
-        <a {% if post.link %}href="{{ post.link }}" target="_blank" rel="noopener"{% elsif %}href="{{ post.permalink }}"{% endif %} class="toc__link">
+        <a {% if post.link %}href="{{ post.link }}" target="_blank" rel="noopener"{% else %}href="{{ post.permalink }}"{% endif %} class="toc__link">
           {{ post.title }}{% if post.link %} {% include svg/arrow-northeast.svg %}{% endif %}
         </a>
       </h4>
