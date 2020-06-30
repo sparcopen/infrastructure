@@ -17,11 +17,10 @@
       <h3>{{ au[0].full_name }}</h3>
       <p>{{ au[0].short_bio }}</p>
       {% if au[0].contact %}
-      <p class="contact">
+      <p class="infobox__links">
         <a href="{{ au[0].bio }}" target="_blank" rel="noopener">
           {% include svg/arrow-right.svg %}  About
         </a>
-        <br/>
         <a href="{{ au[0].contact }}?subject=Community-Owned Infrastructure">
           {% include svg/mail.svg %}&nbsp;{{ au[0].contact | remove: "mailto:" }}
         </a>
@@ -44,7 +43,7 @@
     <div class="col col--2of3 col--group">
       <h3>{{ site.data.authors.claudio[0].full_name }}</h3>
       <p>{{ site.data.authors.claudio[0].short_bio }}</p>
-      <p class="contact">
+      <p class="infobox__links">
         <a href="{{ site.BASE_PATH }}/claudio-aspesi">
           {% include svg/arrow-right.svg %}  About
         </a>
@@ -59,11 +58,10 @@
     <div class="col col--2of3 col--group">
       <h3>{{ site.data.authors.sparc[0].full_name }}</h3>
       <p>{{ site.data.authors.sparc[0].short_bio }}</p>
-      <p class="contact">
+      <p class="infobox__links">
         <a href="https://sparcopen.org/who-we-are/" target="_blank" rel="noopener">
           {% include svg/arrow-right.svg %}  About
         </a>
-        <br/>
         <a href="https://sparcopen.org/contact/" target="_blank" rel="noopener">
           {% include svg/mail.svg %}&nbsp;Contact us
         </a>
