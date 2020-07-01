@@ -5,6 +5,8 @@ description: A respected market analyst with over a decade of experience coverin
 permalink: /claudio-aspesi
 ---
 
+
+
 <figure class="portrait">
   <img src="{{ site.BASE_PATH }}/media/team/claudio.png" alt="Portrait of Claudio Aspesi"/>
 </figure>
