@@ -6,5 +6,5 @@ description: Textbook publishing giants Cengage and McGraw-Hill have called off 
 permalink: /cengage-mcgraw-hill-merger-called-off
 link: https://sparcopen.org/news/2020/cengage-mcgraw-hill-merger-called-off/
 date: 2020-05-04
-reading-time: 5 min reading time
+reading-time: 5 mins read
 ---
