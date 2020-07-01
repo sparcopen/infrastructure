@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working Paper: SPARC Principles for using Data Analytics and AI tools
+title: "Working Paper: SPARC Principles for using Data Analytics and AI tools"
 category:
 tags: dutch-deal
 description: The use of AI in academia is rising. We have identified principles for it's use by third parties and internally, and concrete steps to implement them.
