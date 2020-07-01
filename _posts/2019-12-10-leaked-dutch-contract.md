@@ -6,5 +6,5 @@ description: Elsevier is discussing a contract to provide Dutch universities wit
 permalink: /leaked-dutch-contract
 link: https://sparcopen.org/news/2019/leaked-dutch-contract-with-elsevier-raises-significant-alarm-bells/
 date: 2019-12-10
-reading-time: 7 min reading time
+reading-time: 7 mins read
 ---
