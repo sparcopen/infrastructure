@@ -3,7 +3,7 @@ layout: post
 title: Background
 category: roadmap-for-action
 tags:
-description: The purpose of this document is to build on the Landscape Analysis by offering a roadmap of potential actions that stakeholders can use to chart both individual and collective responses.
+description: Until now, commercial publishers were – at worst – seen by institutions as an annoyance for selected communities within academia. Their move into the core research and teaching missions of colleges and universities, with tools aimed at evaluating productivity and performance, means that the academic community could lose control over vast areas of its core activities.
 permalink: /roadmap-for-action/background
 date: 2019-11-01 01:00:00
 ---
