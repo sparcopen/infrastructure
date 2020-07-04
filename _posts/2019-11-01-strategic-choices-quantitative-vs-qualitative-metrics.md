@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quantitative vs. Qualitative Metrics
+title: Strategic Choices&#58; Quantitative vs. Qualitative Metrics
 category: roadmap-for-action
 tags: strategic-choices
 description: While institutions may not be ready to abandon the usage of quantitative metrics to evaluate their faculty, they should consider engaging in a genuine debate on the relative weight that they place on quantitative vs. qualitative assessment.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Revise Data Policies
+title: "Risk Mitigation: Revise Data Policies"
 category: roadmap-for-action
 tags: risk-mitigation
 description: It is critical for data policies to be revised to address the myriad strategic questions raised by the proliferation of data and data analytics.

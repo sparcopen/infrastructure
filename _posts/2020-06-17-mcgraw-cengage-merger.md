@@ -14,4 +14,6 @@ The decline in Cengage’s cash flow would be roughly equal to the cash flow gen
 
 With no immediate prospect of launching cost-cutting programs of the magnitude expected as a result of the failed merger with McGraw-Hill, such a steep decline in revenues would force management to make tough decisions on how to balance financial survival with future growth programs.
 
+***
+
 [^8]: This assumes that revenues for FY 2020 (which ended in March 2020) were on a -7% trajectory,aggravated by a further $30 million decline in Q4 (i.e. the quarter that ended in March 2020) because of the COVID-19 crisis.

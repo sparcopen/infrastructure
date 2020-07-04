@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Actions&#58; Intro
-category: roadmap-for-action
+category: # roadmap-for-action this has been removed from the report view as it's repeated in 2019-11-01-three-categories-of-action.md. It could be helpful on threads, so it's not deleted.
 tags: community-actions
 description: A third category of actions for the community to consider focus on leveraging a strength in numbers approach, and targeting “big picture” actions institutions to regain and maintain control of their data infrastructure. This category includes a broad range of possible structural solutions to foster an open, competitive landscape for data and data analytics that is aligned with the interests of academic institutions and the communities they serve.
 permalink: /roadmap-for-action/community-actions

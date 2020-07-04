@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithms vs. Humans
+title: Strategic Choices&#58; Algorithms vs. Humans
 category: roadmap-for-action
 tags: strategic-choices
 description: It is only a matter of time before artificial intelligence further pervades campus decision-making in ways that impact equity, privacy, and allocation of resources.

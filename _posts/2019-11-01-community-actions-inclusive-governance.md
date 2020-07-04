@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Establish Inclusive Governance Structures
+title: Community Actions&#58; Establish Inclusive Governance Structures
 category: roadmap-for-action
 tags: community-actions
 description: It is vital for the governing bodies of infrastructure services to include representation from the communities they serve in order to ensure that management stays accountable to the community’s evolving needs.
