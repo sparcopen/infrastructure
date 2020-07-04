@@ -26,7 +26,6 @@ BASE_PATH: https://keen-panini.netlify.app
 url: https://infrastructure.sparcopen.org # for sitemap. Doesn't need to change on live / dev.
 plugins:
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 collections:
   members:
