@@ -1,6 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-title: SPARC: Community Owned Infrastructure
+title: "SPARC: Community Owned Infrastructure"
 sass:
     style: compressed
 exclude: ["README.md"] # files to exclude
@@ -11,7 +11,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: SPARC: Community Owned Infrastructure
+      title: "SPARC: Community Owned Infrastructure"
 
 description: "Data and data analytics are spreading fast at higher education institutions, and the academic community is at a critical juncture."
 author:
@@ -27,7 +27,6 @@ url: https://infrastructure.sparcopen.org # for sitemap. Doesn't need to change 
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
-
 
 collections:
   members:
