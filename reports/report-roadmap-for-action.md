@@ -9,7 +9,7 @@ authors:
   - heather
   - joe
   - nick
-description: "We commissioned this report as a solution focused follow up to the 'Landscape Analysis': which sparked community wide debate by detailing the changing academic publishing industry and the implications of large-scale deployment of data and data analytics. In this report we offer a roadmap of potential steps that stakeholders can take to chart both individual and collective responses."
+description: "We wrote this report as a solution focused follow up to the 'Landscape Analysis': which sparked community wide debate by detailing the changing academic publishing industry and the implications of large-scale deployment of data and data analytics. In this report we offer a roadmap of potential steps that stakeholders can take to chart both individual and collective responses."
 permalink: /roadmap-for-action
 doi: 10.31229/osf.io/a7nk8
 reversed: true
