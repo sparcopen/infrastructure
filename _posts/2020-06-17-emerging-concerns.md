@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three Subtle Trends Present Emerging Concerns&#58; Intro
-category: 2020-update
+category: #2020-update this was a hard stub to remove, but I changed summaries and I think pulled it off. Main point is 'these things have raised new concerns in past 12 months'.
 tags:
 description: 1. Aggressive expansion of scholarly publishers into research assessment 2. Publishers pooling research dissemination through collective distribution channels 3. Attempted bundling of data analytics tools with publishing tools into "bigger deals."
 permalink: /2020-update/emerging-concerns

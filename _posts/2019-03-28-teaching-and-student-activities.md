@@ -20,7 +20,7 @@ The publishers entered 2017 with significant misgivings. Even if Pearson blamed 
 
 US Higher Education courseware revenue decline for selected publishers.
 
-![US Higher Education courseware revenue by publisher]({{ site.BASE_PATH }}/media/LA_Exhibit_8.png)
+![US Higher Education courseware revenue by publisher]({{ site.BASE_PATH }}/media/figures/LA_Exhibit_8.png)
 
 The continued decline of the higher education courseware business in the U.S. is driven by the interplay of three factors: student enrollment, pricing, and participation rates.
 
@@ -32,7 +32,7 @@ The first factor of student enrollment is cyclical in nature based on the econom
 
 Changes in student enrollment in US colleges, 2015-2017
 
-![Student enrollment in US colleges, 2015-2017]({{ site.BASE_PATH }}/media/LA_Exhibit_9.png)
+![Student enrollment in US colleges, 2015-2017]({{ site.BASE_PATH }}/media/figures/LA_Exhibit_9.png)
 
 ### Factor 2: Pricing
 
@@ -44,7 +44,7 @@ Student spending habits may show some impact on price changes. The annual studen
 
 Student spending on courseware continues to decline according to some sources.
 
-![Alt text explaining what this image represents]({{ site.BASE_PATH }}/media/LA_Exhibit_10.png)
+![Alt text explaining what this image represents]({{ site.BASE_PATH }}/media/figures/LA_Exhibit_10.png)
 
 Product mix also influences realized prices. Follett explains a fairly broad range of options and prices: for a $100 print textbook being sold new in a college bookstore, the used version will command about $75, rental should cost anywhere between $50 and $65, digital editions will retail anywhere between $40 and $60 and custom editions (which are assembled exclusively for a specific campus) will retail at $30. Custom programs are arrangements in which the publishers produce materials that are specifically customized for a course by assembling chapters and articles from multiple sources. These materials are often offered at a steep discount, in large part because of the increased sell-through rate, since students are unable to seek used or rental copies off campus. This has a similar effect as inclusive access, and though different, sometimes the two approaches are combined. As the availability of lower cost options have proliferated over the last decade, it is easy to see how average spending could appear to be in decline.
 

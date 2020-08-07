@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
-
   <body class="post">
     <main class="row">
       <header class="col col--1of3 page-sidebar">
@@ -52,7 +51,11 @@
           <button id="printButton" class="button" onClick="window.print()">Print</button>
           {% endif %}
 
+          {% if site.url contains "members.infrastructure.sparcopen.org" %}
+          <!-- Not site button on members to avoid confusion -->
+          {% else %}
           <a href="#citationContent" class="button accordion-toggle">Cite</a>
+          {% endif %}
         </p>
 
 

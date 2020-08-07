@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Appendix&#58; Intro
-category: 2020-update
+category: #2020-update removed from the web report as it's stub. Summaries were updated the reflect the below.
 tags:
 description: Underlying market trends highlighted in 2019 continue unabated.
 permalink: /2020-update/appendix-intro

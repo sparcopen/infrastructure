@@ -16,7 +16,7 @@ is inherently a best effort exercise (Exhibit 7). Many of the companies or busin
 
 A map of the data tools and services offered by Clarivate, Digital Science, and Elsevier.
 
-![Map of Data Tools and Services]({{ site.BASE_PATH }}/media/LA_Exhibit_7.png)
+![Map of Data Tools and Services]({{ site.BASE_PATH }}/media/figures/LA_Exhibit_7.png)
 
 The map we have compiled raises several issues. It is not the purpose of this document to suggest or recommend solutions to the many issues posed by the deployment of these tools, but we believe it is important to raise at least a few questions for the benefit of readers.
 

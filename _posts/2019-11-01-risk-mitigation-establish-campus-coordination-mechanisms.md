@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Establish Campus Coordination Mechanisms
+title: "Risk Mitigation: Establish Campus Coordination Mechanisms"
 category: roadmap-for-action
 tags: risk-mitigation
 description: Coordination mechanisms to adjudicate conflicts among departments and offices will become key as increasing volumes of data are collected across campuses and data analytics tools are deployed.
