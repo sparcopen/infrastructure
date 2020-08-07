@@ -18,4 +18,4 @@ Any proposed solutions must address the different challenges posed by the adopti
 
 These categories are directional, rather than prescriptive, as we actively support the availability of a wide array of infrastructures. These can be built from scratch by the academic community, can be acquired and grown, and they can also be managed by commercial vendors and/or funding bodies willing to work with the academic community on innovative joint governance models. In turn different institutions will make different choices on which initiatives to support, how, and when.
 
-![open data infrastructure]({{ site.BASE_PATH }}/media/open_data_infrastructure.png)
+![open data infrastructure]({{ site.BASE_PATH }}/media/figures/open_data_infrastructure.png)

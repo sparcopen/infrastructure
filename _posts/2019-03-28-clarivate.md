@@ -16,13 +16,13 @@ Clarivate is the name the new private equity owners (Onex and Baring Asia) gave 
 
 Science and IP accounted for only 8% of Thomson Reuters revenues...
 
-![Thompson Reuters Revenue by Segment]({{ site.BASE_PATH }}/media/LA_Exhibit_5_real.png)
+![Thompson Reuters Revenue by Segment]({{ site.BASE_PATH }}/media/figures/LA_Exhibit_5_real.png)
 
 ##### Exhibit 6
 
 ...and, by 2016, its growth had slowed down considerably.
 
-![Thompson Reuters' IP & Science Annual Growth Rate]({{ site.BASE_PATH }}/media/LA_Exhibit_6.png)
+![Thompson Reuters' IP & Science Annual Growth Rate]({{ site.BASE_PATH }}/media/figures/LA_Exhibit_6.png)
 
 The sale price ($3.55 billion) implied a valuation of about 11.5x 2017 EBITDA ($310 million). At the time of the sale, the latest reported full year EBITDA (for the Fiscal Year 2015) was $313 million (and in 2016, when the assets were mostly owned by Thomson Reuters, the EBITDA was $315 million). At the end of 2018, the company carried a substantial amount of net debt ($2.007 million, slightly higher than the $1.965 million it reported at the end of 2016), implying a net debt/EBITDA of 6.5x (6.2x at the end of 2016), higher than the 5.5x of Springer Nature. This means that management operated under significant constraints in terms of investments. However, in January 2019 Clarivate announced that the company would merge with Churchill Capital Corp, becoming a public company listed at the NY Stock Exchange. The company guided that the transaction implied an entity value of $4.2 billion, with valuation of 12.5x 2019’s estimated EBITDA (implying a 2019 EBITDA of about $335 million). Clarivate also disclosed that its net debt had declined to $1.3 billion thanks to the closing in Q4 2018 of the sale of its Intellectual Property Management business (in part offset by the acquisition of TrademarkVision). This means that the Net Debt/ EBITDA ratio of Clarivate has declined to about 3.9x – a ratio which is still high, but is more manageable and provides management with some room to invest going forward.
 

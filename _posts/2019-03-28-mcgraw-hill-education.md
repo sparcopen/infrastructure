@@ -18,4 +18,4 @@ Apollo has hoped for a long time to IPO the business to exit the investment. Net
 
 Higher Ed accounts for 41.5% of McGraw-Hill Education revenues
 
-![mcgraw hill revenue]({{ site.BASE_PATH }}/media/LA_Exhibit_12.png)
+![mcgraw hill revenue]({{ site.BASE_PATH }}/media/figures/LA_Exhibit_12.png)

@@ -68,9 +68,9 @@ The logo is an inlined SVG image:
 
 ## Graphic
 
-![Alt text explaining what this image represents]({{ site.BASE_PATH }}/media/roadmap_to_action_table.png)
+![Alt text explaining what this image represents]({{ site.BASE_PATH }}/media/figures/open_data_infrastructure.png)
 
 ***
 
 
-[^1]: This is the first footnote. 
+[^1]: This is the first footnote.

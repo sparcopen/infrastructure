@@ -32,7 +32,7 @@ Financial markets are trying to predict whether the global economy (as well as t
 
 Past experience, however, shows that the willingness to provide incremental relief to support prolonged growth tends to decline once recovery sets in. Looking at US GDP growth, we see that after the financial crisis of Q3 2008, the US economy did not return to growth until Q4 2009 (Exhibit 1). Growth then accelerated for three quarters before starting to decline again. Therefore, even in a “V-shaped” scenario, after an initial lag, recovery would be fast but then possibly slow down again relatively soon – what some economists call a W-shaped recovery.
 
-![Exhibit 1: US Real GDP Growth by Quarter, 2008-2013]({{ site.BASE_PATH }}/media/2020_Exhibit_1.png)
+![Exhibit 1: US Real GDP Growth by Quarter, 2008-2013]({{ site.BASE_PATH }}/media/figures/2020_Exhibit_1.png)
 
 A more pessimistic scenario suggests that it will take until sometime in 2021 to bring the pandemic under control, aggravating the economic impact well beyond what current stimulus programs launched in various regions of the world can cope with. In this case, the survival of many companies will be a function of the willingness of governments to support them with further cash. This will probably need to take the form of direct subsidies and grants or even de facto nationalization (partial or total), should the cash be disbursed in exchange for equity. Because of the uncertainty surrounding the likely depth and length of the recession, this may not be the best time for companies to head into a collision course with their respective governments, since they may become dependent on rescue programs for their survival.
 
