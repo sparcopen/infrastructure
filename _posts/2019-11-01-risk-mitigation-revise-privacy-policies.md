@@ -2,7 +2,7 @@
 layout: post
 title: "Risk Mitigation: Revise Privacy Policies"
 category: roadmap-for-action
-tags: risk-mitigation
+tags: risk-mitigation data-management
 description: The development of strong privacy policies is critical, and must extend beyond legal compliance.
 permalink: /roadmap-for-action/revise-privacy-policies
 date: 2019-11-01 08:00:00

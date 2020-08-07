@@ -2,7 +2,7 @@
 layout: post
 title: "Risk Mitigation: Engage in Open Procurement Practices"
 category: roadmap-for-action
-tags: risk-mitigation terms-and-conditions
+tags: risk-mitigation terms-and-conditions data-management
 description: An important area when institutions can assert control of data is through purchasing and procurement processes. These processes should be revisited and revised to ensure that they are transparent, competitive, and fully coordinated across the institution.
 permalink: /roadmap-for-action/engage-in-open-procurement-practices
 date: 2019-11-01 09:00:00

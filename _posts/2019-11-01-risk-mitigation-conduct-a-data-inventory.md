@@ -2,7 +2,7 @@
 layout: post
 title: "Risk Mitigation: Conduct A Data Inventory"
 category: roadmap-for-action
-tags: risk-mitigation
+tags: risk-mitigation data-management
 description: A common-sense response to the increasing volumes of data collected across campuses and the rising deployment of data analytics tools.
 permalink: /roadmap-for-action/conduct-a-data-inventory
 date: 2019-11-01 05:00:00
