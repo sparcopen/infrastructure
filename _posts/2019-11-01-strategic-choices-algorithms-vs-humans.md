@@ -2,7 +2,7 @@
 layout: post
 title: Strategic Choices&#58; Algorithms vs. Humans
 category: roadmap-for-action
-tags: strategic-choices responsible-metrics 
+tags: strategic-choices responsible-metrics-analytics 
 description: It is only a matter of time before artificial intelligence further pervades campus decision-making in ways that impact equity, privacy, and allocation of resources.
 permalink: /roadmap-for-action/algorithms-vs-humans
 date: 2019-11-01 11:00:00
