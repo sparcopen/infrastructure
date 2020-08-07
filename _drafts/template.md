@@ -73,4 +73,4 @@ The logo is an inlined SVG image:
 ***
 
 
-[^1]: This is the first footnote.
+[^1]: This is the first footnote. 
