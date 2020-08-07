@@ -5,6 +5,7 @@ category: landscape-analysis # Categories are reports. Use the file name (minus 
 tags: cengage # Tags are topics. Use the file name (minus the .md)
 description: "The purpose of this document is to build on the Landscape Analysis by offering a roadmap of potential actions that stakeholders can use to chart both individual and collective responses." # This shows up in the sidebar, and on Google!
 permalink: /template # This is the link it'll show up at.
+pdf: "https://osf.io/preprints/lissa/2pwft/download" # if you have a pdf for the post put this here and it'll be used for the print button
 
 # RARELY USED
 
