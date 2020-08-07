@@ -17,12 +17,13 @@ This site provides a custom home for SPARC's Community-Owned Infrastructure proj
 
 # How to add different type of content
 
-* Threads: Go to `_topics`, duplicate any file and adjust to your liking.
-* Reports: Go to `_reports`, duplicate any file and adjust to your liking.
-* Media (e.g images): Go to `_reports`, duplicate any file and adjust to your liking.
-
+* Threads: Go to `_topics`, duplicate any file and adjust to your liking. The tag element on posts affect what topic it goes into.
+* Reports: Go to `_reports`, duplicate any file and adjust to your liking. The catagory element on posts affects what report is used.
+* Media (e.g images): Go to [`_media`](https://github.com/sparcopen/infrastructure/tree/dev/media). If you find a folder that makes sense go there, and then upload your image. Then, reference is as you see in the template.
 
 # About the code
+
+https://github.com/sssoz was the main designer and developer for this project.
 
 The live version of the site is at https://infrastructure.sparcopen.org/ (using `live` in this repo). [![Netlify Status](https://api.netlify.com/api/v1/badges/547e2215-6ab1-4a29-84f1-ef0d8fa8b508/deploy-status)](https://app.netlify.com/sites/upbeat-swirles-009f3e/deploys)
 
