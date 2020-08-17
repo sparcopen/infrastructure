@@ -17,7 +17,7 @@
 {% if page.name == "latest.md" %}
   {% assign posts = site.posts %}
 {% elsif page.name == "members.md" %}
-  {% assign posts = site.members %}
+  {% assign posts = site.members | reverse %}
 {% elsif page.reversed %}
   {% assign posts = site.[thread_type].[thread] | reverse %}
 {% else %}
