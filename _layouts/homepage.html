@@ -30,7 +30,9 @@
       {% for report in site.reports %}
       <div class="col col--1of3">
         <article class="card">
-          <h4>{{ report.short_title }}</h4>
+          <a href="{{ report.permalink }}" class="card__main-link">
+            <h4>{{ report.short_title }}</h4>
+          </a>
           <footer>
             <p class="card__tagline">{{ report.tagline }}</p>
             <div class="card__links">
@@ -62,7 +64,7 @@
       <!-- Topic: interventions -->
       <nav class="col col--1of2">
         <h4 class="label">Interventions to make today</h4>
-        <ul>
+        <ul class="list">
           {% assign topics = site.topics | sort: 'order' %}
           {% for topic in topics %}
           {% if topic.category == "interventions" %}
@@ -85,7 +87,7 @@
       <!-- Topic: companies -->
       <nav class="col col--1of2">
         <h4 class="label">The Companies</h4>
-        <ul>
+        <ul class="list">
           {% assign topics = site.topics | sort: 'order' %}
           {% for topic in topics %}
           {% if topic.category == "companies" %}
@@ -100,7 +102,7 @@
       <!-- Topic: challenges -->
       <nav class="col col--1of2">
         <h4 class="label">The Underlying Challenges</h4>
-        <ul>
+        <ul class="list">
           {% assign topics = site.topics | sort: 'order' %}
           {% for topic in topics %}
           {% if topic.category == "challenges" %}
@@ -114,7 +116,7 @@
     </section>
 
     <!-- Quote -->
-    <section class="row row--centered">
+    <section class="row row--centered featured">
       <div class="col col--2of3">
         <figure></figure>
         <blockquote>

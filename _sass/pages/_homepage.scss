@@ -1,5 +1,11 @@
 .homepage {
 
+  main > section,
+  main > aside,
+  section > nav {
+    margin-bottom: $spacing-04;
+  }
+
   ul, ol {
     @include unstyled-list;
   }
@@ -8,8 +14,14 @@
     text-decoration: none;
   }
 
+  .label {
+    margin-bottom: $spacing-03;
+    color: $red;
+  }
+
   .card {
     padding: $spacing-04;
+    margin-bottom: $spacing-04;
     display: flex;
     flex-direction: column;
     height: 35vh;
@@ -17,7 +29,7 @@
     color: $white;
 
     h4 {
-      margin-top: 0;
+      margin: 0;
     }
 
     a {
@@ -25,7 +37,6 @@
     }
 
     &:hover, &:focus, &:active {
-      cursor: pointer; 
 
       .card__links {
         display: flex;
@@ -37,7 +48,24 @@
     }
   }
 
+  .card__main-link {
+    display: block;
+    flex-grow: 1;
+  }
+
+  .card__tagline {
+    margin: 0;
+  }
+
   .card__links {
     display: none;
+  }
+
+  .list {
+    @include typescale-03;
+  }
+
+  .featured {
+    background-color: rgba($light-grey, 0.35);
   }
 }
