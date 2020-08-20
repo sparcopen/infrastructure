@@ -1,9 +1,12 @@
 .homepage {
 
   main > section,
-  main > aside,
-  section > nav {
+  main > aside {
     margin-bottom: $spacing-04;
+  }
+
+  section > nav {
+    margin-bottom: $spacing-05;
   }
 
   ul, ol {
@@ -25,8 +28,9 @@
     display: flex;
     flex-direction: column;
     height: 35vh;
-    background-color: $red;
+    background-color: $grey;
     color: $white;
+    transition: all 250ms ease;
 
     h4 {
       margin: 0;
@@ -37,6 +41,7 @@
     }
 
     &:hover, &:focus, &:active {
+      background-color: $red;
 
       .card__links {
         display: flex;
