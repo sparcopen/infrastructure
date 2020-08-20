@@ -5,7 +5,7 @@
   - reports (using categories)
   - topics (using tags)
 {% endcomment %}
-{% if page.name contains "report-" %}
+{% if page.collection == 'reports' %}
   {% assign thread_type = "categories" %}
 {% else %}
   {% assign thread_type = "tags" %}

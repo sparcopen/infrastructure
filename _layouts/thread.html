@@ -10,7 +10,7 @@
           <span class="sr-only">Return to homepage</span>
         </a>
         <p class="label">
-          {% if page.name contains "report-" %}
+          {% if page.collection == 'reports' %}
           Report<br/>
           <time datetime="{{ page.date | date: '%F' }}">
             {{ page.date | date: "%b %e, %Y" }}
@@ -31,7 +31,7 @@
           {% include members-box.html %}
           {% endif %}
           <h2>
-            {% if page.name contains "report-" %}
+            {% if page.collection == 'reports' %}
             Table of Contents
             {% else %}
             Contents
@@ -43,7 +43,7 @@
           </a>
           {% endif %}
 
-          {% if page.name contains "report-" %}
+          {% if page.collection == 'reports' %}
             <a href="#citationContent" class="button accordion-toggle">Cite this report</a>
             {% include citation.html class="accordion__content" id="citationContent"%}
           {% endif %}

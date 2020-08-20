@@ -21,70 +21,35 @@
   </header>
 
   <main id="main">
+    <!-- Reports -->
     <section class="row">
       <header class="col">
         <h3 class="label"><small>Reports</small></h3>
         <h4>Guide your institution by understanding</h4>
       </header>
-
+      {% for report in site.reports %}
       <article class="col col--1of3">
-        <h4>The Landscape Analysis</h4>
+        <h4>{{ report.short_title }}</h4>
         <footer>
-          <p>What’s changing?</p>
+          <p>{{ report.tagline }}</p>
           <section>
             <h5>Full Report</h5>
             <ul>
-              <li><a href="">HTML</a></li>
-              <li><a href="">PDF</a></li>
+              <li><a href="{{ report.permalink }}">HTML</a></li>
+              <li><a href="{{ site.BASE_PATH }}{{ report.full.pdf }}" download>PDF</a></li>
             </ul>
             <h5>Executive Summary</h5>
             <ul>
-              <li><a href="">HTML</a></li>
-              <li><a href="">PDF</a></li>
+              <li><a href="{{ report.summary.html }}">HTML</a></li>
+              <li><a href="{{ site.BASE_PATH }}{{ report.summary.pdf }}" download>PDF</a></li>
             </ul>
           </section>
         </footer>
       </article>
-
-      <article class="col col--1of3">
-        <h4>The Roadmap for Action</h4>
-        <footer>
-          <p>How can we respond?</p>
-          <section>
-            <h5>Full Report</h5>
-            <ul>
-              <li><a href="">HTML</a></li>
-              <li><a href="">PDF</a></li>
-            </ul>
-            <h5>Executive Summary</h5>
-            <ul>
-              <li><a href="">HTML</a></li>
-              <li><a href="">PDF</a></li>
-            </ul>
-          </section>
-        </footer>
-      </article>
-
-      <article class="col col--1of3">
-        <h4>The 2020 Update</h4>
-        <footer>
-          <p>What’s the situation today?</p>
-          <section>
-            <h5>Full Report</h5>
-            <ul>
-              <li><a href="">HTML</a></li>
-              <li><a href="">PDF</a></li>
-            </ul>
-            <h5>Executive Summary</h5>
-            <ul>
-              <li><a href="">HTML</a></li>
-              <li><a href="">PDF</a></li>
-            </ul>
-          </section>
-        </footer>
-      </article>
+      {% endfor %}
     </section>
 
+    <!-- Topics  -->
     <section class="row">
       <h3 class="col">Get actionable insights on key topics</h3>
 
@@ -92,13 +57,13 @@
         <h4 class="label">Interventions to make today</h4>
         <ul>
           <li>
-            <a href="">Risk Mitigation</a>
+            <a href="risk-mitigation">Risk Mitigation</a>
           </li>
           <li>
-            <a href="">Strategic Choices</a>
+            <a href="strategic-choices">Strategic Choices</a>
           </li>
           <li>
-            <a href="">Community Actions</a>
+            <a href="community-actions">Community Actions</a>
           </li>
         </ul>
       </nav>
@@ -160,6 +125,7 @@
       </nav>
     </section>
 
+    <!-- Quote -->
     <section class="row row--centered">
       <figure class="col col--1of6"></figure>
       <blockquote class="col col--1of2">
@@ -168,6 +134,7 @@
       </blockquote>
     </section>
 
+    <!-- Recent posts -->
     <section class="row">
       <h3 class="col label">Latest Analysis</h3>
       <ol class="col">
@@ -186,6 +153,7 @@
       </ol>
     </section>
 
+    <!-- Logos  -->
     <aside class="row">
       <h3 class="col col--1of3">As highlighted by</h3>
       <ul class="col col--2of3">
@@ -210,6 +178,7 @@
       </ul>
     </aside>
 
+    <!-- About -->
     <section class="row">
       <h3 class="col label">About</h3>
 

@@ -1,6 +1,8 @@
 ---
 layout: thread
 title: SPARC Landscape Analysis
+short_title: "The Landscape Analysis"
+tagline: "What’s changing?"
 authors:
   - claudio
   - nicole

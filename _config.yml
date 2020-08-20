@@ -30,4 +30,7 @@ plugins:
 collections:
   members:
     output: true
-  featured:
+  topics:
+    output: true
+  reports:
+    output: true

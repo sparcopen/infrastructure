@@ -1,6 +1,8 @@
 ---
 layout: thread
 title: SPARC Roadmap for Action
+short_title: "The Roadmap for Action"
+tagline: "How can we respond?"
 authors:
   - claudio
   - nicole
