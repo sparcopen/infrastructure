@@ -53,18 +53,18 @@
     <section class="row">
       <h3 class="col">Get actionable insights on key topics</h3>
 
+      <!-- Topic: interventions -->
       <nav class="col col--1of2">
         <h4 class="label">Interventions to make today</h4>
         <ul>
+          {% assign topics = site.topics | sort: 'order' %}
+          {% for topic in topics %}
+          {% if topic.category == "interventions" %}
           <li>
-            <a href="risk-mitigation">Risk Mitigation</a>
+            <a href="{{ topic.permalink }}">{{ topic.title }}</a>
           </li>
-          <li>
-            <a href="strategic-choices">Strategic Choices</a>
-          </li>
-          <li>
-            <a href="community-actions">Community Actions</a>
-          </li>
+          {% endif %}
+          {% endfor %}
         </ul>
       </nav>
 
@@ -76,51 +76,33 @@
         </blockquote>
       </aside>
 
+      <!-- Topic: companies -->
       <nav class="col col--1of2">
         <h4 class="label">The Companies</h4>
         <ul>
+          {% assign topics = site.topics | sort: 'order' %}
+          {% for topic in topics %}
+          {% if topic.category == "companies" %}
           <li>
-            <a href="">Elsevier</a>
+            <a href="{{ topic.permalink }}">{{ topic.title }}</a>
           </li>
-          <li>
-            <a href="">Wiley</a>
-          </li>
-          <li>
-            <a href="">Springer Nature</a>
-          </li>
-          <li>
-            <a href="">Clarivate</a>
-          </li>
-          <li>
-            <a href="">Pearson</a>
-          </li>
-          <li>
-            <a href="">McGraw-Hill Education</a>
-          </li>
-          <li>
-            <a href="">Cengage</a>
-          </li>
+          {% endif %}
+          {% endfor %}
         </ul>
       </nav>
 
+      <!-- Topic: challenges -->
       <nav class="col col--1of2">
         <h4 class="label">The Underlying Challenges</h4>
         <ul>
+          {% assign topics = site.topics | sort: 'order' %}
+          {% for topic in topics %}
+          {% if topic.category == "challenges" %}
           <li>
-            <a href="">Terms & Conditions</a>
+            <a href="{{ topic.permalink }}">{{ topic.short_title }}</a>
           </li>
-          <li>
-            <a href="">Market Consolidation</a>
-          </li>
-          <li>
-            <a href="">Data Management</a>
-          </li>
-          <li>
-            <a href="">Responsible Analytics</a>
-          </li>
-          <li>
-            <a href="">Market Analysis</a>
-          </li>
+          {% endif %}
+          {% endfor %}
         </ul>
       </nav>
     </section>

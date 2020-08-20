@@ -1,6 +1,8 @@
 ---
 layout: thread
-title: Cengage
+category: companies
+order: 1
+title: Elsevier
 description: Analysis of their latest moves, finances, and strategy.
-permalink: /cengage
+permalink: /elsevier
 ---

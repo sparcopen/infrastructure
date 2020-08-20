@@ -1,6 +1,8 @@
 ---
 layout: thread
-title: McGraw-Hill Education
+category: companies
+order: 5
+title: Pearson
 description: Analysis of their latest moves, finances, and strategy.
-permalink: /mcgraw-hill-education
+permalink: /pearson
 ---
