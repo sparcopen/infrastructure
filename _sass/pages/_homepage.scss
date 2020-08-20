@@ -7,4 +7,37 @@
   a {
     text-decoration: none;
   }
+
+  .card {
+    padding: $spacing-04;
+    display: flex;
+    flex-direction: column;
+    height: 35vh;
+    background-color: $red;
+    color: $white;
+
+    h4 {
+      margin-top: 0;
+    }
+
+    a {
+      color: $white;
+    }
+
+    &:hover, &:focus, &:active {
+      cursor: pointer; 
+
+      .card__links {
+        display: flex;
+      }
+
+      .card__tagline {
+        display: none;
+      }
+    }
+  }
+
+  .card__links {
+    display: none;
+  }
 }

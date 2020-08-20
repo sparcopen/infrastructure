@@ -28,24 +28,30 @@
         <h4>Guide your institution by understanding</h4>
       </header>
       {% for report in site.reports %}
-      <article class="col col--1of3">
-        <h4>{{ report.short_title }}</h4>
-        <footer>
-          <p>{{ report.tagline }}</p>
-          <section>
-            <h5>Full Report</h5>
-            <ul>
-              <li><a href="{{ report.permalink }}">HTML</a></li>
-              <li><a href="https://dx.doi.org/{{ report.doi }}" target="_blank" rel="noopener">PDF</a></li>
-            </ul>
-            <h5>Executive Summary</h5>
-            <ul>
-              <li><a href="{{ report.summary }}">HTML</a></li>
-              <li><a href="{{ site.BASE_PATH }}{{ report.summary_pdf }}" download>PDF</a></li>
-            </ul>
-          </section>
-        </footer>
-      </article>
+      <div class="col col--1of3">
+        <article class="card">
+          <h4>{{ report.short_title }}</h4>
+          <footer>
+            <p class="card__tagline">{{ report.tagline }}</p>
+            <div class="card__links">
+              <section>
+                <h5>Full Report</h5>
+                <ul>
+                  <li><a href="{{ report.permalink }}">HTML</a></li>
+                  <li><a href="https://dx.doi.org/{{ report.doi }}" target="_blank" rel="noopener">PDF</a></li>
+                </ul>
+              </section>
+              <section>
+                <h5>Executive Summary</h5>
+                <ul>
+                  <li><a href="{{ report.summary }}">HTML</a></li>
+                  <li><a href="{{ site.BASE_PATH }}{{ report.summary_pdf }}" download>PDF</a></li>
+                </ul>
+              </section>
+            </div>
+          </footer>
+        </article>
+      </div>
       {% endfor %}
     </section>
 
