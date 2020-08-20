@@ -29,33 +29,66 @@
 
       <article class="col col--1of3">
         <h4>The Landscape Analysis</h4>
-        <div>
+        <footer>
           <p>What’s changing?</p>
-          <p></p>
-        </div>
+          <section>
+            <h5>Full Report</h5>
+            <ul>
+              <li><a href="">HTML</a></li>
+              <li><a href="">PDF</a></li>
+            </ul>
+            <h5>Executive Summary</h5>
+            <ul>
+              <li><a href="">HTML</a></li>
+              <li><a href="">PDF</a></li>
+            </ul>
+          </section>
+        </footer>
       </article>
 
       <article class="col col--1of3">
         <h4>The Roadmap for Action</h4>
-        <div>
+        <footer>
           <p>How can we respond?</p>
-          <p></p>
-        </div>
+          <section>
+            <h5>Full Report</h5>
+            <ul>
+              <li><a href="">HTML</a></li>
+              <li><a href="">PDF</a></li>
+            </ul>
+            <h5>Executive Summary</h5>
+            <ul>
+              <li><a href="">HTML</a></li>
+              <li><a href="">PDF</a></li>
+            </ul>
+          </section>
+        </footer>
       </article>
 
       <article class="col col--1of3">
         <h4>The 2020 Update</h4>
-        <div>
+        <footer>
           <p>What’s the situation today?</p>
-          <p></p>
-        </div>
+          <section>
+            <h5>Full Report</h5>
+            <ul>
+              <li><a href="">HTML</a></li>
+              <li><a href="">PDF</a></li>
+            </ul>
+            <h5>Executive Summary</h5>
+            <ul>
+              <li><a href="">HTML</a></li>
+              <li><a href="">PDF</a></li>
+            </ul>
+          </section>
+        </footer>
       </article>
     </section>
 
     <section class="row">
       <h3 class="col">Get actionable insights on key topics</h3>
 
-      <nav class="col col--1of3">
+      <nav class="col col--1of2">
         <h4 class="label">Interventions to make today</h4>
         <ul>
           <li>
@@ -70,9 +103,9 @@
         </ul>
       </nav>
 
-      <aside class="col col--group col--2of3">
-        <figure class="col col--1of6"></figure>
-        <blockquote class="col col--3of6">
+      <aside class="col col--group col--1of2">
+        <figure></figure>
+        <blockquote>
           <p>As research and grey data become an increasingly integral part of how institutions operate, there is a great risk of losing control of this data if not tracked and managed across the often distributed operating architecture of higher education institutions.</p>
           <footer>&mdash; Some Name, <cite>Some Institution</cite></footer>
         </blockquote>
@@ -137,7 +170,7 @@
 
     <section class="row">
       <h3 class="col label">Latest Analysis</h3>
-      <ol>
+      <ol class="col">
         <li>
           <h4>June 21st 2020</h4>
           <p>Conduct a Data Inventory</p>
@@ -153,9 +186,9 @@
       </ol>
     </section>
 
-    <aside>
-      <h3>As highlighted by</h3>
-      <ul>
+    <aside class="row">
+      <h3 class="col col--1of3">As highlighted by</h3>
+      <ul class="col col--2of3">
         <li>
           <img src="" alt=""/>
         </li>
@@ -177,211 +210,25 @@
       </ul>
     </aside>
 
-    <section>
-      <h3 class="label">About</h3>
+    <section class="row">
+      <h3 class="col label">About</h3>
 
-      <article>
-        <h4>Claudio Aspesi</h4>
-        <p>A respected market analyst with over a decade of experience covering the academic publishing market, and leadership roles at Sanford C. Bernstein, and McKinsey.</p>
+      <article class="row col col--1of2">
+        <h4 class="col col--group col--1of3">Claudio Aspesi</h4>
+        <p class="col col--group col--2of3">A respected market analyst with over a decade of experience covering the academic publishing market, and leadership roles at Sanford C. Bernstein, and McKinsey.</p>
       </article>
 
-      <article>
-        <h4>SPARC</h4>
-        <p>SPARC is a coalition of academic and research libraries that work to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education.</p>
+      <article class="row col col--1of2">
+        <h4 class="col col--group col--1of3">SPARC</h4>
+        <p class="col col--group col--2of3">SPARC is a coalition of academic and research libraries that work to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education.</p>
       </article>
     </section>
 
-    <hr/>
-
-    <section class="row row--centered">
-      <div class="col col--2of3">
-
-        <p class="label"><small>Reports</small></p>
-        <h3>Guide your institution by understanding&hellip;</h3>
-
-        <ul class="toc col--group">
-          <li class="row toc__item">
-            <h4 class="col col--group col--1of2">&hellip;the landscape</h4>
-            <article class="col col--group col--1of2">
-              <h5>
-                <a href="landscape-analysis" class="toc__link toc__link--arrow">
-                  The Landscape Analysis
-                </a>
-              </h5>
-              <p class="toc__option">
-                <a href="landscape-analysis/summary">View Executive Summary</a>
-                &bull;
-                <a href="{{ site.BASE_PATH }}/media/posts/SPARC-Landscape-Analysis-Executive-Summary.pdf" download >Download PDF</a>
-              </p>
-            </article>
-
-          </li>
-
-          <li class="row toc__item">
-            <h4 class="col col--group col--1of2">&hellip;how to respond</h4>
-            <article class="col col--group col--1of2">
-              <h5>
-                <a href="roadmap-for-action" class="toc__link toc__link--arrow">
-                  The Roadmap for Action
-                </a>
-              </h5>
-              <p class="toc__option">
-                <a href="roadmap-for-action/executive-summary">View Executive Summary</a>
-                &bull;
-                <a href="{{ site.BASE_PATH }}/media/posts/SPARC-Roadmap-for-action-summary.pdf" download >Download PDF</a>
-              </p>
-            </article>
-
-          </li>
-
-          <li class="row toc__item">
-            <h4 class="col col--group col--1of2">&hellip;the situation in 2020</h4>
-            <article class="col col--group col--1of2">
-              <h5>
-                <a href="2020-update" class="toc__link toc__link--arrow">
-                  2020 Update
-                </a>
-              </h5>
-              <p class="toc__option">
-                <a href="2020-update/executive-summary">View Executive Summary</a>
-                &bull;
-                <a href="{{ site.BASE_PATH }}/media/posts/SPARC-2020-Update-Summary.pdf" download >Download PDF</a>
-              </p>
-            </article>
-
-          </li>
-        </ul>
-
-        <p class="label"><small>Topics</small></p>
-        <h3>Get actionable insights on key topics&hellip;</h3>
-        <ul class="toc col--group">
-          <li class="row toc__item">
-            <h4 class="col col--group col--1of2">&hellip;interventions to make today</h4>
-            <ul class="col col--group col--1of2">
-              <li>
-                <a href="risk-mitigation" class="toc__link toc__link--arrow">
-                  Risk Mitigation
-                </a>
-              </li>
-              <li>
-                <a href="strategic-choices" class="toc__link toc__link--arrow">
-                  Strategic Choices
-                </a>
-              </li>
-              <li>
-                <a href="community-actions" class="toc__link toc__link--arrow">
-                  Community Actions
-                </a>
-              </li>
-            </ul>
-
-          </li>
-
-          <li class="row toc__item">
-            <h4 class="col col--group col--1of2">&hellip;the latest news</h4>
-            <ul class="col col--group col--1of2">
-              <li>
-                <a href="2020-update" class="toc__link toc__link--arrow">
-                  June: 2020 Update
-                </a>
-              </li>
-              <li>
-                <a href="dutch-consortia-elsevier-contract" class="toc__link toc__link--arrow">
-                  May: The Dutch Consortia/Elsevier Contract&#58; The Real Risks
-                </a>
-              </li>
-              <li>
-                <a href="https://doi.org/10.1126/science.aba3763" class="toc__link toc__link--arrow">
-                  May: In pursuit of open science open access is not enough
-                </a>
-              </li>
-            </ul>
-
-          </li>
-
-          <li class="row toc__item">
-            <h4 class="col col--group col--1of2">&hellip;underlying challenges</h4>
-            <ul class="col col--group col--1of2">
-              <li>
-                <a href="terms-and-conditions" class="toc__link toc__link--arrow">
-                  Terms & Conditions
-                </a>
-              </li>
-              <li>
-                <a href="market-consolidation" class="toc__link toc__link--arrow">
-                  Market Consolidation
-                </a>
-              </li>
-              <li>
-                <a href="market-analysis" class="toc__link toc__link--arrow">
-                  Market Analysis
-                </a>
-              </li>
-              <li>
-                <a href="responsible-metrics-analytics" class="toc__link toc__link--arrow">
-                  Responsible Metrics and Analytics
-                </a>
-              </li>
-              <li>
-                <a href="data-management" class="toc__link toc__link--arrow">
-                  Data Management
-                </a>
-              </li>
-            </ul>
-
-          </li>
-
-          <li class="row toc__item">
-            <h4 class="col col--group col--1of2">&hellip;the companies</h4>
-            <ul class="col col--group col--1of2">
-              <li>
-                <a href="elsevier" class="toc__link toc__link--arrow">
-                  Elsevier
-                </a>
-              </li>
-              <li>
-                <a href="wiley" class="toc__link toc__link--arrow">
-                  Wiley
-                </a>
-              </li>
-              <li>
-                <a href="springer-nature" class="toc__link toc__link--arrow">
-                  Springer Nature
-                </a>
-              </li>
-              <li>
-                <a href="clarivate" class="toc__link toc__link--arrow">
-                  Clarivate
-                </a>
-              </li>
-              <li>
-                <a href="pearson" class="toc__link toc__link--arrow">
-                  Pearson
-                </a>
-              </li>
-              <li>
-                <a href="mcgraw-hill-education" class="toc__link toc__link--arrow">
-                  McGraw-Hill Education
-                </a>
-              </li>
-              <li>
-                <a href="cengage" class="toc__link toc__link--arrow">
-                  Cengage
-                </a>
-              </li>
-            </ul>
-
-          </li>
-
-        </ul>
-
-        {% include footer.html %}
-
-      </div>
+    {% include footer.html %}
 
     </main>
 
     {% include analytics.html %}
   </body>
 
-  </html>
+</html>
