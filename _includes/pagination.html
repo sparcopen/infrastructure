@@ -1,8 +1,20 @@
+{% if page.previous.link %}
+{% capture previous_link %}{{ page.previous.link }}{% endcapture %}
+{% else %}
+{% capture previous_link %}{{ site.BASE_PATH }}{{ page.previous.url }}{% endcapture %}
+{% endif %}
+
+{% if page.next.link %}
+{% capture next_link %}{{ page.next.link }}{% endcapture %}
+{% else %}
+{% capture next_link %}{{ site.BASE_PATH }}{{ page.next.url }}{% endcapture %}
+{% endif %}
+
 <nav class="pagination">
   <div class="pagination__prev">
     <h2 class="sr-only">Previous article</h2>
     {% if page.previous.url %}
-    <a href="{{ site.BASE_PATH }}{{ page.previous.url }}">
+    <a href="{{ previous_link }}"{% if page.previous.link %} target="_blank" rel="noopener"{% endif %}>
       {% include svg/arrow-left.svg %}
       {{ page.previous.title }}
     </a>
@@ -12,7 +24,7 @@
   <div class="pagination__next">
     <h2 class="sr-only">Next article</h2>
     {% if page.next.url %}
-    <a href="{{ site.BASE_PATH }}{{ page.next.url }}">
+    <a href="{{ next_link }}"{% if page.next.link %} target="_blank" rel="noopener"{% endif %}>
       {{ page.next.title }}
       {% include svg/arrow-right.svg %}
     </a>
