@@ -44,7 +44,7 @@
     }
 
     &:hover, &:focus, &:active {
-      background-color: $red;
+      background-color: $black;
 
       .card__links {
         display: flex;
@@ -62,7 +62,7 @@
     padding: $spacing-04;
 
     &:hover, &:focus, &:active {
-      background-color: $black;
+      background-color: $red;
     }
   }
 
