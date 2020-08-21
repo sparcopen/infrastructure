@@ -1,6 +1,7 @@
 <li class="toc__item">
   <article class="row">
     <header class="col col--group col--1of3">
+      {% if post.section %}<p class="label"><small>{{ post.section }}</small></p>{% endif %}
       <h4>
         <a {% if post.link %}href="{{ post.link }}" target="_blank" rel="noopener"{% else %}href="{{ post.permalink }}"{% endif %} class="toc__link">
           {{ post.title }}{% if post.link %} {% include svg/arrow-northeast.svg %}{% endif %}
