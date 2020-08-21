@@ -22,6 +22,11 @@
     color: $red;
   }
 
+  .highlight {
+    padding: $spacing-04 0;
+    background-color: rgba($light-grey, 0.35);
+  }
+
   .card {
     margin-bottom: $spacing-04;
     display: flex;
@@ -113,12 +118,9 @@
     }
   }
 
-  .quote {
-    padding: $spacing-04 0;
-    background-color: rgba($light-grey, 0.35);
-  }
-
   .latest {
+    margin-top: $spacing-04;
+
     h4 {
       margin: 0;
       @include typescale-03;
@@ -128,13 +130,45 @@
     time {
       margin: 0;
       text-align: right;
-      @include typescale-03;
+      font-weight: 600;
+      @include typescale-06;
       @include font-sans;
     }
 
     li {
       padding: $spacing-04 0;
       border-bottom: 1px solid rgba($grey, 0.35);
+
+      &:first-child {
+        border-top: 1px solid rgba($grey, 0.35);
+      }
+    }
+  }
+
+  .logos {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+
+    li {
+      margin: 0 $spacing-04 $spacing-04 0;
+
+      &:last-child {
+        margin: 0;
+      }
+    }
+
+    img {
+      width: 20vw;
+      mix-blend-mode: multiply;
+    }
+
+    @media (min-width: 1200px) {
+      flex-flow: row nowrap;
+
+      li {
+        margin: 0 $spacing-04 0 0;
+      }
     }
   }
 }
