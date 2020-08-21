@@ -183,13 +183,17 @@
       <h3 class="col label">About</h3>
 
       <article class="row col col--1of2">
-        <h4 class="col col--group col--1of3">Claudio Aspesi</h4>
-        <p class="col col--group col--2of3">A respected market analyst with over a decade of experience covering the academic publishing market, and leadership roles at Sanford C. Bernstein, and McKinsey.</p>
+        {% for author in site.data.authors.claudio %}
+        <h4 class="col col--group col--1of3">{{ author.full_name }}</h4>
+        <p class="col col--group col--2of3">{{ author.short_bio }}</p>
+        {% endfor %}
       </article>
 
       <article class="row col col--1of2">
-        <h4 class="col col--group col--1of3">SPARC</h4>
-        <p class="col col--group col--2of3">SPARC is a coalition of academic and research libraries that work to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education.</p>
+        {% for author in site.data.authors.sparc %}
+        <h4 class="col col--group col--1of3">{{ author.acronym }}</h4>
+        <p class="col col--group col--2of3">{{ author.short_bio }}</p>
+        {% endfor %}
       </article>
     </section>
 
