@@ -17,9 +17,20 @@
     text-decoration: none;
   }
 
+  blockquote {
+    margin-bottom: $spacing-05;
+    font-weight: 400;
+    @include typescale-04;
+  }
+
   .label {
     margin-bottom: $spacing-03;
     color: $red;
+  }
+
+  .portrait {
+    margin-bottom: $spacing-03;
+    float: none;
   }
 
   .highlight {
