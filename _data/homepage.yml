@@ -7,3 +7,25 @@ featured_quote:
 - content: "Our leadership is increasingly concerned about letting black box tools drive decisions for how we run our institution. These reports have been an essential in helping educate us and guide our thinking on how to seize the benefits, and while managing the risks, of the increasing prevalence of digital tools and data analytics."
   author: heather
   institution: "McGill University"
+
+highlighted_by:
+- name: Science
+  logo: "science.png"
+
+- name: Bloomberg
+  logo: "bloomberg.png"
+
+- name: CUNY UFS
+  logo: "cuny-ufs.png"
+
+- name: Swiss Universities
+  logo: "swiss-universities.png"
+
+- name: University of California
+  logo: "uc.png"
+
+- name: Inside Higher Ed
+  logo: "inside-higher-ed.png"
+
+- name: National Academies
+  logo: "national-academies.png"

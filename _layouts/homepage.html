@@ -163,27 +163,11 @@
       <h2 class="col col--1of6 label">As highlighted by</h2>
       <div class="row col col--5of6">
         <ul class="logos">
+          {% for mention in site.data.homepage.highlighted_by %}
           <li>
-            <img src="{{ site.BASE_PATH }}/media/logos/science.png" alt="Science Mag logo"/>
+            <img src="{{ site.BASE_PATH }}/media/logos/{{ mention.logo }}" alt="{{ mention.name }} logo"/>
           </li>
-          <li>
-            <img src="{{ site.BASE_PATH }}/media/logos/bloomberg.png" alt="Bloomberg logo"/>
-          </li>
-          <li>
-            <img src="{{ site.BASE_PATH }}/media/logos/cuny-ufs.png" alt="CUNY UFS logo"/>
-          </li>
-          <li>
-            <img src="{{ site.BASE_PATH }}/media/logos/swiss-universities.png" alt="Swiss Universities logo"/>
-          </li>
-          <li>
-            <img src="{{ site.BASE_PATH }}/media/logos/uc.png" alt="University of California logo"/>
-          </li>
-          <li>
-            <img src="{{ site.BASE_PATH }}/media/logos/inside-higher-ed.png" alt="Inside Higher Ed logo"/>
-          </li>
-          <li>
-            <img src="{{ site.BASE_PATH }}/media/logos/national-academies.png" alt="National Academies logo"/>
-          </li>
+          {% endfor %}
         </ul>
       </div>
     </aside>

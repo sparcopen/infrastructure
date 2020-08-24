@@ -171,19 +171,16 @@
       &:last-child {
         margin: 0;
       }
+
+      @media (min-width: 1200px) {
+        margin: 0 $spacing-04 0 0;
+        flex: 1 0 10%;
+      }
     }
 
     img {
       width: 20vw;
       mix-blend-mode: multiply;
-    }
-
-    @media (min-width: 1200px) {
-      flex-flow: row nowrap;
-
-      li {
-        margin: 0 $spacing-04 0 0;
-      }
     }
   }
 
