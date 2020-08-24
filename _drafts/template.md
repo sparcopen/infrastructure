@@ -8,7 +8,6 @@ permalink: /template # This is the link it'll show up at.
 pdf: "https://osf.io/preprints/lissa/2pwft/download" # if you have a pdf for the post put this here and it'll be used for the print button
 
 # RARELY USED
-
 hidden: true # exclude a post/page from pagination
 date: 2019-03-29 03:00:00 # This date will override the date in the file name. Mainly we use it to handle ordering in reports / threads. The date can be the day the report was published, and the time can be used to sort posts.
 authors: # This can be used to specify authors as below. This will change what the author box does. If you don't give any authors it'll use Claudio and SPARC, and you can delete this.
@@ -19,6 +18,7 @@ authors: # This can be used to specify authors as below. This will change what t
 #  - joe
 #  - nick
 featured: true # This will make it turn up at the top of threads
+homepage_latest: true # This will add it to the homepage’s "Latest Analysis" section 
 
 # FOR LINK ONLY POSTS
 link: https://sparcopen.org/news/2020/qa-cengage-mcgraw-hill-merger-one-year-and-counting/ # If you're doing a link only post, put the link here. Otherwise, delete this.
