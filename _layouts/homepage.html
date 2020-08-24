@@ -191,14 +191,14 @@
     <section class="row">
       <h3 class="col label">About</h3>
 
-      <article class="row col col--1of2">
+      <article class="row col col--1of2 about">
         {% for author in site.data.authors.claudio %}
         <h4 class="col col--group col--1of3">{{ author.full_name }}</h4>
         <p class="col col--group col--2of3">{{ author.short_bio }}</p>
         {% endfor %}
       </article>
 
-      <article class="row col col--1of2">
+      <article class="row col col--1of2 about">
         {% for author in site.data.authors.sparc %}
         <h4 class="col col--group col--1of3">{{ author.acronym }}</h4>
         <p class="col col--group col--2of3">{{ author.short_bio }}</p>
