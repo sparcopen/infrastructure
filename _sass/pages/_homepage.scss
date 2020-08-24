@@ -20,7 +20,11 @@
 
   blockquote {
     font-weight: 400;
-    @include typescale-04;
+    @include typescale-05;
+
+    @media (min-width: 1200px) {
+      @include typescale-04;
+    }
   }
 
   .label {
@@ -42,7 +46,7 @@
     margin-bottom: $spacing-04;
     display: flex;
     flex-direction: column;
-    height: 35vh;
+    height: 50vh;
     background-color: $grey;
     color: $white;
     transition: all 250ms ease;
