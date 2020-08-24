@@ -3,8 +3,8 @@
   position: relative;
   float: left;
   margin: 0 $spacing-04 $spacing-04 0;
-  width: 150px;
-  height: 150px;
+  width: 75px;
+  height: 75px;
   overflow: hidden;
   border-radius: 50%;
 
@@ -13,5 +13,15 @@
     margin: 0 auto;
     height: 100%;
     width: auto;
+  }
+
+  @media (min-width: 768px) {
+    width: 100px;
+    height: 100px;
+  }
+
+  @media (min-width: 1200px) {
+    width: 150px;
+    height: 150px;
   }
 }

@@ -24,8 +24,8 @@
     <!-- Reports -->
     <section class="row">
       <header class="col">
-        <h3 class="label">Reports</h3>
-        <h4>Guide your institution by understanding</h4>
+        <h2 class="label">Reports</h2>
+        <h3>Guide your institution by understanding</h3>
       </header>
       {% for report in site.reports %}
       <div class="col col--1of3">
@@ -59,6 +59,7 @@
 
     <!-- Topics  -->
     <section class="row">
+      <h2 class="sr-only">Topics</h2>
       <h3 class="col">Get actionable insights on key topics</h3>
 
       <!-- Topic: interventions -->
@@ -76,7 +77,7 @@
         </ul>
       </nav>
 
-      <aside class="col col--1of2">
+      <aside class="col col--1of2 row">
         <figure class="portrait">
           <img src="{{ site.BASE_PATH }}/media/team/joseph.png" alt="Portrait of Joseph McArthur"/>
         </figure>
@@ -118,7 +119,7 @@
     </section>
 
     <!-- Quote -->
-    <section class="row row--centered highlight">
+    <aside class="row row--centered highlight">
       <div class="col col--2of3">
         <figure class="portrait">
           <img src="{{ site.BASE_PATH }}/media/team/joseph.png" alt="Portrait of Joseph McArthur"/>
@@ -128,38 +129,56 @@
           <footer>&mdash; Some Name, <cite>Some Institution</cite></footer>
         </blockquote>
       </div>
-    </section>
+    </aside>
 
     <!-- Recent posts -->
-    <section class="row">
-      <nav class="col">
-        <h3 class="label">Latest Analysis</h3>
+    <nav class="row">
+      <div class="col">
+        <h2 class="label">Latest Analysis</h2>
         <ol class="latest">
           <li>
-            <a href="#" class="row">
-              <h4 class="col col--group col--5of6">Conduct a Data Inventory</h4>
-              <time class="col col--group col--1of6">June 21st 2020</time>
+            <a href="#">
+              <time>June 21st 2020</time>
+              <h4>Conduct a Data Inventory</h4>
             </a>
           </li>
           <li>
-            <a href="#" class="row">
-              <h4 class="col col--group col--5of6">The Dutch Consortia/Elsevier Contract: The Real Risks</h4>
-              <time class="col col--group col--1of6">May 13th 2020</time>
+            <a href="#">
+              <time>May 13th 2020</time>
+              <h4>The Dutch Consortia/Elsevier Contract: The Real Risks</h4>
             </a>
           </li>
           <li>
-            <a href="#" class="row">
-              <h4 class="col col--group col--5of6">In pursuit of open science, open access is not enough</h4>
-              <time class="col col--group col--1of6">May 2nd 2020</time>
+            <a href="#">
+              <time>May 2nd 2020</time>
+              <h4>In pursuit of open science, open access is not enough</h4>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <time>June 21st 2020</time>
+              <h4>Conduct a Data Inventory</h4>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <time>May 13th 2020</time>
+              <h4>The Dutch Consortia/Elsevier Contract: The Real Risks</h4>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <time>May 2nd 2020</time>
+              <h4>In pursuit of open science, open access is not enough</h4>
             </a>
           </li>
         </ol>
-      </nav>
-    </section>
+      </div>
+    </nav>
 
     <!-- Logos  -->
     <aside class="row highlight">
-      <h3 class="col col--1of6 label">As highlighted by</h3>
+      <h2 class="col col--1of6 label">As highlighted by</h2>
       <div class="row col col--5of6">
         <ul class="logos">
           <li>
@@ -189,7 +208,7 @@
 
     <!-- About -->
     <section class="row">
-      <h3 class="col label">About</h3>
+      <h2 class="col label">About</h2>
 
       <article class="row col col--1of2 about">
         {% for author in site.data.authors.claudio %}
@@ -206,11 +225,14 @@
       </article>
     </section>
 
-    {% include footer.html %}
+    <!-- Extra col for footer content alignment -->
+    <div class="col">
+      {% include footer.html %}
+    </div>
 
-    </main>
+  </main>
 
-    {% include analytics.html %}
+  {% include analytics.html %}
   </body>
 
 </html>

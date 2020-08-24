@@ -1,12 +1,13 @@
 .homepage {
 
   main > section,
-  main > aside {
+  main > aside,
+  main > nav {
     margin-bottom: $spacing-04;
   }
 
-  section > nav {
-    margin-bottom: $spacing-05;
+  section > nav:not(:first-of-type) {
+    margin-top: $spacing-04;
   }
 
   ul, ol {
@@ -18,7 +19,6 @@
   }
 
   blockquote {
-    margin-bottom: $spacing-05;
     font-weight: 400;
     @include typescale-04;
   }
@@ -29,12 +29,12 @@
   }
 
   .portrait {
-    margin-bottom: $spacing-03;
+    margin-bottom: $spacing-02;
     float: none;
   }
 
   .highlight {
-    padding: $spacing-04 0;
+    padding: $spacing-05 0;
     background-color: rgba($light-grey, 0.35);
   }
 
@@ -132,6 +132,12 @@
   .latest {
     margin-top: $spacing-04;
 
+    @media (min-width: 768px) {
+      column-count: 2;
+      column-rule: 2px solid $grey;
+      column-gap: 80px;
+    }
+
     h4 {
       margin: 0;
       @include typescale-03;
@@ -139,20 +145,13 @@
     }
 
     time {
-      margin: 0;
       text-align: right;
-      font-weight: 600;
       @include typescale-06;
       @include font-sans;
     }
 
     li {
-      padding: $spacing-04 0;
-      border-bottom: 1px solid rgba($grey, 0.35);
-
-      &:first-child {
-        border-top: 1px solid rgba($grey, 0.35);
-      }
+      padding: 0 0 $spacing-05 0;
     }
   }
 
