@@ -139,7 +139,7 @@
           {% for post in site.posts %}
           {% if post.homepage_latest %}
           <li>
-            <a href="#">
+            <a href="{{ post.permalink }}">
               <time>{{ post.date | date: "%-d %B %Y" }}</time>
               <h4>{{ post.title }}</h4>
             </a>
