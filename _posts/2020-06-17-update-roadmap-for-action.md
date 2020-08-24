@@ -7,6 +7,7 @@ description: Acting in conditions of high uncertainty is particularly difficult.
 
 permalink: /2020-update/update-to-roadmap-for-action
 date: 2020-06-22 10:00:00
+homepage_latest: true
 ---
 
 ### New Responses in the Context of the COVID-19 Crisis

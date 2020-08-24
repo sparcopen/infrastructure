@@ -6,6 +6,7 @@ description: This agreement raises significant issues both in terms of some of t
 permalink: /dutch-consortia-elsevier-contract
 date: 2020-05-28
 featured: true
+homepage_latest: true
 # This was members only content previously send by H title "FINAL Dutch agreement commentary.pdf"
 ---
 
