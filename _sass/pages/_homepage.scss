@@ -40,6 +40,10 @@
   .highlight {
     padding: $spacing-05 0;
     background-color: rgba($light-grey, 0.35);
+
+    .label {
+      color: $black;
+    }
   }
 
   .card {
