@@ -149,7 +149,7 @@
           <li>
             <a href="{{ post.permalink }}">
               <time>{{ post.date | date: "%-d %B %Y" }}</time>
-              <h4>{{ post.title }}</h4>
+              <h3>{{ post.title }}</h3>
             </a>
           </li>
           {% endif %}
@@ -178,14 +178,14 @@
 
       <article class="row col col--1of2 about">
         {% for author in site.data.authors.claudio %}
-        <h4 class="col col--group col--1of3">{{ author.full_name }}</h4>
+        <h3 class="col col--group col--1of3">{{ author.full_name }}</h3>
         <p class="col col--group col--2of3">{{ author.short_bio }}</p>
         {% endfor %}
       </article>
 
       <article class="row col col--1of2 about">
         {% for author in site.data.authors.sparc %}
-        <h4 class="col col--group col--1of3">{{ author.acronym }}</h4>
+        <h3 class="col col--group col--1of3">{{ author.acronym }}</h3>
         <p class="col col--group col--2of3">{{ author.short_bio }}</p>
         {% endfor %}
       </article>
