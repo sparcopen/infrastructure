@@ -1,4 +1,4 @@
-SPARC Community-Owned Infrastructure Microsite
+SPARC Community-Owned Infrastructure Microsite 
 =====
 
 # About
