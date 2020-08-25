@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Community Actions&#58; Build or Acquire Academic Community-Controlled Infrastructure
+title: Build or Acquire Academic Community-Controlled Infrastructure
 category: roadmap-for-action
+section: "Community Actions"
 tags: community-actions
 description: The most direct path to ensure community control over data infrastructure is to build or acquire it.
 permalink: /roadmap-for-action/community-controlled-infrastructure

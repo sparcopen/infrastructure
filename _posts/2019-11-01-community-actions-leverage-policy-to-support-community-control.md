@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Community Actions&#58; Leverage Policy to Support Community Control
+title: Leverage Policy to Support Community Control
 category: roadmap-for-action
+section: "Community Actions"
 tags: community-actions data-management
 description: Another avenue to expand community’s control over data infrastructure is to advocate for favorable federal and state policies.
 permalink: /roadmap-for-action/leverage-policy-to-support-community-control
