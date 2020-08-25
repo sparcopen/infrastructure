@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Education Companies&#58; Other Publishers
+title: Other Publishers
 category: landscape-analysis
+section: "Education Companies"
 tags: cengage wiley
 description: Estimating market share among publishers has been difficult. However, there are other, smaller publishers in the Courseware business.
 permalink: /landscape-analysis/other-education-publisher

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Research Companies&#58; The Products
+title: The Products
 category: landscape-analysis
+section: "Research Companies"
 tags: market-analysis clarivate elsevier
 description: Compiling a map of all the products and services that the three leading research data analytics vendors (Clarivate, Digital Science, Elsevier) market outside libraries is inherently a best effort exercise.
 permalink: /landscape-analysis/the-products

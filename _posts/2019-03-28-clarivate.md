@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Research Companies&#58; Clarivate
+title: Clarivate
 category: landscape-analysis
+section: "Research Companies"
 tags: clarivate
 description: "Clarivate is the name the new private equity owners gave to the assets previously owned by Thomson Reuters. The company’s strategy is to be a neutral data analytics supplier to researchers and librarians."
 permalink: /landscape-analysis/clarivate

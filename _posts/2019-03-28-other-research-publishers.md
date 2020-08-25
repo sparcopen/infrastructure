@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Research Companies&#58; Other publishers
+title: Other publishers
 category: landscape-analysis
+section: "Research Companies"
 tags:
 description: "We view any publisher below the size of Wiley as unlikely to have the financial resources to mount a major challenge to the research data analytics businesses of Elsevier and Clarivate."
 permalink: /landscape-analysis/other-research-publishers
