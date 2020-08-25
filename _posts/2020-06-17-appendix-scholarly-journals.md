@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Appendix&#58; Scholarly Journals
+title: Scholarly Journals
 category: 2020-update
+section: "Appendix"
 tags: market-analysis
 description: The scholarly journals business is still on a path to raising its profitability, but pricing pressures will intensify and we see substantial stagnation of subscription revenues.
 permalink: /2020-update/appendix-scholarly-journals

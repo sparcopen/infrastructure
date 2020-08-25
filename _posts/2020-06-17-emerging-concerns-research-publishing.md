@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Emerging Concerns&#58; A Shift from Research Publishing to Research Assessment
+title: A Shift from Research Publishing to Research Assessment
 category: 2020-update
+section: "Emerging Concerns"
 tags: elsevier
 description: We're concerned by new initiatives with inherent conflicts of interest between assessing and evaluating research, on the one hand, and disseminating it, on the other.
 permalink: /2020-update/shift-from-research-publishing
