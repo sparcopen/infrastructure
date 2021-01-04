@@ -63,7 +63,7 @@
       <h3 class="col">Get actionable insights on key topics</h3>
 
       <!-- Topic: interventions -->
-      <nav class="col col--1of2">
+      <nav class="col col--1of3">
         <h4 class="label">Interventions to make today</h4>
         <ul class="list">
           {% assign topics = site.topics | sort: 'order' %}
@@ -77,23 +77,8 @@
         </ul>
       </nav>
 
-      <!-- Topic: companies -->
-      <nav class="col col--1of2">
-        <h4 class="label">The Companies</h4>
-        <ul class="list">
-          {% assign topics = site.topics | sort: 'order' %}
-          {% for topic in topics %}
-          {% if topic.category == "companies" %}
-          <li>
-            <a href="{{ topic.permalink }}">{{ topic.title }}</a>
-          </li>
-          {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
-
       <!-- Topic: challenges -->
-      <nav class="col col--1of2">
+      <nav class="col col--1of3">
         <h4 class="label">The Underlying Challenges</h4>
         <ul class="list">
           {% assign topics = site.topics | sort: 'order' %}
@@ -101,6 +86,21 @@
           {% if topic.category == "challenges" %}
           <li>
             <a href="{{ topic.permalink }}">{{ topic.short_title }}</a>
+          </li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+
+      <!-- Topic: companies -->
+      <nav class="col col--1of3">
+        <h4 class="label">The Companies</h4>
+        <ul class="list">
+          {% assign topics = site.topics | sort: 'order' %}
+          {% for topic in topics %}
+          {% if topic.category == "companies" %}
+          <li>
+            <a href="{{ topic.permalink }}">{{ topic.title }}</a>
           </li>
           {% endif %}
           {% endfor %}
