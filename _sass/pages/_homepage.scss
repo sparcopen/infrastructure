@@ -5,11 +5,7 @@
   main > nav {
     margin-bottom: $spacing-04;
   }
-
-  section > nav:not(:first-of-type) {
-    margin-top: $spacing-04;
-  }
-
+  
   ul, ol {
     @include unstyled-list;
   }
