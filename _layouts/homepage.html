@@ -27,7 +27,8 @@
         <h2 class="label">Reports</h2>
         <h3>Guide your institution by understanding</h3>
       </header>
-      {% for report in site.reports | sort:"weight" %}
+      {% assign report = site.reports | sort:"weight" %}
+      {% for report in site.reports %}
       <div class="col col--1of3">
         <article class="card">
           <a href="{{ report.permalink }}" class="card__main-link">
