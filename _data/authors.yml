@@ -86,3 +86,19 @@ marty:
   short_bio: "Report editor"
   bio: "https://words-matter.org/"
   contact: 
+
+nancy:
+- full_name: Nancy Maron
+  first_name: Nancy
+  last_name: Maron
+  short_bio: 
+  bio: "https:
+  contact:
+  
+juan:
+- full_name: Juan Pablo Alperin
+  first_name: Juan
+  last_name: Alperin
+  short_bio: 
+  bio: 
+  contact: 
