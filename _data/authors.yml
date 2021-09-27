@@ -62,3 +62,27 @@ shawn:
   short_bio:
   bio:
   contact:
+  
+ val:
+- full_name: Valorie Hollister
+  first_name: Valorie
+  last_name: Hollister
+  short_bio:
+  bio: "https://sparcopen.org/people/val-hollister/"
+  contact: "mailto:val@sparcopen.org"
+  
+ katie:
+- full_name: Katie Steen 
+  first_name: Katie
+  last_name: Steen
+  short_bio:
+  bio: "https://sparcopen.org/people/katie-steen-2/"
+  contact: "mailto:katie@sparcopen.org"
+
+ marty:
+- full_name: Marty Lentz
+  first_name: Marty
+  last_name: Lentz
+  short_bio: Report editor
+  bio: "https://words-matter.org/"
+  contact: 
