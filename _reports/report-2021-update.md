@@ -19,6 +19,6 @@ summary: "2021-update/executive-summary" # same as above
 summary_pdf: "" # Link to the summary pdf
 doi: # include the DOI without doi.org. Can get from Zenodo.
 reversed: true # This is the ordering of the report vs dates
-date: 2021-09-21 # Publication dat
+date: 2021-09-21 # Publication date
 pdf: "https://sparcopen.org/wp-content/uploads/2021/09/2021-Landscape-Analysis-092221.pdf" # Link the full text PDF
 ---
