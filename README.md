@@ -20,7 +20,7 @@ This site provides a custom home for SPARC's Community-Owned Infrastructure proj
 
 * Threads: Go to [`_topics`](https://github.com/sparcopen/infrastructure/tree/dev/_topics), duplicate any file and adjust to your liking. The tag element on posts affect what topic it goes into.
 * Reports: Go to []`_reports`](https://github.com/sparcopen/infrastructure/tree/dev/_reports), duplicate any file and adjust to your liking. The catagory element on posts affects what report is used.
-* Media (e.g images): Go to [`_media`](https://github.com/sparcopen/infrastructure/tree/dev/media). If you find a folder that makes sense go there, and then upload your image. Then, reference is as you see in the template.
+* Media (e.g images, report PDFs): Go to [`_media`](https://github.com/sparcopen/infrastructure/tree/dev/media). If you find a folder that makes sense go there, and then upload your image. Then, reference is as you see in the template.
 * Authors. If there is a author go to [_data/authors.yml](https://github.com/sparcopen/infrastructure/blob/dev/_data/authors.yml) and copy previous entries.
 
 # About the code
