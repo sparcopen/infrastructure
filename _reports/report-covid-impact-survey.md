@@ -15,4 +15,5 @@ doi: # include the DOI without doi.org. Can get from Zenodo.
 reversed: true # This is the ordering of the report vs dates
 date: 2021-09-20 # Publication dat
 pdf: "https://sparcopen.org/wp-content/uploads/2021/09/SPARC-COVID-Impact-Survey-092021.pdf" # Link the full text PDF
+weight: 4
 ---
