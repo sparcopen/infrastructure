@@ -11,12 +11,14 @@ This site provides a custom home for SPARC's Community-Owned Infrastructure proj
 
 # How to make a new post via Github web interface
 
-* You need to have access to add blogs to the website. This can be done by adding your github account to the [Staff Team](https://github.com/orgs/sparcopen/teams/staff/members).
+Posts are usually different sections of the report.
+
+* You need to have access to add posts to the website. This can be done by adding your github account to the [Staff Team](https://github.com/orgs/sparcopen/teams/staff/members).
 * Clicking [here](https://github.com/sparcopen/infrastructure/new/dev/_posts). That will start a new post in [`_posts`](https://github.com/sparcopen/infrastructure/tree/dev/_posts) on the `dev` branch.
 * Give your post a name. Your name must start with the date you want it posted plus a friendly title and `.md` at the end. This means post names look like this YYYY-MM-DD-your-title.md
 * Start writing. It can be helpful to [start by copying template](https://github.com/sparcopen/infrastructure/edit/dev/_drafts/template.md).
 * When you're ready to save, hit `commit changes` at the bottom.
-* In about a minute you'll find your post at http://test.infrastructure.sparcopen.org/. This will only happen if the post date is *today*. Think of this as a preview, it won't show up on Google or anything like that.
+* The site will then update, this can take about a minute (you can check the status above). You'll find your post at http://test.infrastructure.sparcopen.org/. This will only happen if the post date is *today*. Think of this as a preview, it won't show up on Google or be discoverable from the live website.
 * If you want to make edits to your post, find it in [`_posts`](https://github.com/sparcopen/infrastructure/tree/dev/_posts)
 * Once you're happy, it's time to put your post on the live site. To do that, [click here](https://github.com/sparcopen/infrastructure/compare/dev?expand=1). If it shows only your post as being added, great! If it doesn't, best to reach out to @JosephMcArthur for help. If that isn't possible, clicking [here](https://github.com/sparcopen/infrastructure/new/live/_posts) and copy your post. This will put your post directly on live, and while this can be bad practice is fine in a pinch.
 
@@ -25,7 +27,7 @@ This site provides a custom home for SPARC's Community-Owned Infrastructure proj
 * Click [here](https://github.com/sparcopen/infrastructure/new/dev/_reports) to make a new report file. That will start a new report in [`_reports`](https://github.com/sparcopen/infrastructure/tree/dev/_reports).
 * Create a file name. It needs start with `report` and end `.md`. Keep it just a few words.
 * Copy file contents from https://github.com/sparcopen/infrastructure/blob/dev/_reports/report-2021-update.md. This will give you the key field names and some documentation about them. Don't delete any key.
-
+* When you're ready to save, hit `commit changes` at the bottom.
 
 # How to add different type of content
 
