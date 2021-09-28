@@ -2,7 +2,7 @@
 layout: thread
 title: 2020 Update&#58; SPARC Landscape Analysis & Roadmap for Action
 short_title: "The 2020 Update"
-tagline: "What’s the situation today?"
+tagline: "What was the situation in 2020?"
 authors:
   - claudio
   - nicole

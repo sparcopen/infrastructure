@@ -1,7 +1,7 @@
 ---
 layout: thread # You generally won't want to change this. It sets the page template to use.
 title: "SPARC COVID Impact Survey" # This appears on the report landing page.
-short_title: "COVID Impact Survey " # This appears on the homepage as the title. It should be short and snappy.
+short_title: "COVID Impact Survey" # This appears on the homepage as the title. It should be short and snappy.
 tagline: "What is the impact of the pandemic?" # This appears on the homepage as the title. It should be short and snappy.
 authors: # Authors are defined at https://github.com/sparcopen/infrastructure/blob/dev/_data/authors.yml. Add them there before referencing them here.
   - nancy
