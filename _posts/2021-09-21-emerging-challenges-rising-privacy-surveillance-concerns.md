@@ -15,6 +15,7 @@ Since the start of the pandemic, academic institutions have been confronted with
 * Collection and sale of data by some commercial vendors with ties to the academic community to governments and law enforcement
 * Risks and inequities of online exam proctoring tools
 
+
 **Tracking and Monitoring Software** 
 
 In an October 2020 SNSI (Scholarly Networks Security Initiative) webinar, a group of scholarly journal publishers unveiled a plan to insert monitoring software on its platforms to protect copyright from cyber-attacks.[^10] According to some reports, the SNSI initiative was not targeted to blocking or monitoring Sci-Hub,[^11] but the agenda of the SNSI webinar explicitly included a presentation about Sci-Hub.  
@@ -22,6 +23,7 @@ In an October 2020 SNSI (Scholarly Networks Security Initiative) webinar, a grou
 Critics of the initiative have pointed out the absence of evidence for some of the claims made by SNSI (from connections between Sci-Hub and Russian intelligence agencies to the use of Sci-Hub to steal passwords to access personal records or access to other databases).[^12] Claims and counterclaims are difficult to adjudicate. On the other hand, the idea of academic libraries acquiescing to the deployment of software that monitors the behavior of their patrons and collects data with no conditions on what, why, and for what use, flies in the face of both long-held privacy expectations of library users and of academic freedom. 
 
 The SNSI presented an update at the STM (International Association of Science, Technical, and Medical Publishers) Conference in April 2021. The speakers reported seeing skepticism from the librarian community and indicated the need to reframe their message from “protecting the publishers” to “protecting library patrons.” Setting aside the communication strategy which appeared inadequate even to the speakers, the real issue seems to be the healthy skepticism of librarians. Publishers appeared surprised and out of touch, particularly considering the data resale activities of some of the companies in their ranks.
+
 
 **Collection and Sale of Data** 
 
@@ -34,6 +36,7 @@ There is precedent for this: in 2007, Reed Elsevier (as RELX was called then) di
 In addition to the ethical issues posed by the ICE business of Thomson Reuters and RELX, there is a practical one. SNSI openly lobbies libraries to install tracking software; according to sources, RELX already does so. ScienceDirect links directly to ThreatMetrix’s (a RELX company) processing notice to describe how collected data are used: “As explained in our privacy policy, sciencedirect.com and Linkinghub.elsevier.com collect information through the use of cookies or similar technologies. Security cookies and related technologies, such as those provided by ThreatMetrix, are used to maintain online security and protect our website against fraud and abuse.” There is no indication whether any of the information is made available to third parties.
 
 The use of ThreatMetrix in ScienceDirect raises questions of whether the online activities of legal clinics in law schools through LexisNexis tools is monitored, and whether data are sold to government agencies, jeopardizing the rights of individuals and associations being assisted by legal clinics. In the past, RELX has denied doing so—but the only way to ensure that RELX does not combine information from LexisNexis with other databases is to abandon contracts with controversial agencies and governments. 
+
 
 **Risks and Inequities of Online Exam Proctoring Tools**
 
