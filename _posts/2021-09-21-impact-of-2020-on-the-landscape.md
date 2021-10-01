@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The Impact of 2020 on the Landscape
-category: 2020-update
+category: 2021-update
 tags: market-analysis
 description: FILL IN THE BLANK
-permalink: /2020-update/impact-of-2020-on-the-landscape
-date: 2020-06-22 11:00:00
+permalink: /2021-update/impact-of-2020-on-the-landscape
+date: 2020-06-22 1o:00:00
 ---
 
 ### 1. Scholarly Publishers
