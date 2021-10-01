@@ -21,14 +21,14 @@ better understand the needs and protect the interests of individuals and communi
 
 >The recommendations underscore the need for the academic community to take control of its own content and infrastructure both to best serve its own interests and to protect and further its values of equity, inclusiveness, and academic freedom. 
 
-**Report Authors:**
+#### Report Authors
 
-Claudio Aspesi (Lead Author)<br />
+Claudio Aspesi (Lead Author)<br/>
 [Nicole Allen](https://sparcopen.org/people/nicole-allen/)<br/>
-[Raym Crow](https://sparcopen.org/people/val-hollister/)<br/>
-[Valorie Hollister] (https://sparcopen.org/people/raym-crow/)<br/>
+[Raym Crow](https://sparcopen.org/people/raym-crow/)<br/>
+[Valorie Hollister](https://sparcopen.org/people/val-hollister/)<br/>
 [Heather Joseph](https://sparcopen.org/people/heather-joseph/)<br/>
 [Joseph McArthur](https://sparcopen.org/people/joseph-mcarthur/)<br/>
 [Nick Shockey](https://sparcopen.org/people/nick-shockey/)<br/>
-[Katie Steen] (https://sparcopen.org/people/katie-steen-2/)<br/>
-Report Editor: [Marty Lentz] (https://words-matter.org/)
+[Katie Steen](https://sparcopen.org/people/katie-steen-2/)<br/>
+Report Editor: [Marty Lentz](https://words-matter.org/)
