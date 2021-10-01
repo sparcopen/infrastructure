@@ -5,7 +5,7 @@ category: 2021-update
 tags: market-analysis
 description: FILL IN THE BLANK
 permalink: /2021-update/impact-of-2020-on-the-landscape
-date: 2020-06-22 1o:00:00
+date: 2021-09-21 10:00:00
 ---
 
 ### 1. Scholarly Publishers
