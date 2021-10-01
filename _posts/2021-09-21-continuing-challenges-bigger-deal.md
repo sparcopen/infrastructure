@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continuing Challenges&#58; The Bigger Deal
+title: Continuing Challenges&#58; The "Bigger Deal"
 category: 2021-update
 tags: market-analysis
 description: Commercial publishers are pursuing interests that put them at odds with the interests of the academic community and tolerate internal conflicts of interest. Unfortunately, the responsibility for high-lighting and resolving conflicts of interest falls squarely onto the academic community. 
