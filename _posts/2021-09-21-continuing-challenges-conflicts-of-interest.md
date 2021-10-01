@@ -6,8 +6,6 @@ tags: market-analysis
 description: Commercial publishers are pursuing interests that put them at odds with the interests of the academic community and tolerate internal conflicts of interest. Unfortunately, the responsibility for high-lighting and resolving conflicts of interest falls squarely onto the academic community. 
 permalink: /2021-update/continuing-challenges-conflicts-of-interest
 date: 2021-09-21 01:00:00
-featured: true
-homepage_latest: true
 ---
 
 ### 1. Conflicts of Interest
