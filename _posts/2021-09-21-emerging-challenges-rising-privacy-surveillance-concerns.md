@@ -3,7 +3,7 @@ layout: post
 title: Emerging Challenges&#58; Rising Privacy and Surveillance Concerns
 category: 2021-update
 tags: market-analysis
-description: The large number of preprints submitted in 2020 illustrates a sea change in the communication practices of the research community when faced with the urgency of responding to a major humanitarian health crisis. 
+description: The rise in commercial publishers usage of tracking software in services sold to academic libraries which allows them to collect and sell data to third parties, as well as the risks and inequities of online exam proctoring tools, require attention of the academic community.  
 permalink: /2021-update/emerging-challenges-rising-privacy-surveillance-concerns
 date: 2021-09-21 08:00:00
 ---
