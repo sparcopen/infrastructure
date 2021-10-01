@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emberging Challenges&#58; Intro
+title: Emerging Challenges&#58; Intro
 category: #2021-update
 tags:
 description: 1. Impact of the Pandemic on Inequities Within the Academic Community, 2. Demand for Faster Scientific Communication Channels, 3. Rising Privacy and Surveillance Concerns in Technology Used by Academic Institutions, 4. Continued Consolidation of the Publishing Industry, 5. The Expansion of “Inclusive Access” Courseware
