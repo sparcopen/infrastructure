@@ -3,7 +3,7 @@ layout: post
 title: Emerging Challenges&#58; Impact of the Pandemic on Inequities
 category: 2021-update
 tags: market-analysis
-description: Commercial publishers are pursuing interests that put them at odds with the interests of the academic community and tolerate internal conflicts of interest. Unfortunately, the responsibility for high-lighting and resolving conflicts of interest falls squarely onto the academic community. 
+description: The pandemic was like no other recent economic crisis in many ways, including in how it reverberated across the student population. The impact on underrepresented minority students in terms of enrollment, mental health, and graduation rates has disproportionately affected students from disadvantaged backgrounds. 
 permalink: /2021-update/emerging-challenges-impact-of-the-pandemic-on-inequities
 date: 2021-09-21 06:00:00
 ---
