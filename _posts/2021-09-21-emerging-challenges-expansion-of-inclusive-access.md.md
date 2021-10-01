@@ -3,7 +3,7 @@ layout: post
 title: Emerging Challenges&#58; The Expansion of “Inclusive Access” Courseware
 category: 2021-update
 tags: market-analysis
-description: FILL IN THE BLANK.  
+description: The increasing number of academic institutions that have adopted IA programs should also adopt policies that ensure student awareness and choice. The best option is to make programs “opt-in,” so that students are charged only with their consent.  
 permalink: /2021-update/emerging-challenges-expansion-of-inclusive-access
 date: 2021-09-21 09:00:00
 ---
