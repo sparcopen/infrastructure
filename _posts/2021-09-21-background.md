@@ -3,7 +3,7 @@ layout: post
 title: Background
 category: 2021-update
 tags:
-description: The increasing concentration of scholarly communications, courseware publishing, and data analytics into the hands of fewer commercial vendors continues to raise concerns, particularly in the absence of evidence that publishers have any interest in mind other than their short-term revenue and profit growth. The focus on protecting revenues even in the face of deep academic budget cuts, the relentless lobbying to protect “inclusive access” practices that limit student choice, and the reluctance to abandon practices that disadvantage researchers point to the conclusion that the academic community can protect its values only by increasing control of its own content and infrastructure.
+description: How has the landscape, and path to action, been impacted by the pandemic and the increasing concentration of scholarly communications, courseware publishing, and data analytics into the hands of fewer commercial vendors? 
 permalink: /2021-update/background
 date: 2021-09-21 01:00:00
 ---
