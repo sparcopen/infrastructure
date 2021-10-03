@@ -4,7 +4,7 @@ title: Introduction & Background
 category: covid-impact-survey
 tags:
 description: INSERT DESCRIPTION HERE 
-permalink: /covid-impact-survey/intro_background
+permalink: /covid-impact-survey/intro-background
 date: 2021-10-01 02:00:00
 ---
 
