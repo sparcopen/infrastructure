@@ -5,7 +5,7 @@ category: covid-impact-survey
 tags:
 description: INSERT DESCRIPTION HERE 
 permalink: /covid-impact-survey/budgetary-impact
-date: 2021-10-01 03:00:00
+date: 2021-10-01 04:00:00
 ---
 
 Nearly 80% of the academic libraries responding to the survey noted some reduction in their budget. Among US-based institutions, 21% noted a reduction of 10% or more. Six of the eleven Canadian respondents, on the other hand, noted no decrease at all, and of those with cuts, none were greater than 19%. All 5 of the respondents from Australian institutions experienced some decrease, ranging from 5% to more than 20% (Figure 1).
