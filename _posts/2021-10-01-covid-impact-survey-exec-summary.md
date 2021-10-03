@@ -30,5 +30,4 @@ Among the findings of the study:
 
 [Nancy Maron](https://sparcopen.org/people/nancy-maron/)<br/>
 [Juan Pablo Alperin](https://sparcopen.org/people/juan-pablo-alperin/)<br/>
-[Nick Shockey](https://sparcopen.org/people/nick-shockey/)<br/>
 [Nick Shockey](https://sparcopen.org/people/nick-shockey/)
