@@ -26,6 +26,8 @@ Among the findings of the study:
 * For many libraries, COVID-related shutdowns have reinforced the importance of the library as a source for provisioning digital content and for supporting online pedagogy, as demand from faculty and students for online content grew. Many librari-ans addressed this by shifting resources to providing further support for teaching, whether through digitization of course materials, working with instructors to create or manage online courses, or supporting adoption or creation of OERs.
 * Among the concerns raised by library leaders were the long-lasting impact of having run libraries absent their physical spaces, the impact on staff morale, and an inability to move ahead with new plans.
 
+Overall, responses indicated a very intentional spirit of experimentation, born of neces-sity, resulting in creative problem solving concerning spaces, personnel, and collections. This report will help to inform the SPARC agenda in the months ahead as library leaders adjust to campus life post-pandemic. While the more dramatic budgetary and space restrictions of the past year will hopefully disappear, the value of having openly available materials for research and teaching has never been more clear.
+
 #### Report Authors
 
 [Nancy Maron](https://sparcopen.org/people/nancy-maron/)<br/>
