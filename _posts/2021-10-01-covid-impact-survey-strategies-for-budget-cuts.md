@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of Findings
+title: Strategies for Dealing with Budget Cuts
 category: covid-impact-survey
 tags:
 description: INSERT DESCRIPTION HERE 
@@ -8,7 +8,6 @@ permalink: /covid-impact-survey/strategies-for-budget-cuts
 date: 2021-10-01 05:00:00
 ---
 
-**Strategies for Dealing with Budget Cuts**
 As a result of COVID-related budget pressure, librarians, especially those in the US, where budgets were most negatively affected, had to make many adjustments with very little time and a great deal of uncertainty. As one senior administrator noted, “information from the university came quickly, and was oftentimes rapidly changing.” A Director of Academic Library Services at a public university emphasized the challenges inherent in rapid decision-making: “a real frustration for us was a really short turnaround from the time that funds (were) available to the deadline to submitting a request to get them… We could have been more strategic, but deadlines [and] administration made it hard to assess the options, get the pricing [and] negotiate the prices.” 
 
 >*“We could have been more strategic, but deadlines [and] administration made it hard to assess the options, get the pricing 
