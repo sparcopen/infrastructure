@@ -23,8 +23,8 @@ Among the findings of the study:
 * Many libraries reported renegotiating publisher agreements or unbundling a Big Deal, or were strongly considering doing so. That said, in some cases, the need to act quickly and efficiently served to protect major long-term contracts (including some Big Deals), while leaving smaller publishers and one-time purchases (like monographs) exposed as easier to cut with fewer immediate repercussions.
 * Across the board, respondents reported investing in open initiatives in a range of ways; most felt these investments were either likely to continue at current levels
 (50%) or grow (35%) in the year to come.
-* For many libraries, COVID-related shutdowns have reinforced the importance of the library as a source for provisioning digital content and for supporting online peda-gogy, as demand from faculty and students for online content grew. Many librari-ans addressed this by shifting resources to providing further support for teaching, whether through digitization of course materials, working with instructors to create or manage online courses, or supporting adoption or creation of OERs.
-* Among the concerns raised by library leaders were the long-lasting impact of having run libraries absent their physical spaces, the impact on staff morale, and an inabil-ity to move ahead with new plans.
+* For many libraries, COVID-related shutdowns have reinforced the importance of the library as a source for provisioning digital content and for supporting online pedagogy, as demand from faculty and students for online content grew. Many librari-ans addressed this by shifting resources to providing further support for teaching, whether through digitization of course materials, working with instructors to create or manage online courses, or supporting adoption or creation of OERs.
+* Among the concerns raised by library leaders were the long-lasting impact of having run libraries absent their physical spaces, the impact on staff morale, and an inability to move ahead with new plans.
 
 #### Report Authors
 
