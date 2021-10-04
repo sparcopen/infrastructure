@@ -19,7 +19,6 @@ This demand highlighted important—and diverse—pressure points in the current
 
 ***
 
-
 [^7]: [https://www.biorxiv.org/content/biorxiv/early/2020/05/23/2020.05.22.111294.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2020/05/23/2020.05.22.111294.full.pdf)
 
 [^8]: [https://www.nature.com/articles/d41586-020-03564-y](https://www.nature.com/articles/d41586-020-03564-y)
