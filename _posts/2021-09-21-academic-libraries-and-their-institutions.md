@@ -42,8 +42,8 @@ One final word: R&P agreements will likely prove transitional, rather than trans
 
 ***
 
-[^29]: [https://esac-initiative.org/about/transformative-agreements/agreement-registry](29 https://esac-initiative.org/about/transformative-agreements/agreement-registry)
+[^29]: [https://esac-initiative.org/about/transformative-agreements/agreement-registry](https://esac-initiative.org/about/transformative-agreements/agreement-registry)
 
-[^30]: [The Impact of the German 'DEAL' on Competition in the Academic Publishing Market https://www.dice.hhu.de/fileadmin/redaktion/Fakultaeten/Wirtschaftswissenschaftliche_Fakultaet/DICE/Discussion_Paper/360_Haucap_Moshgbar_Schmal.pdf](https://www.dice.hhu.de/fileadmin/redaktion/Fakultaeten/Wirtschaftswissenschaftliche_Fakultaet/DICE/Discussion_Paper/360_Haucap_Moshgbar_Schmal.pdf)
+[^30]: The Impact of the German 'DEAL' on Competition in the Academic Publishing Market [https://www.dice.hhu.de/fileadmin/redaktion/Fakultaeten/Wirtschaftswissenschaftliche_Fakultaet/DICE/Discussion_Paper/360_Haucap_Moshgbar_Schmal.pdf](https://www.dice.hhu.de/fileadmin/redaktion/Fakultaeten/Wirtschaftswissenschaftliche_Fakultaet/DICE/Discussion_Paper/360_Haucap_Moshgbar_Schmal.pdf)
 
 [^31]: [https://scholarlykitchen.sspnet.org/2021/04/19/guest-post-apc-waiver-policies-a-job-half-done/?informz=1](https://scholarlykitchen.sspnet.org/2021/04/19/guest-post-apc-waiver-policies-a-job-half-done/?informz=1)
