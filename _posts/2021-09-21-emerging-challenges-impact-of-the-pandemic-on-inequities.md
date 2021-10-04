@@ -19,6 +19,6 @@ The impact on underrepresented minority students in terms of mental health as we
 
 [^4]: [https://stm.sciencemag.org/content/13/584/eabe7189?_ga=2.40981414.505338189.1619101421-1688379423.1619101421](https://stm.sciencemag.org/content/13/584/eabe7189?_ga=2.40981414.505338189.1619101421-1688379423.1619101421)
 
-[^5]: [https://news.harvard.edu/gazette/story/2020/10/covid-carries-triple-risks-for-college-students-of-color](https://news.harvard.edu/gazette/story/2020/10/covid-carries-triple-risks-for-college-students-of-color)[https://dornsife.usc.edu/news/stories/3279/](https://dornsife.usc.edu/news/stories/3279/)
+[^5]: [https://news.harvard.edu/gazette/story/2020/10/covid-carries-triple-risks-for-college-students-of-color](https://news.harvard.edu/gazette/story/2020/10/covid-carries-triple-risks-for-college-students-of-color); [https://dornsife.usc.edu/news/stories/3279/](https://dornsife.usc.edu/news/stories/3279/)
 
 [^6]: [https://nscresearchcenter.org/current-term-enrollment-estimates](https://nscresearchcenter.org/current-term-enrollment-estimates)
