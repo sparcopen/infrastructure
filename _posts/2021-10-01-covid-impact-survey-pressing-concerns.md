@@ -12,7 +12,7 @@ While the focus of this SPARC survey was specifically to assess the impact of CO
 
 Respondents were asked to rank their “most pressing concerns—beyond the health and safety of staff and library users—about the impact of COVID on your library.” Loss of staff and cuts to licensed content were ranked first and second, far ahead of the other options offered, including inability to circulate print, reductions in support for open initiatives and loss of staff due to furloughs. But there were some interesting differences among respondents from different types of institutions.
 
-While libraries at US doctoral institutions were more likely to be concerned about their inability to circulate print collections, non-doctoral institutions and Canadian institutions ranked “other” much higher (third and first place respectively). Among the things they described as concerns were the impact of community-wide decreases on the purchas-ing power of their consortium; re-prioritizing the collections budget to meet demand for pedagogical tools and content, including streaming video and audio resources; and keeping pace with quickly changing teaching practices.
+While libraries at US doctoral institutions were more likely to be concerned about their inability to circulate print collections, non-doctoral institutions and Canadian institutions ranked “other” much higher (third and first place respectively). Among the things they described as concerns were the impact of community-wide decreases on the purchasing power of their consortium; re-prioritizing the collections budget to meet demand for pedagogical tools and content, including streaming video and audio resources; and keeping pace with quickly changing teaching practices.
 
 In addition, respondents were asked to offer further detail outlining their concerns. These responses offer a more nuanced story.
 
@@ -32,5 +32,9 @@ Beyond library collections, many respondents underlined the significance of the 
 
 In a sense, the need to rapidly convert the library into a mostly virtual, contact-free space—and libraries’ success in doing this so quickly and effectively—may now somewhat undermine future perceptions of the value of those spaces. 
 * “What will happen to library spaces now that we have proven that we can do 80-90%of our jobs remotely and that students and faculty have gotten used to teaching and learning online,” asked one. (129)
+
 * “We are open but with adjustments, including limiting hours and building capacity as well as prioritizing online resources and services. This is serving our students’ needs from an information perspective, but I worry about the social and communal perspective. Our library, like many others, was a space for collaboration and explo-ration. We host art exhibits, poetry readings, scholarly debates, and other events. All of that has changed to one degree or another. My worry is how students are coping with this loss and how we restore the image of the library as a place for ingenuity and collaboration once we have a few years of changed atmosphere.” (150)
+
 * “The library as space is pretty important on our campus. If our space use decreases over the long term, I worry about what that means for the library generally.” (247)
+
+***
