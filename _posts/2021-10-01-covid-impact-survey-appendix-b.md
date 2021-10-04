@@ -13,11 +13,11 @@ The SPARC COVID-Impact survey instrument was reviewed by members of SPARC’s Jo
 
 The data was reviewed and cleaned to remove duplicate responses from institutions. The original dataset included 125 “complete” responses, as defined by the survey platform. Of these, three were entirely blank and five were duplicate responses from institutions, so were deleted. Where more than one respondent from an institution completed the survey, the senior administrator response was kept.
 
-Of 117 complete responses, only 115 reached and responded to question 30, with coun-try demographics. Earlier questions will have higher responses in the aggregate The survey platform considered any response not “submitted” to be partial; the survey team also reviewed the partial responses, deduped responses where a complete response had already been submitted by that institution, and determined that another 20 responses—those having completed at least the first budget questions—would be included in the analysis. 
+Of 117 complete responses, only 115 reached and responded to question 30, with country demographics. Earlier questions will have higher responses in the aggregate The survey platform considered any response not “submitted” to be partial; the survey team also reviewed the partial responses, deduped responses where a complete response had already been submitted by that institution, and determined that another 20 responses—those having completed at least the first budget questions—would be included in the analysis. 
 
 The study includes some subgroup analysis, by Country and by Institution Type. Because these questions were found later in the survey, not all respondents offered answers here. For that reason, the total number of respondents for some questions adds up to greater than the total of the Country-specific sub groups.
 
-The subgroup analyses included: Country (US, 99; Canada, 11; and Australia, 5). In addi-tion, of the 99 US-based complete responses, we also examined subgroups by institution type:
+The subgroup analyses included: Country (US, 99; Canada, 11; and Australia, 5). In addition, of the 99 US-based complete responses, we also examined subgroups by institution type:
 * US, Doctoral institutions
 
 * US, Non-Doctoral institutions, where the highest degree conferred is an Associate’s, Bachelor’s, or Master’s Degree
