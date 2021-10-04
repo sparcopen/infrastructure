@@ -23,9 +23,9 @@ The increasing number of academic institutions that have adopted IA programs sho
 
 ***
 
-[^18]: [For McGraw Hill, Fiscal Year 2021 covers the period from April 1, 2020 to March 31, 2021]
+[^18]: For McGraw Hill, Fiscal Year 2021 covers the period from April 1, 2020 to March 31, 2021
 
-[^19]: [https://historynewsnetwork.org/article/180169](https://historynewsnetwork.org/article/180169](https://historynewsnetwork.org/article/180169](https://historynewsnetwork.org/article/180169)
+[^19]: [https://historynewsnetwork.org/article/180169](https://historynewsnetwork.org/article/180169)
 
 [^20]: [https://sparcopen.org/news/2021/texas-adopts-transparency-measure-for-automatic-textbook-billing/](https://sparcopen.org/news/2021/texas-adopts-transparency-measure-for-automatic-textbook-billing/)
 
