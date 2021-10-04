@@ -3,7 +3,7 @@ layout: post
 title: Executive Summary
 category: covid-impact-survey
 tags:
-description: INSERT DESCRIPTION HERE 
+description: The SPARC COVID Impact Survey underscored the extremely difficult circumstances faced by most academic libraries as a result of the pandemic—and libraries’ continuing support for open initiatives despite these challenges. This moment has encouraged rapid change, permitting libraries to attempt changes they had considered in the past and accelerating changes already underway. Among these trends were questioning Big Deal agreements, renegotiating prices with major publishers, and continuing support for open initiatives. 
 permalink: /covid-impact-survey/exec-summary
 date: 2021-10-01 01:00:00
 ---
