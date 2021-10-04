@@ -19,4 +19,3 @@ Leading higher education courseware publishers, hobbled by a declining market an
 
 
 ***
-
