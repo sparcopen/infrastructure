@@ -80,13 +80,13 @@ Much remains to be done, but we see many emerging signals that the academic comm
 
 ***
 
-[^32]: [In particular, please see https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)
+[^32]: In particular, please see [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482); [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)
 
-[^33]: [This became Public Law No: 115-435. https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174)
+[^33]: This became Public Law No: 115-435 [https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174); [https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174)
 
-[^34]: [https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/](https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/](https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/](https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/)
+[^34]: [https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/](https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/)
 
-[^35]: [Please see https://news.psu.edu/story/631684/2020/09/14/administration/penn-state-names-corporate-leader-attorney-university-ethics](Please see https://news.psu.edu/story/631684/2020/09/14/administration/penn-state-names-corporate-leader-attorney-university-ethics); [https://chancellor.ucsd.edu/about-the-office/judy-bruner](https://chancellor.ucsd.edu/about-the-office/judy-bruner)
+[^35]: Please see [https://news.psu.edu/story/631684/2020/09/14/administration/penn-state-names-corporate-leader-attorney-university-ethics](https://news.psu.edu/story/631684/2020/09/14/administration/penn-state-names-corporate-leader-attorney-university-ethics); [https://chancellor.ucsd.edu/about-the-office/judy-bruner](https://chancellor.ucsd.edu/about-the-office/judy-bruner)
 
 [^36]: [https://scholars.fhsu.edu/cgi/viewcontent.cgi?article=1008&context=alj](https://scholars.fhsu.edu/cgi/viewcontent.cgi?article=1008&context=alj)
 
