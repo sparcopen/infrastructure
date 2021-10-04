@@ -3,7 +3,7 @@ layout: post
 title: Continuing Challenges&#58; Communal Distribution
 category: 2021-update
 tags: market-analysis
-description: Commercial publishers are pursuing interests that put them at odds with the interests of the academic community and tolerate internal conflicts of interest. Unfortunately, the responsibility for high-lighting and resolving conflicts of interest falls squarely onto the academic community. 
+description: INSERT DESCRIPTION HERE 
 permalink: /2021-update/continuing-challenges-communal-distribution
 date: 2021-09-21 03:00:00
 ---
