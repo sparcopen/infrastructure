@@ -12,7 +12,7 @@ The SPARC 2019 Roadmap for Action (INSERT LINK) accompanying the SPARC 2019 Land
 At the base of SPARC’s recommendations were three critical ideas that supported the suggested way forward:
 
 ### 1. Base actions and plans on principles.
-It is vital to identify a structured set of principles that represent a foundation and a compass for action. SPARC has identified principles used across many organizations when dealing with artificial intelligence,[^32] complemented it, and given examples of how these principles can be translated into actual contractual clauses (Exhibits 5 and 6). A robust debate around these principles will make the list even more useful. 
+It is vital to identify a structured set of principles that represent a foundation and a compass for action. SPARC has identified principles used across many organizations when dealing with artificial intelligence,[^32] complemented it, and given examples of how these principles can be translated into actual contractual clauses (**Exhibits 5 and 6**). A robust debate around these principles will make the list even more useful. 
 
 ### 2. Increase coordination, alignment and—where possible—cooperation within the knowledge community.
 The academic community is fragmented into in a variety of institutions that struggle to operate as a coherent group. Academic institutions operate in different countries and regions, balance research and teaching differently, and often compete for funding, for faculty, and for students. In addition to this fragmentation is a long tradition of independ-ence and self-management of schools and departments within large universities, as well as a distinctive separation between academic institutions and learned societies. 
@@ -23,7 +23,7 @@ A significant change to this culture of decentralized decision making is unlikel
 Because of fragmentation, each institution will likely define its own approach and develop actions and programs to fit its specific culture and priorities. Many of these decisions will require the in-depth understanding of specific legal, ethical, business, computer science, and economics issues and solutions. It is just as important to bring in the voices of all stakeholders, including those in communities that may be least protected from the impact of the actions and programs. 
 
 **Specific Actions**
-The SPARC 2019 Roadmap for Action (INSERT LINK) that accompanied the original SPARC 2019 Landscape Analysis (INSERT LINK) also proposed several specific actions to manage the impact of data analytics and AI on academic institutions and their communities. The proposed actions (Exhibit 7) fall into three categories: Risk Mitigation, Strategic Choices, and Community Actions.
+The SPARC 2019 Roadmap for Action (INSERT LINK) that accompanied the original SPARC 2019 Landscape Analysis (INSERT LINK) also proposed several specific actions to manage the impact of data analytics and AI on academic institutions and their communities. The proposed actions (**Exhibit 7**) fall into three categories: Risk Mitigation, Strategic Choices, and Community Actions.
 
 Though this diagram is not intended to be prescriptive, the algorithms describe some examples of potential steps to promote open infrastructure, and the metrics describe how to measure the success of those efforts.
 
