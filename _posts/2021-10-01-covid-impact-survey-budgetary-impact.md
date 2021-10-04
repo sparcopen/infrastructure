@@ -25,13 +25,13 @@ In addition to specific cuts to collections and serials, respondents offered fur
 
 Some respondents noted that perhaps more significant than any budget reduction were the re-allocations within the budgets—namely those from print to e-resources. Even those institutions that did not experience budget cuts might experience a resource squeeze, due to increased costs, whether from publisher increases or the amplified need for digital content and platforms.
 
-***>“We have had budget cuts to the collection budget for years, but the combination of chronic budget shortages with the governor’s withholding of funding to cover COVID-related state budget shortfalls have resulted in the largest single year collections budget cut ever.” (71)  
+>“We have had budget cuts to the collection budget for years, but the combination of chronic budget shortages with the governor’s withholding of funding to cover COVID-related state budget shortfalls have resulted in the largest single year collections budget cut ever.” (71)  
 —Public doctoral institution
 
-***>“⅕ of library positions are vacant and under a hiring freeze. Student employee fund-ing was reduced by 10% and our operating budget, including library software and systems, by 30%.” (173)  
+>“⅕ of library positions are vacant and under a hiring freeze. Student employee fund-ing was reduced by 10% and our operating budget, including library software and systems, by 30%.” (173)  
 —Private doctoral institution
 
-***>“While our budget remains unchanged, our expenses for digital assets went up due to COVID. Our COVID related collections materials costs for Fall semester were $50,000 and we anticipate continued pressure for the Spring 2021 semester. That has meant a reduction in other collections purchases.” (158)  
+>“While our budget remains unchanged, our expenses for digital assets went up due to COVID. Our COVID related collections materials costs for Fall semester were $50,000 and we anticipate continued pressure for the Spring 2021 semester. That has meant a reduction in other collections purchases.” (158)  
 —Non-doctoral institution
 
 ### CONCERN FOR FUTURE REDUCTIONS
