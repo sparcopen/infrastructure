@@ -7,7 +7,7 @@ authors: # Authors are defined at https://github.com/sparcopen/infrastructure/bl
   - nancy
   - juan
   - nick
-description: "The SPARC COVID Impact Survey underscored the extremely difficult circumstances faced by most academic libraries as a result of the pandemic—and libraries’ continuing support for open initiatives despite these challenges. This moment has encouraged rapid change, permitting libraries to attempt changes they had considered in the past and accelerating changes already underway. Among these trends were questioning Big Deal agreements, renegotiating prices with major publishers, and continuing support for open initiatives." # This is the text on the left hand side of a report page. It's like a mini summary.
+description: "Better Understanding Libraries' Approach to Navigating the Pandemic & Its Impact on Support for Open Initiatives"# This is the text on the left hand side of a report page. It's like a mini summary.
 permalink: /covid-impact-survey # this is the part of the URL after infrastructure.sparcopen.org. Addresses will be infrastructure.sparcopen.org/permalink
 summary: "covid-impact-survey/executive-summary" # same as above
 summary_pdf: "" # Link to the summary pdf
