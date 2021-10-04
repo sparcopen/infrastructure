@@ -23,6 +23,7 @@ A significant change to this culture of decentralized decision making is unlikel
 Because of fragmentation, each institution will likely define its own approach and develop actions and programs to fit its specific culture and priorities. Many of these decisions will require the in-depth understanding of specific legal, ethical, business, computer science, and economics issues and solutions. It is just as important to bring in the voices of all stakeholders, including those in communities that may be least protected from the impact of the actions and programs. 
 
 **Specific Actions**
+
 The SPARC 2019 Roadmap for Action (INSERT LINK) that accompanied the original SPARC 2019 Landscape Analysis (INSERT LINK) also proposed several specific actions to manage the impact of data analytics and AI on academic institutions and their communities. The proposed actions (**Exhibit 7**) fall into three categories: Risk Mitigation, Strategic Choices, and Community Actions.
 
 Though this diagram is not intended to be prescriptive, the algorithms describe some examples of potential steps to promote open infrastructure, and the metrics describe how to measure the success of those efforts.
@@ -79,11 +80,11 @@ Much remains to be done, but we see many emerging signals that the academic comm
 
 ***
 
-[^32]: [In particular, please see https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)
+[^32]: [In particular, please see https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)
 
-[^33]: [This became Public Law No: 115-435. https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174)
+[^33]: [This became Public Law No: 115-435. https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174)
 
-[^34]: [https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/](https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/)
+[^34]: [https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/](https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/](https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/](https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/)
 
 [^35]: [Please see https://news.psu.edu/story/631684/2020/09/14/administration/penn-state-names-corporate-leader-attorney-university-ethics](Please see https://news.psu.edu/story/631684/2020/09/14/administration/penn-state-names-corporate-leader-attorney-university-ethics); [https://chancellor.ucsd.edu/about-the-office/judy-bruner](https://chancellor.ucsd.edu/about-the-office/judy-bruner)
 
