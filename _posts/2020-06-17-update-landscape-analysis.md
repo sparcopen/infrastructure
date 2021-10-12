@@ -7,7 +7,6 @@ description: The uncertainty surrounding COVID-19’s impact on research funding
 permalink: /2020-update/update-to-the-landscape-analysis
 date: 2020-06-22 03:00:00
 featured: true
-homepage_latest: true
 ---
 
 ### Market Changes in the Context of the COVID-19 Crisis

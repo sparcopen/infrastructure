@@ -8,7 +8,6 @@ description: A common-sense response to the increasing volumes of data collected
 permalink: /roadmap-for-action/conduct-a-data-inventory
 date: 2019-11-01 05:00:00
 featured: true
-homepage_latest: true
 ---
 
 An important step for any institution to consider is to conduct an inventory of what data is collected across campus, how it is collected, and where it is housed. This also includes an explicit accounting of which offices or departments have agreements or contracts with third parties that involve data. As research and grey data become an increasingly integral part of how institutions operate, there is a great risk of losing control of this data if not tracked and managed across the often distributed operating architecture of higher education institutions. Many institutions have not yet conducted such an inventory, and the task may seem onerous at first. However, an accurate inventory is a prerequisite for next steps.
