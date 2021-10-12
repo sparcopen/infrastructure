@@ -11,7 +11,7 @@ description: "Better Understanding Libraries' Approach to Navigating the Pandemi
 permalink: /covid-impact-survey # this is the part of the URL after infrastructure.sparcopen.org. Addresses will be infrastructure.sparcopen.org/permalink
 summary: "covid-impact-survey/executive-summary" # same as above
 summary_pdf: "" # Link to the summary pdf
-doi: # include the DOI without doi.org. Can get from Zenodo.
+doi: 10.5281/zenodo.5564156 # include the DOI without doi.org. Can get from Zenodo.
 reversed: true # This is the ordering of the report vs dates
 date: 2021-09-20 # Publication dat
 pdf: "https://sparcopen.org/wp-content/uploads/2021/09/SPARC-COVID-Impact-Survey-092021.pdf" # Link the full text PDF
