@@ -17,7 +17,7 @@ description: "The past year has seen more deals that led to more concentration, 
 permalink: /2021-update # this is the part of the URL after infrastructure.sparcopen.org. Addresses will be infrastructure.sparcopen.org/permalink
 summary: "2021-update/executive-summary" # same as above
 summary_pdf: "" # Link to the summary pdf
-doi: # include the DOI without doi.org. Can get from Zenodo.
+doi: 10.5281/zenodo.5564146 # include the DOI without doi.org. Can get from Zenodo.
 reversed: true # This is the ordering of the report vs dates
 date: 2021-09-21 # Publication date
 pdf: "https://sparcopen.org/wp-content/uploads/2021/09/2021-Landscape-Analysis-092221.pdf" # Link the full text PDF
