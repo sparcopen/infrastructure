@@ -3,12 +3,13 @@ layout: post
 title: Pressing Concerns
 category: covid-impact-survey
 tags:
-description: INSERT DESCRIPTION HERE 
+description: INSERT DESCRIPTION HERE
 permalink: /covid-impact-survey/pressing-concerns
 date: 2021-10-01 08:00:00
+homepage_latest: true
 ---
 
-While the focus of this SPARC survey was specifically to assess the impact of COVID-related budgetary constraints on academic libraries, respondents made clear that the impact went far beyond questions concerning collections, touching all parts of their operations. 
+While the focus of this SPARC survey was specifically to assess the impact of COVID-related budgetary constraints on academic libraries, respondents made clear that the impact went far beyond questions concerning collections, touching all parts of their operations.
 
 Respondents were asked to rank their “most pressing concerns—beyond the health and safety of staff and library users—about the impact of COVID on your library.” Loss of staff and cuts to licensed content were ranked first and second, far ahead of the other options offered, including inability to circulate print, reductions in support for open initiatives and loss of staff due to furloughs. But there were some interesting differences among respondents from different types of institutions.
 
@@ -28,9 +29,9 @@ Where libraries are part of consortia, the impacts are felt for all. “If our c
 
 One librarian noted the difficult position the library can be placed in, when seen as the key provider of content, without having the ability to deliver. The respondent noted a “loss of campus support because we're unable to provide the resources expected in the online environment. The library/librarians are being held accountable for situations created by faculty authors & publishers with restrictive copyright licensing. This [is] significantly true for eBook availability.” (91)
 
-Beyond library collections, many respondents underlined the significance of the services and physical spaces of the library, noting that while being able to offer services virtually is a sign of the strength of the institution (“the Libraires is being seen as the answer to equitable access to technology” (60), the de-emphasizing of the physical space could pose a long-term risk. 
+Beyond library collections, many respondents underlined the significance of the services and physical spaces of the library, noting that while being able to offer services virtually is a sign of the strength of the institution (“the Libraires is being seen as the answer to equitable access to technology” (60), the de-emphasizing of the physical space could pose a long-term risk.
 
-In a sense, the need to rapidly convert the library into a mostly virtual, contact-free space—and libraries’ success in doing this so quickly and effectively—may now somewhat undermine future perceptions of the value of those spaces. 
+In a sense, the need to rapidly convert the library into a mostly virtual, contact-free space—and libraries’ success in doing this so quickly and effectively—may now somewhat undermine future perceptions of the value of those spaces.
 * “What will happen to library spaces now that we have proven that we can do 80-90%of our jobs remotely and that students and faculty have gotten used to teaching and learning online,” asked one. (129)
 
 * “We are open but with adjustments, including limiting hours and building capacity as well as prioritizing online resources and services. This is serving our students’ needs from an information perspective, but I worry about the social and communal perspective. Our library, like many others, was a space for collaboration and explo-ration. We host art exhibits, poetry readings, scholarly debates, and other events. All of that has changed to one degree or another. My worry is how students are coping with this loss and how we restore the image of the library as a place for ingenuity and collaboration once we have a few years of changed atmosphere.” (150)

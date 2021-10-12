@@ -3,9 +3,10 @@ layout: post
 title: Summary of Findings
 category: covid-impact-survey
 tags:
-description: INSERT DESCRIPTION HERE 
+description: INSERT DESCRIPTION HERE
 permalink: /covid-impact-survey/summary-findings
 date: 2021-10-01 03:00:00
+homepage_latest: true
 ---
 
 In March 2020, as institutions of all types began to shut down in response to the COVID pandemic, colleges and universities quickly modified their operations to be able to continue teaching and research activities. At over 80% of the institutions represented in the survey, some form of hybrid learning model was in place, with courses offered both in-person and online during the 2020-2021 academic year, though often the in-person courses met for very specific reasons—clinical education, labs, art classes. Only 5% reported that classes were “remote only, in real time.”
@@ -16,4 +17,3 @@ This rapid shift to an online environment underlined the importance of having ma
 
 
 ***
-
