@@ -10,7 +10,7 @@ authors: # Authors are defined at https://github.com/sparcopen/infrastructure/bl
 description: "Better Understanding Libraries' Approach to Navigating the Pandemic & Its Impact on Support for Open Initiatives"# This is the text on the left hand side of a report page. It's like a mini summary.
 permalink: /covid-impact-survey # this is the part of the URL after infrastructure.sparcopen.org. Addresses will be infrastructure.sparcopen.org/permalink
 summary: "covid-impact-survey/executive-summary" # same as above
-summary_pdf: "" # Link to the summary pdf
+summary_pdf: "/media/posts/SPARC-COVID-IMPACT-SURVEY-Executive-Summary.pdf" # Link to the summary pdf
 doi: 10.5281/zenodo.5564156 # include the DOI without doi.org. Can get from Zenodo.
 reversed: true # This is the ordering of the report vs dates
 date: 2021-09-20 # Publication dat
