@@ -3,12 +3,12 @@ layout: post
 title: Executive Summary
 category: covid-impact-survey
 tags:
-description: The SPARC COVID Impact Survey underscored the extremely difficult circumstances faced by most academic libraries as a result of the pandemic—and libraries’ continuing support for open initiatives despite these challenges. This moment has encouraged rapid change, permitting libraries to attempt changes they had considered in the past and accelerating changes already underway. Among these trends were questioning Big Deal agreements, renegotiating prices with major publishers, and continuing support for open initiatives. 
-permalink: /covid-impact-survey/exec-summary
+description: The SPARC COVID Impact Survey underscored the extremely difficult circumstances faced by most academic libraries as a result of the pandemic—and libraries’ continuing support for open initiatives despite these challenges. This moment has encouraged rapid change, permitting libraries to attempt changes they had considered in the past and accelerating changes already underway. Among these trends were questioning Big Deal agreements, renegotiating prices with major publishers, and continuing support for open initiatives.
+permalink: /covid-impact-survey/executive-summary
 date: 2021-10-01 01:00:00
 ---
 
-In 2020, as the COVID pandemic continued to spread, colleges and universities took action to protect staff, faculty, and students, while continuing to teach and conduct research to assess the impact on academic libraries as all learning rapidly moved online. 
+In 2020, as the COVID pandemic continued to spread, colleges and universities took action to protect staff, faculty, and students, while continuing to teach and conduct research to assess the impact on academic libraries as all learning rapidly moved online.
 
 The SPARC study on the impact of COVID was intended to address academic libraries’ budgetary challenges and approaches, with a focus on understanding how they affected attitudes towards content, collections, and open initiatives.
 
