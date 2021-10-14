@@ -23,6 +23,8 @@ For those facing cuts to collections, print and special collections were called 
 
 Some noted the need to re-prioritize the collections budget “to fulfill demand for streaming video/audio resources. We have cut our spending on serials to focus more on streaming content. Monograph budgets are flat.” (225)
 
+{% include join-box.html %}
+
 Even those institutions not facing direct or severe cuts themselves noted a range of ways in which they were also feeling the impact of COVID-related cutbacks in their organizations and throughout the community. In some cases, funding was not cut, but “frozen,” stalling long-planned capital projects or key hires. As one noted, “I have the money but am not allowed to spend it. I have had plans for moving the library forward in the area of digital scholarship and open access through new hires (positions are frozen) and a library renovation to create a digital scholarship center.” (65)
 
 Where libraries are part of consortia, the impacts are felt for all. “If our consortium members' budgets decrease, it has an impact on how much new material (archival data-bases, for instance) we can purchase. In other words, there is more power in working with a group than having to purchase direct, alone—so even if our budget isn't impacted directly, our pricing will reflect an increase if we have to buy on our own, and thus our budget will be squeezed more than anticipated/expected in prior years.” (39)

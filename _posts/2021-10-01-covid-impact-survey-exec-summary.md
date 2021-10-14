@@ -17,6 +17,8 @@ The study included a survey, sent to all 242 current SPARC member institutions i
 
 While this survey was conducted during the last academic year and is being released as the new year begins to unfold, this report can serve to reflect the realities of libraries over the past year in a way that can be helpful in informing the decisions and actions taken moving forward.
 
+{% include join-box.html %}
+
 The study underscored the extremely difficult circumstances faced by most academic libraries as a result of the pandemic—and libraries’ continuing support for open initiatives despite these challenges. This moment has encouraged rapid change, permitting librar-ies to attempt changes they had considered in the past and accelerating changes already underway. Among these trends were questioning Big Deal agreements, renegotiating prices with major publishers, and continuing support for open initiatives.
 
 Among the findings of the study:
