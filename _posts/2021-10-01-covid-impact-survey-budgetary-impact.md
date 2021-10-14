@@ -2,8 +2,8 @@
 layout: post
 title: Budgetary Impact
 category: covid-impact-survey
-tags:
-description: INSERT DESCRIPTION HERE 
+tags: market-analysis
+description: INSERT DESCRIPTION HERE
 permalink: /covid-impact-survey/budgetary-impact
 date: 2021-10-01 04:00:00
 ---
@@ -12,7 +12,7 @@ Nearly 80% of the academic libraries responding to the survey noted some reducti
 
 Differences among US institutions emerged based on institution type: while a similar proportion of doctoral and non-doctoral institutions noted a budget decrease (over 80% of each), the changes at non-doctoral institutions were more more pronounced: 35% noted a decrease of 10% or more, while only 17% of doctoral institutions had cuts that severe.
 
-When asked how the collections and serials budgets were affected, a smaller proportion of respondents noted some decrease when compared to those who saw cuts in the overall budget. In the US and Australia, around 60% of institutions noted reductions to collections budget and serials budgets, whereas in Canada, less than 20% saw reductions in these. About one third of respondents overall noted that their collections budget remained unchanged and over a third overall noted that the serials budget was unchanged, with Canadian institutions bucking the trend, with a large majority seeing collections and serials budgets unchanged. 
+When asked how the collections and serials budgets were affected, a smaller proportion of respondents noted some decrease when compared to those who saw cuts in the overall budget. In the US and Australia, around 60% of institutions noted reductions to collections budget and serials budgets, whereas in Canada, less than 20% saw reductions in these. About one third of respondents overall noted that their collections budget remained unchanged and over a third overall noted that the serials budget was unchanged, with Canadian institutions bucking the trend, with a large majority seeing collections and serials budgets unchanged.
 
 In addition to specific cuts to collections and serials, respondents offered further detail on the type and severity of cuts. Among the common themes that emerged:
 * Staff reductions were common, as were hiring freezes
@@ -35,9 +35,9 @@ Some respondents noted that perhaps more significant than any budget reduction w
 —Non-doctoral institution
 
 ### CONCERN FOR FUTURE REDUCTIONS
-Most reporting institutions felt it was unlikely that they would see additional cuts before the end of this academic year, with 32% reporting it was extremely unlikely and the same percentage that it was somewhat unlikely. Only 12% reported feeling it was “extremely likely” that there would be additional cuts. For those who felt additional cuts were either “likely” or “extremely likely,” half predicted that the cuts would be between 5 and 9% and another 6 predicted they would be between 10 and 19%. 
+Most reporting institutions felt it was unlikely that they would see additional cuts before the end of this academic year, with 32% reporting it was extremely unlikely and the same percentage that it was somewhat unlikely. Only 12% reported feeling it was “extremely likely” that there would be additional cuts. For those who felt additional cuts were either “likely” or “extremely likely,” half predicted that the cuts would be between 5 and 9% and another 6 predicted they would be between 10 and 19%.
 
-In the US, more doctoral institutions reported being either “somewhat likely” or “extremely likely” to face additional cuts (24%), as compared to non-doctoral institutions (15%). Among those doctoral institutions, private institutions were more likely to feel further cuts would be “extremely unlikely” (43%) compared with public institutions, where only 29% felt this way, and 14% felt rather that it was “extremely likely” they would see them (**Figure 2**). 
+In the US, more doctoral institutions reported being either “somewhat likely” or “extremely likely” to face additional cuts (24%), as compared to non-doctoral institutions (15%). Among those doctoral institutions, private institutions were more likely to feel further cuts would be “extremely unlikely” (43%) compared with public institutions, where only 29% felt this way, and 14% felt rather that it was “extremely likely” they would see them (**Figure 2**).
 
 When asked if budget cuts would be permanent, nearly 75% of all respondents felt it was “extremely likely” (30%) or “somewhat likely” (45%). Most US respondents felt that it was “extremely likely” (28%) or “somewhat likely” (50%) that this would be the case.
 
@@ -45,10 +45,9 @@ When asked if budget cuts would be permanent, nearly 75% of all respondents felt
 
 **Collections and Serials**
 
-While cuts to the collections budget of over 20% were not common among US doctoral institutions, 16% of non-doctoral institutions who participated did report cuts of 20% or more. (That said, 42% of non-doctoral institutions reported “unchanged” budgets, compared with 27% of reporting doctoral institutions.) Similarly, when it comes to the serials budget, non-doctoral institutions appear to have had the most extreme cuts (by percentage reduction) of existing budget levels; 11% reported losing over 20% of their serials budget; while only 4% of doctoral institutions reported cuts this severe. 
+While cuts to the collections budget of over 20% were not common among US doctoral institutions, 16% of non-doctoral institutions who participated did report cuts of 20% or more. (That said, 42% of non-doctoral institutions reported “unchanged” budgets, compared with 27% of reporting doctoral institutions.) Similarly, when it comes to the serials budget, non-doctoral institutions appear to have had the most extreme cuts (by percentage reduction) of existing budget levels; 11% reported losing over 20% of their serials budget; while only 4% of doctoral institutions reported cuts this severe.
 
 The landscape in Canada for academic libraries is significantly different from that in the United States. The eleven Canadian institutions that reported were much less likely to have experienced severe budget cuts than their American counterparts; five of the respondents noted no change at all and one noted an increase! 64% of Canadian respondents noted that the collections budget was unchanged and 18% of Canadian respondents noted an increase to the collections budget.) Four of the 8 Canadian insti-tutions to respond to this question felt the current cuts were not likely to be permanent) and most respondents (73%) felt further cuts would be “extremely unlikely.”
 
 
 ***
-

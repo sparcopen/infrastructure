@@ -2,7 +2,7 @@
 layout: post
 title: How To Respond
 category: 2021-update
-tags: market-analysis
+tags: community-actions
 description: FILL IN THE BLANK
 permalink: /2021-update/how-to-respond
 date: 2021-09-21 12:00:00

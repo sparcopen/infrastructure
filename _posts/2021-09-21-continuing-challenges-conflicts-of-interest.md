@@ -2,7 +2,7 @@
 layout: post
 title: Continuing Challenges&#58; Conflicts of Interest
 category: 2021-update
-tags: market-analysis
+tags: responsible-metrics-analytics
 description: Commercial publishers are pursuing interests that put them at odds with the interests of the academic community and tolerate internal conflicts of interest. Unfortunately, the responsibility for highlighting and resolving conflicts of interest falls squarely onto the academic community.
 permalink: /2021-update/continuing-challenges-conflicts-of-interest
 date: 2021-09-21 02:00:00

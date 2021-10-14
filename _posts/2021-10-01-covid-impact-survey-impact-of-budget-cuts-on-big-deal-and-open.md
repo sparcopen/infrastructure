@@ -2,7 +2,7 @@
 layout: post
 title: Impact of Budget Cuts on the Big Deal & Open Initiatives
 category: covid-impact-survey
-tags:
+tags: market-analysis
 description: INSERT DESCRIPTION HERE
 permalink: /covid-impact-survey/impact-of-budget-cuts-on-big-deal-and-open
 date: 2021-10-01 06:00:00
