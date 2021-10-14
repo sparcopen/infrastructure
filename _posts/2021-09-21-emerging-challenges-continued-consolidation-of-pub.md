@@ -2,7 +2,7 @@
 layout: post
 title: Emerging Challenges&#58; Continued Consolidation of the Publishing Industry
 category: 2021-update
-tags: market-analysis
+tags: market-analysis market-consolidation
 description: A steady stream of consolidations continued apace, with academic publishing vendors announcing several significant deals.  
 permalink: /2021-update/emerging-challenges-continued-consolidation-of-pub
 date: 2021-09-21 09:00:00
