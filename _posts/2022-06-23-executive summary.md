@@ -3,7 +3,7 @@ layout: post
 title: "Executive Summary" 
 category: interfolio-acquisition
 tags: Elsevier # Tags are topics. Use the file name (minus the .md)
-description: "The purpose of this document is to build on the Landscape Analysis by offering a roadmap of potential actions that stakeholders can use to chart both individual and collective responses." # This shows up in the sidebar, and on Google!
+description: "This analysis details the risks posed by this acquisition, what institutions should watch for, and how institutions may consider responding." # This shows up in the sidebar, and on Google!
 permalink: /interfolio-acquisition/executive-summary # This is the link it'll show up at.
 pdf: 
 
@@ -27,7 +27,7 @@ Specifically, close attention should be paid to the issues summarized below. If 
 
 **1. Any arrangements that bundle or contractually connect Interfolio with other Elsevier products.** These arrangements could take a variety of forms, from bundled packages to discounts on Interfolio based on purchases of another Elsevier product line (or vice versa), to the inclusion of terms about data control in a contract with one part of an institution that supersede terms that have been separately negotiated by another.  
 
-    Libraries in particular should watch for arrangements that provide discounts on Elsevier tools used by administrators or other campus units (e.g. Interfolio, PURE) that are dependent on the purchase of journal packages, which could substantially increase the lock-in for libraries in these packages (described further in section 3.1).   
+Libraries in particular should watch for arrangements that provide discounts on Elsevier tools used by administrators or other campus units (e.g. Interfolio, PURE) that are dependent on the purchase of journal packages, which could substantially increase the lock-in for libraries in these packages (described further in section 3.1).   
 
 **2. Preferential treatment or integration of Elsevier products within Interfolio.** Elsevier’s preferential integration of its own products within Interfolio (particularly those related to research assessment) could drive Interfolio institutions to adopt Elseiver products over competitors’ offerings. This would be a significant step toward an Elsevier platform model where institutions are pushed to adopt an integrated product ecosystem and, as a result, would find it increasingly difficult to select different vendors for different needs (described further in section 2).
 
