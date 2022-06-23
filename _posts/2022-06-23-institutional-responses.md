@@ -17,20 +17,21 @@ homepage_latest: true # This will add it to the homepage’s "Latest Analysis" s
 
 ---
 
-### 4. Potential Institutional Responses to Elsevier’s Acquisition of Interfolio
+### Proactive Steps to Reduce the Negative Impacts of Consolidation
 
-With market-leading products across the research lifecycle, Elsevier is uniquely positioned to capture institutional customers that could have less and less of an alternative to adopting Elsevier’s full suite of products. As Elsevier’s products across the research process are integrated together, Elsevier’s rivals in each of its markets will find it more difficult to compete and potential new entrants will face higher barriers to entry. This dynamic is likely to undermine already weakening competition across the markets that serve the research enterprise. 
-
-In response, there are a variety of actions that institutions may consider:
+There are a variety of actions that institutions may consider to reduce the potential for negative impacts stemming from this acquisition:
 
 1. Documenting any impact the breadth or integration of Elsevier’s products has on institutional choices about what products to use.
 2. Ensuring regular, cross-institutional information sharing about any engagement with Elsevier.
-3. Closely scrutinizing or avoiding bundles across product lines or other contractual connections between products that may create lock-in.
+3. Closely scrutinizing the potential downsides of bundles across product lines or other contractual connections between Elsevier products.
 4. Monitoring and documenting shifts in pricing and, where possible, sharing with others to reduce information asymmetries.
 5. Negotiating the removal of confidentiality clauses from contracts with Elsevier to increase transparency and the ability for information sharing.
-6. Advocating for transparency in metrics and the algorithms upon which they’re based.
-7. Reconsidering the purchase of Elseiver research analytics and Faculty Information System products due to the conflict of interest with the company’s publishing portfolio.
-8. Closely reviewing contract language regarding data use and the protection of data privacy. This will be an area of interest for SPARC’s Privacy Community of Practice as it comes online in the coming months.
-9. Educating campus constituencies about privacy and surveillance concerns regarding RELX.
+6. Advocating for transparency in metrics as well as the data and algorithms upon which they are based.
+7. Closely consider the conflict of interest between Elseiver’s publishing portfolio and its research analytics and Faculty Information Systems products when making purchasing decisions.
+8. Closely reviewing contract language regarding data use and the protection of data privacy.[^28] 
+9. Educating campus constituencies about privacy and surveillance concerns regarding RELX.[^29]
+As the pace of market concentration continues to accelerate across the research enterprise, the academic community will be best served by adopting a proactive approach that considers, in advance, the potential for future consolidation and begins to build the case for regulatory intervention before the next merger or acquisition is announced.
 
-SPARC will be closely following the acquisition’s effect on these markets. We would welcome conversations with any institutions exploring the possible responses listed above. If you or your institution are negatively impacted by the acquisition, we would appreciate your sharing that information with SPARC (by emailing [nick@sparcopen.org](mailto:nick@sparcopen.org)). Collecting these experiences can play a key role in encouraging regulators to act on any instances of anticompetitive behavior and consumer harm. 
+This work will require shared effort between libraries, academic institutions, and advocacy organizations. It is particularly important for institutions to take measures that can mitigate the negative effects of consolidation and to document these effects where they do occur. In close consultation with our membership, SPARC will continue to refine our approach for addressing the harms of consolidation and how we can work collaboratively to mitigate their negative effects.
+
+SPARC will be closely following the acquisition’s effect across markets. We welcome conversations with any institutions exploring the possible responses listed above. If you or your institution are negatively impacted by the acquisition, we would appreciate your sharing that information with SPARC (by emailing [nick@sparcopen.org](mailto:nick@sparcopen.org)).
