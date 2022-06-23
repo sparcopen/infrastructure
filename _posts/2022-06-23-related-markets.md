@@ -3,7 +3,7 @@ layout: post
 title: "Elsevier’s Dominance in the FIS Market Threatens Competition in Related Markets" 
 category: interfolio-acquisition
 tags: Elsevier # Tags are topics. Use the file name (minus the .md)
-description: "This analysis details the risks posed by this acquisition, what institutions should watch for, and how institutions may consider responding."
+description: "With this acquisition, Elsevier is poised to leverage its leading position in the FIS market to extend its market power in the academic publishing and research analytics markets."
 permalink: /interfolio-acquisition/related-markets # This is the link it'll show up at.
 pdf: 
 
