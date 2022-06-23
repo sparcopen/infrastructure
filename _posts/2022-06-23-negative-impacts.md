@@ -3,7 +3,7 @@ layout: post
 title: "Possible Negative Impacts From Elsevier’s Increased Market Power" 
 category: interfolio-acquisition
 tags: Elsevier # Tags are topics. Use the file name (minus the .md)
-description: "This analysis details the risks posed by this acquisition, what institutions should watch for, and how institutions may consider responding."
+description: "Negative effects from this acquisition could include less consumer choice, higher prices, and decreased product quality across the markets in which Interfolio and Elsevier operate. "
 permalink: /interfolio-acquisition/negative-impacts # This is the link it'll show up at.
 pdf: 
 
