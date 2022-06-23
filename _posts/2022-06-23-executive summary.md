@@ -46,3 +46,8 @@ Given Elsevier’s reach across the research lifecycle, the acquisition of Inter
 In response, there are a variety of actions that academic institutions should consider taking, which we describe in section 4. These range from steps aimed at minimizing negative impacts from the acquisition to documenting and sharing information regarding these impacts when they do occur. 
 
 As the pace of market concentration continues to accelerate across the research enterprise, the academic community will be best served by adopting a proactive approach that considers, in advance, the potential for future consolidation and begins to build the case for regulatory intervention before the next merger or acquisition is announced.
+
+---
+[^1]: SPARC has released four reports documenting the growing trend of commercial acquisition of infrastructure critical to academic institutions and the resulting market consolidation, which can be found at https://infrastructure.sparcopen.org.
+
+[^2]: Sam Biddle, _LexisNexis to Provide Giant Database of Personal Information to ICE_, The Intercept, Apr. 2, 2021, https://theintercept.com/2021/04/02/ice-database-surveillance-lexisnexis.
