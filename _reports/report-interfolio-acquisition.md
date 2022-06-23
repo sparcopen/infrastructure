@@ -1,6 +1,6 @@
 ---
 layout: thread
-title: # Elsevier's Acquisition of Interfolio&#58; Risks and Responses
+title: Elsevier's Acquisition of Interfolio&#58; Risks and Responses
 short_title: "Elsevier's Acquisition of Interfolio"
 tagline: "Risks and Responses"
 authors:
