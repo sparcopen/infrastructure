@@ -65,7 +65,7 @@ While the acquisition of a well-adopted FIS product by another research analytic
 ---
 [^18]: _Big Deal Knowledge Base_, www.sparc.com, https://sparcopen.org/our-work/big-deal-knowledge-base (last visited Jun. 22, 2022).
 
-[^19]: Justin Haucap et al., _The Impact of the German 'DEAL' on Competition in the Academic Publishing Market_, 42 Managerial & Decision Econ. 2027 (Special Issue: Economic Perspectives on the Future of Academic Publishing) (Dec. 2021), https://onlinelibrary.wiley.com/doi/full/10.1002/mde.3493.
+[^19]: Justus Haucap et al., _The Impact of the German 'DEAL' on Competition in the Academic Publishing Market_, 42 Managerial & Decision Econ. 2027 (Special Issue: Economic Perspectives on the Future of Academic Publishing) (Dec. 2021), https://onlinelibrary.wiley.com/doi/full/10.1002/mde.3493.
 
 [^20]: Claudio Aspesi & SPARC, _The Dutch Consortia/Elsevier Contract: The Real Risks_, www.sparc.com (May 28, 2020), https://infrastructure.sparcopen.org/dutch-consortia-elsevier-contract. 
 
