@@ -48,5 +48,4 @@ Given Elsevier’s reach across the research lifecycle, the acquisition of Inter
 In response, there are a variety of actions that academic institutions should consider taking, which we describe in section 4. These range from steps aimed at minimizing negative impacts from the acquisition to documenting and sharing information regarding these impacts when they do occur. 
 
 ---
-
 [^1]: SPARC has released four reports documenting the growing trend of commercial acquisition of infrastructure critical to academic institutions and the resulting market consolidation, which can be found at https://infrastructure.sparcopen.org.
