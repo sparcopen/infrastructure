@@ -3,7 +3,7 @@ layout: post
 title: "Executive Summary" 
 category: interfolio-acquisition
 tags: Elsevier # Tags are topics. Use the file name (minus the .md)
-description: "This analysis details the risks posed by this acquisition, what institutions should watch for, and how institutions may consider responding." # This shows up in the sidebar, and on Google!
+description: "Elsevier recently completed its planned acquisition of Interfolio, the leader in a rapidly emerging category of products known as Faculty Information Systems (FIS). This deal exemplifies many of the worrying trends described in SPARC’s ongoing market analyses over the past four years. As the pace of market concentration continues to accelerate across the research enterprise, the academic community will be best served by adopting a proactive approach that considers, in advance, the potential for future consolidation and begins to build the case for regulatory intervention before the next merger or acquisition is announced." # This shows up in the sidebar, and on Google!
 permalink: /interfolio-acquisition/executive-summary # This is the link it'll show up at.
 pdf: 
 
