@@ -231,7 +231,7 @@ Based on this trend data and the strength of Interfolio’s offerings, it is rea
 ---
 [^3]: Gartner, _Top Technology Trends Impacting Higher Education in 2021_, available at https://emtemp.gcom.cloud/ngw/globalassets/en/information-technology/documents/trends/742584-top-technology-trends-impacting-higher-education-in-2021.pdf, last visited June 22, 2022.
 
-[^4]:_ Id._
+[^4]: _Id._
 
 [^5]: Justin Menard, _Elsevier to Acquire Interfolio_, LISTedTECH Blog, Apr. 27, 2022, https://listedtech.com/blog/elsevier-to-acquire-interfolio.
 Note: LISTedTECH provides specific market share percentages for the largest FIS vendors but includes many more in its graph representing the market. Where specific market share percentages are available, we have used those, and for those only represented on the graph, we have approximated the market share data based on the graph. This source was the only market share data we were able to locate for the FIS market and is not limited to U.S. institutions alone.
@@ -249,4 +249,4 @@ Note: LISTedTECH provides specific market share percentages for the largest FIS 
 [^11]: Justin Menard, _Why Adopt an Advanced Faculty Information System?_, LISTedTECH Blog, Feb. 7, 2021, https://listedtech.com/blog/why-adopt-an-advanced-faculty-information-system.
 Note: LISTedTECH does not specify the geographic scope of this adoption data.
 
-[^12]:_ Id._
+[^12]:  _Id._
