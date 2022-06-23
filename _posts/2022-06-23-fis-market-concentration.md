@@ -3,7 +3,7 @@ layout: post
 title: "The Interfolio Acquisition Highly Concentrates the Nascent Market for Faculty Information Systems" 
 category: interfolio-acquisition
 tags: Elsevier # Tags are topics. Use the file name (minus the .md)
-description: "This analysis details the risks posed by this acquisition, what institutions should watch for, and how institutions may consider responding."
+description: "Elsevier's acquisition of Interfolio dramatically increases the concentration of the FIS market, putting it on the brink of a key regulatory threshold."
 permalink: /interfolio-acquisition/fis-market-concentration # This is the link it'll show up at.
 pdf: 
 
