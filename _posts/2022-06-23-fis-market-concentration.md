@@ -226,4 +226,27 @@ Furthermore, 2021 data on the adoption rates of new FIS platforms indicate that 
 
 It is important to note that the number of institutions using their own “homegrown” systems represent a potential source of market growth for more mature and/or better funded companies, rather than indicating a low barrier to entry in this market. As LISTedTech notes, these homegrown systems range from “modified content management systems to excel spreadsheets”[^12] and appear to be what institutions are moving away from—and not the future of the market.
 
-Based on this trend data and the strength of Interfolio’s offerings, it is reasonable to expect that Elsevier will gain further market share post-acquisition. This would push the market’s HHI well-past the 2,500 point threshold for high market concentration, even before accounting for the ways Elsevier could leverage its other product lines to strengthen its position in the FIS market (for example, through bundling FIS products with journal subscription packages). 
+Based on this trend data and the strength of Interfolio’s offerings, it is reasonable to expect that Elsevier will gain further market share post-acquisition. This would push the market’s HHI well-past the 2,500 point threshold for high market concentration, even before accounting for the ways Elsevier could leverage its other product lines to strengthen its position in the FIS market (for example, through bundling FIS products with journal subscription packages).
+
+---
+[^3]: Gartner, _Top Technology Trends Impacting Higher Education in 2021_, available at https://emtemp.gcom.cloud/ngw/globalassets/en/information-technology/documents/trends/742584-top-technology-trends-impacting-higher-education-in-2021.pdf, last visited June 22, 2022.
+
+[^4]:_ Id._
+
+[^5]: Justin Menard, _Elsevier to Acquire Interfolio_, LISTedTECH Blog, Apr. 27, 2022, https://listedtech.com/blog/elsevier-to-acquire-interfolio.
+Note: LISTedTECH provides specific market share percentages for the largest FIS vendors but includes many more in its graph representing the market. Where specific market share percentages are available, we have used those, and for those only represented on the graph, we have approximated the market share data based on the graph. This source was the only market share data we were able to locate for the FIS market and is not limited to U.S. institutions alone.
+
+[^6]: Note: These homegrown systems are generally one-off, bespoke systems or sets of tools created by a single institution.
+
+[^7]: U.S. Dep’t of Just. & F.T.C., Horizontal Merger Guidelines § 5.3 (2010). (“The HHI is calculated by summing the squares of the individual firms’ market shares, and thus gives proportionately greater weight to the larger market shares. When using the HHI, the Agencies consider both the post-merger level of the HHI and the increase in the HHI resulting from the merger”).
+
+[^8]: _Id._
+
+[^9]: Justin Menard, _Elsevier to Acquire Interfolio_, LISTedTECH Blog, Apr. 27, 2022, https://listedtech.com/blog/elsevier-to-acquire-interfolio.
+
+[^10]: Note: While LISTedTECH indicates that Interfolio and Elsevier have a 24% and 18% market share respectively, they specify that the combined entity would have a 43% market share, which is the value used for the post-merger HHI calculation here.
+
+[^11]: Justin Menard, _Why Adopt an Advanced Faculty Information System?_, LISTedTECH Blog, Feb. 7, 2021, https://listedtech.com/blog/why-adopt-an-advanced-faculty-information-system.
+Note: LISTedTECH does not specify the geographic scope of this adoption data.
+
+[^12]:_ Id._
