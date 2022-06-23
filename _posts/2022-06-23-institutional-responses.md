@@ -30,6 +30,7 @@ There are a variety of actions that institutions may consider to reduce the pote
 7. Closely consider the conflict of interest between Elseiver’s publishing portfolio and its research analytics and Faculty Information Systems products when making purchasing decisions.
 8. Closely reviewing contract language regarding data use and the protection of data privacy.[^28] 
 9. Educating campus constituencies about privacy and surveillance concerns regarding RELX.[^28]
+
 As the pace of market concentration continues to accelerate across the research enterprise, the academic community will be best served by adopting a proactive approach that considers, in advance, the potential for future consolidation and begins to build the case for regulatory intervention before the next merger or acquisition is announced.
 
 This work will require shared effort between libraries, academic institutions, and advocacy organizations. It is particularly important for institutions to take measures that can mitigate the negative effects of consolidation and to document these effects where they do occur. In close consultation with our membership, SPARC will continue to refine our approach for addressing the harms of consolidation and how we can work collaboratively to mitigate their negative effects.
