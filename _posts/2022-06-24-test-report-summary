@@ -1,0 +1,19 @@
+---
+layout: post # You generally won't want to change this.
+title: "Executive Summary" # This is the title that'll appear on the page and on Google
+category: test-report # Categories are reports. Use the file name (minus the .md)
+tags: cengage # Tags are topics. Use the file name (minus the .md)
+description: "The purpose of this document is to build on the Landscape Analysis by offering a roadmap of potential actions that stakeholders can use to chart both individual and collective responses." # This shows up in the sidebar, and on Google!
+permalink: /test-report/executive-summary # This is the link it'll show up at.
+pdf: "https://osf.io/preprints/lissa/2pwft/download" # if you have a pdf for the post put this here and it'll be used for the print button
+
+# RARELY USED
+hidden: true # exclude a post/page from pagination
+date: 2019-03-29 03:00:00 # This date will override the date in the file name. Mainly we use it to handle ordering in reports / threads. The date can be the day the report was published, and the time can be used to sort posts.
+authors: # This can be used to specify authors as below. This will change what the author box does. If you don't give any authors it'll use Claudio and SPARC, and you can delete this.
+#  - sparc
+
+---
+
+This page is for testing and demonstrating all the different types of content we'll use.
+
