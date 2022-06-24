@@ -1,8 +1,8 @@
 ---
-layout: post # You generally won't want to change this.
-title: "Test Report" # This is the title that'll appear on the page and on Google
-category: test-report # Categories are reports. Use the file name (minus the .md)
-tags: # Tags are topics. Use the file name (minus the .md)
+layout: post 
+title: "Test Report" 
+category: test-report 
+tags: 
 description: "Test report"
 permalink: /test-report # This is the link it'll show up at.
 pdf: 
