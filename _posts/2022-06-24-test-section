@@ -1,7 +1,7 @@
 ---
 layout: post # You generally won't want to change this.
 title: "Test Section 1" # This is the title that'll appear on the page and on Google
-category: test-report # Categories are reports. Use the file name (minus the .md)
+category: report-test-report # Categories are reports. Use the file name (minus the .md)
 tags: # Tags are topics. Use the file name (minus the .md)
 description: "Test section
 permalink: /test-report/test-section # This is the link it'll show up at.
