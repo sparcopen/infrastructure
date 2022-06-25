@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Executive Summary"
-category: report-test-report
+category: test-report
 description: "This is a test summary."
 tags: 
 permalink: /report-test-report/executive-summary 
