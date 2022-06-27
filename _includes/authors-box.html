@@ -7,13 +7,13 @@
   {% for author in page.authors %}
   {% assign au = site.data.authors[author] %}
   <article class="row">
-    <div class="col col--1of6 col--group">
+    <div class="col col--2of6 col--group">
       <figure class="portrait">
         <img src="{{ site.BASE_PATH }}/media/team/{{ au[0].first_name | downcase }}.png" alt="Portrait of {{ au[0].full_name }}"/>
       </figure>
     </div>
 
-    <div class="col col--5of6 col--group">
+    <div class="col col--4of6 col--group">
       <h3>{{ au[0].full_name }}</h3>
       <p>{{ au[0].short_bio }}</p>
       {% if au[0].contact %}
