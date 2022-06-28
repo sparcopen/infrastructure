@@ -17,8 +17,6 @@ homepage_latest: true # This will add it to the homepage’s "Latest Analysis" s
 
 ---
 
-### Proactive Steps to Reduce the Negative Impacts of Consolidation
-
 There are a variety of actions that institutions may consider to reduce the potential for negative impacts stemming from this acquisition:
 
 1. Documenting any impact the breadth or integration of Elsevier’s products has on institutional choices about what products to use.
