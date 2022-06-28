@@ -31,7 +31,7 @@ The acquisition dramatically increases the concentration of the FIS market, putt
 
 While this may not have been enough to prompt antitrust enforcers to stop the acquisition, it is a clear illustration of the potential harms to competition, particularly as Elsevier and Interfolio's combined market share is likely to grow. Reflecting on this consolidation, LISTedTECH refers to Elsevier’s purchase of Interfolio as an “an acquisition that reinforces the oligopoly.”[^7]
 
-**Herfindahl-Hirschman Index (HHI) for the Nascent FIS Market**[^8]
+**Herfindahl-Hirschman Index (HHI) for the Nascent FIS Market**[^8],[^9]
 
 
 <table>
@@ -244,9 +244,11 @@ Note: LISTedTECH provides specific market share percentages for the largest FIS 
 
 [^7]: Justin Menard, _Elsevier to Acquire Interfolio_, LISTedTECH Blog, Apr. 27, 2022, https://listedtech.com/blog/elsevier-to-acquire-interfolio.
 
-[^8]: Note: While LISTedTECH indicates that Interfolio and Elsevier have a 24% and 18% market share respectively, they specify that the combined entity would have a 43% market share, which is the value used for the post-merger HHI calculation here.
+[^8]: Note: While LISTedTECH indicates that Interfolio and Elsevier have a 24% and 18% market share respectively, they specify that the combined entity would have a 43% market share, which is the value used for the post-merger HHI calculation here. 
 
-[^9]: Justin Menard, _Why Adopt an Advanced Faculty Information System?_, LISTedTECH Blog, Feb. 7, 2021, https://listedtech.com/blog/why-adopt-an-advanced-faculty-information-system.
+[^9]: Note: We have excluded "homegrown" systems from the HHI analysis, because this market share entry does not represent a single player but rather the sum of one-off, bespoke systems developed by an institution for their own use.
+
+[^10]: Justin Menard, _Why Adopt an Advanced Faculty Information System?_, LISTedTECH Blog, Feb. 7, 2021, https://listedtech.com/blog/why-adopt-an-advanced-faculty-information-system.
 Note: LISTedTECH does not specify the geographic scope of this adoption data.
 
-[^10]:  _Id._
+[^11]:  _Id._
