@@ -1,9 +1,9 @@
 sparc:
 - full_name: Scholarly Publishing and Academic Resources Coalition
-  first_name: sparc
-  short_bio: "SPARC is a coalition of academic and research libraries that work to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education."
-  bio:
-  contact: "https://sparcopen.org/contact/"
+  first_name: SPARC
+  short_bio: "SPARC is a non-profit advocacy organization that supports systems for research and education that are open by default and equitable by design."
+  bio: "SPARC is a non-profit advocacy organization that supports systems for research and education that are open by default and equitable by design. We believe everyone should be able to access and contribute to the knowledge that shapes our world."
+  contact: "https://sparcopen.org"
 
 nicole:
 - full_name: Nicole Allen
