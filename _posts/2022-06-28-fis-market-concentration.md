@@ -233,8 +233,7 @@ Based on this trend data and the strength of Interfolio’s offerings, it is rea
 
 [^2]: _Id._
 
-[^3]: Justin Menard, _Elsevier to Acquire Interfolio_, LISTedTECH Blog, Apr. 27, 2022, https://listedtech.com/blog/elsevier-to-acquire-interfolio.
-Note: LISTedTECH provides specific market share percentages for the largest FIS vendors but includes many more in its graph representing the market. Where specific market share percentages are available, we have used those, and for those only represented on the graph, we have approximated the market share data based on the graph. This source was the only market share data we were able to locate for the FIS market and is not limited to U.S. institutions alone.
+[^3]: Justin Menard, _Elsevier to Acquire Interfolio_, LISTedTECH Blog, Apr. 27, 2022, https://listedtech.com/blog/elsevier-to-acquire-interfolio. Note: LISTedTECH provides specific market share percentages for the largest FIS vendors but includes many more in its graph representing the market. Where specific market share percentages are available, we have used those, and for those only represented on the graph, we have approximated the market share data based on the graph. This source was the only market share data we were able to locate for the FIS market and is not limited to U.S. institutions alone.
 
 [^4]: Note: These homegrown systems are generally one-off, bespoke systems or sets of tools created by a single institution.
 
@@ -248,7 +247,6 @@ Note: LISTedTECH provides specific market share percentages for the largest FIS 
 
 [^9]: Note: We have excluded "homegrown" systems from the HHI analysis, because this market share entry does not represent a single player but rather the sum of one-off, bespoke systems developed by an institution for their own use.
 
-[^10]: Justin Menard, _Why Adopt an Advanced Faculty Information System?_, LISTedTECH Blog, Feb. 7, 2021, https://listedtech.com/blog/why-adopt-an-advanced-faculty-information-system.
-Note: LISTedTECH does not specify the geographic scope of this adoption data.
+[^10]: Justin Menard, _Why Adopt an Advanced Faculty Information System?_, LISTedTECH Blog, Feb. 7, 2021, https://listedtech.com/blog/why-adopt-an-advanced-faculty-information-system. Note: LISTedTECH does not specify the geographic scope of this adoption data.
 
 [^11]:  _Id._
