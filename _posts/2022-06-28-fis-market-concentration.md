@@ -220,9 +220,9 @@ While this may not have been enough to prompt antitrust enforcers to stop the ac
 </table>
 
 
-Furthermore, 2021 data on the adoption rates of new FIS platforms indicate that Interfolio and Elsevier are capturing an outsized proportion of this market as it is emerging—combining for 70% of new adoptions over the past 5 years, with the next closest competitor (Watermark) only capturing 13%.[^9] 
+Furthermore, 2021 data on the adoption rates of new FIS platforms indicate that Interfolio and Elsevier are capturing an outsized proportion of this market as it is emerging—combining for 70% of new adoptions over the past 5 years, with the next closest competitor (Watermark) only capturing 13%.[^10] 
 
-It is important to note that the number of institutions using their own “homegrown” systems represent a potential source of market growth for more mature and/or better funded companies, rather than indicating a low barrier to entry in this market. As LISTedTech notes, these homegrown systems range from “modified content management systems to excel spreadsheets”[^10] and appear to be what institutions are moving away from—and not the future of the market.
+It is important to note that the number of institutions using their own “homegrown” systems represent a potential source of market growth for more mature and/or better funded companies, rather than indicating a low barrier to entry in this market. As LISTedTech notes, these homegrown systems range from “modified content management systems to excel spreadsheets”[^11] and appear to be what institutions are moving away from—and not the future of the market.
 
 Based on this trend data and the strength of Interfolio’s offerings, it is reasonable to expect that Elsevier will gain further market share post-acquisition. This would push the market’s HHI well-past the 2,500 point threshold for high market concentration, even before accounting for the ways Elsevier could leverage its other product lines to strengthen its position in the FIS market (for example, through bundling FIS products with journal subscription packages).
 
