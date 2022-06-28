@@ -47,7 +47,7 @@ In response, there are [a variety of actions that academic institutions should c
 
 As the pace of market concentration continues to accelerate across the research enterprise, the academic community will be best served by adopting a proactive approach that considers, in advance, the potential for future consolidation and begins to build the case for regulatory intervention before the next merger or acquisition is announced.
 
-_This analysis was drafted by Nick Shockey and Sarah Lamdan with review by Heather Joseph, Claudio Aspesi, Nicole Allen, and Val Hollister._
+_This analysis was drafted by Nick Shockey and Sarah Lamdan with review by Heather Joseph, Claudio Aspesi, Raym Crow, Nicole Allen, and Val Hollister._
 
 ---
 [^1]: SPARC has released four reports documenting the growing trend of commercial acquisition of infrastructure critical to academic institutions and the resulting market consolidation, which can be found at https://infrastructure.sparcopen.org.
