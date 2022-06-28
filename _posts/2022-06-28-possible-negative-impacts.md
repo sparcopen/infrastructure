@@ -17,9 +17,6 @@ homepage_latest: true # This will add it to the homepage’s "Latest Analysis" s
 
 ---
 
-### Possible Negative Impacts From Elsevier’s Increased Market Power
-
-
 #### _The Acquisition Raises the Risk of Bundling and Increased Switching Costs_
 
 Elsevier has a well-documented history of bundling its academic publishing products. Most of Elsevier’s publishing subscription revenues come through “Big Deal” packages where institutions pay a single large fee for access to most or all of Elsevier’s collections[^18] and which raise competition concerns for smaller publishers. At an increasing number of institutions, these “Big Deal” packages are being expanded to also bundle reading access to journals along with fees for publishing openly, which has been shown to tilt the publishing market further toward the largest players.[^19] Furthermore, Elsevier has already experimented with bundling its content with research analytics tools.[^20] 
