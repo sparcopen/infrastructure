@@ -17,8 +17,6 @@ homepage_latest: true # This will add it to the homepage’s "Latest Analysis" s
 
 ---
 
-### The Interfolio Acquisition Highly Concentrates the Nascent Market for Faculty Information Systems 
-
 Interfolio is the leader in a rapidly emerging category of products known as Faculty Information Systems (FIS), which “[track] all aspects of faculty data enabling the institution to maintain a single source of truth about faculty members. FIS details [faculty] credentials, careers, teaching and research.”[^1] As the market analysis firm Gartner noted in 2021, “Point solutions for individual FIS components, such as faculty hiring, have existed for some time. However, the concept of a comprehensive system, built from a set of integrated modules from a single vendor or partnered vendors, is gaining traction.”[^2]
 
  
