@@ -79,4 +79,4 @@ Though the acquisition of a well-adopted FIS product by another research analyti
 [^26]: For a detailed analysis of the tension between research analytics and academic freedom see: German Research Foundation, _Data Tracking in Research: Aggregation and Use or_
     _Sale of Usage Data by Academic Publishers_, Jun. 18, 2021, https://www.dfg.de/download/pdf/foerderung/programme/lis/datentracking_papier_en.pdf.
 
-[^27]: See note 7 above.
+[^27]: See note 8 above.
