@@ -25,7 +25,7 @@ Specifically, close attention should be paid to the issues summarized below. If 
 
 **1. Any arrangements that bundle or contractually connect Interfolio with other Elsevier products.** These arrangements could take a variety of forms, from bundled packages to discounts on Interfolio based on purchases of another Elsevier product line (or vice versa), to the inclusion of terms about data control in a contract with one part of an institution that supersede terms that have been separately negotiated by another.  
 
-Libraries in particular should watch for arrangements that provide discounts on Elsevier tools used by administrators or other campus units (e.g. Interfolio, PURE) that are dependent on the purchase of journal packages, which could substantially increase the lock-in for libraries in these packages (described further in section 3.1).
+Libraries in particular should watch for arrangements that provide discounts on Elsevier tools used by administrators or other campus units (e.g. Interfolio, Pure) that are dependent on the purchase of journal packages, which could substantially increase the lock-in for libraries in these packages (described further in section 3.1).
 
 **2. Preferential treatment or integration of Elsevier products within Interfolio.** If pursued, Elsevier’s preferential integration of its own products within Interfolio (particularly those related to research assessment) could drive Interfolio institutions to adopt Elseiver products over competitors’ offerings. This would be a significant step toward an Elsevier platform model where institutions could be pushed to adopt an integrated product ecosystem and, as a result, would find it increasingly difficult to select different vendors for different needs (described further in section 2).
 
@@ -37,7 +37,7 @@ Libraries in particular should watch for arrangements that provide discounts on 
 
 **6. Post-acquisition changes to Interfolio’s privacy policy and contract language related to privacy.** Interfolio represents a rich source of proprietary, often-sensitive data that Elsevier could use to power new research analytics metrics or that its parent company, RELX, might use in other products. Following the acquisition, Interfolio data will exist within the same corporate entity as RELX’s suite of “risk” products—products that have been described as “offer[ing] an oceanic computerized view of a person’s existence” that can provide government entities and law enforcement with “the data it needs to locate people with little if any oversight.”[^2] Changes in Interfolio’s contract language and privacy policy could be an indicator of problematic data uses that may become permissible (described further in section 3.3).   
 
-### How the Interfolio Acquisition Advances Elsevier’s Transition From Publisher to Academic Platform Service
+### From Publisher to Platform?
 
 The Interfolio acquisition brings the nascent market for Faculty Information Systems (FIS) to the threshold of meeting regulators’ definition of being highly concentrated, as we describe in section 1. The combined strength of Elsevier and Interfolio is likely to push this market past that threshold, and competition in this space should be closely monitored for further deterioration.
 
