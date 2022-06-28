@@ -17,7 +17,7 @@ homepage_latest: true # This will add it to the homepage’s "Latest Analysis" s
 
 ---
 
-### Elsevier’s Dominance in the FIS Market Threatens Competition in Related Markets
+### Elsevier’s Dominance in the FIS Market Could Threaten Competition in Related Markets
 
 With the acquisition, Elsevier is poised to leverage its leading position in the Faculty Information Systems (FIS) market to extend its market power in the academic publishing and research analytics markets. 
 
