@@ -9,7 +9,7 @@ pdf:
 
 # RARELY USED
 hidden: true # exclude a post/page from pagination
-date: 2022-06-28 06:00:00 # This date will override the date in the file name. Mainly we use it to handle ordering in reports / threads. The date can be the day the report was published, and the time can be used to sort posts.
+date: 2022-06-29 06:00:00 # This date will override the date in the file name. Mainly we use it to handle ordering in reports / threads. The date can be the day the report was published, and the time can be used to sort posts.
 authors: 
 - sparc
 featured: 
