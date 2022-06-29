@@ -9,7 +9,7 @@ pdf:
 
 # RARELY USED
 hidden: true # exclude a post/page from pagination
-date: 2022-06-28 05:00:00 # This date will override the date in the file name. Mainly we use it to handle ordering in reports / threads. The date can be the day the report was published, and the time can be used to sort posts.
+date: 2022-06-29 05:00:00 # This date will override the date in the file name. Mainly we use it to handle ordering in reports / threads. The date can be the day the report was published, and the time can be used to sort posts.
 authors: 
 - sparc
 featured: 
@@ -17,7 +17,7 @@ homepage_latest: true # This will add it to the homepage’s "Latest Analysis" s
 
 ---
 
-With the acquisition, Elsevier is poised to leverage its leading position in the Faculty Information Systems (FIS) market in ways that could extend its market power in the academic publishing and research analytics markets. 
+With the Interfolio acquisition, Elsevier is poised to leverage its leading position in the Faculty Information Systems (FIS) market in ways that could extend its market power in the academic publishing and research analytics markets. 
 
 Elsevier appears to be constructing an increasingly integrated platform with products spanning the research process, many of which are market leaders in their category.[^13] As this integration progresses, Elsevier’s reach will begin at the beginning of the research process with tools that assist with the formation of research questions, funding and methods, data collection and analysis, and research collaboration tools. Elsevier is also the leading publisher of academic journals, which report on the results of this research. Elsevier systems also extend well beyond the publication process, and into the research evaluation process, including providing academic metrics, researcher networks, and analysis related to academic employment. 
 
