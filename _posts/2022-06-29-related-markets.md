@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "Elsevier’s Dominance in the FIS Market Threatens Competition in Related Markets" 
+title: "Elsevier’s Dominance in the FIS Market Could Threaten Competition in Related Markets" 
 category: interfolio-acquisition
 tags: Elsevier # Tags are topics. Use the file name (minus the .md)
 description: "Elsevier is poised to leverage its leading position in the FIS market in ways that could extend its power in the academic publishing and research analytics markets."
