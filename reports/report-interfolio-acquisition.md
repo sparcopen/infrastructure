@@ -10,7 +10,7 @@ summary: "interfolio-acquisition/executive-summary"
 summary_pdf: 
 doi: 
 reversed: true
-date: 2022-06-28
+date: 2022-06-29
 pdf: 
 weight: 5
 ---
