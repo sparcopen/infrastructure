@@ -29,7 +29,7 @@ The acquisition dramatically increases the concentration of the FIS market, putt
 
 While this may not have been enough to prompt antitrust enforcers to stop the acquisition, it is a clear illustration of the potential harms to competition, particularly as Elsevier and Interfolio's combined market share is likely to grow. Reflecting on this consolidation, LISTedTECH refers to Elsevier’s purchase of Interfolio as an “an acquisition that reinforces the oligopoly.”[^7]
 
-<p align="center"><b> **Herfindahl-Hirschman Index (HHI) for the Nascent FIS Market [^8]<sup>,</sup>[^9]<sup>,</sup>[^10]</p></b>
+**Herfindahl-Hirschman Index (HHI) for the Nascent FIS Market[^8]<sup>,</sup>[^9]<sup>,</sup>[^10]**
 
 
 <table>
