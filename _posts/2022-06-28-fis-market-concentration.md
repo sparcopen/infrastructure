@@ -227,7 +227,7 @@ It is important to note that the number of institutions using their own “homeg
 Based on this trend data and the strength of Interfolio’s offerings, it is reasonable to expect that Elsevier will gain further market share post-acquisition. This would push the market’s HHI well-past the 2,500 point threshold for high market concentration, even before accounting for the ways Elsevier could leverage its other product lines to strengthen its position in the FIS market (for example, through bundling FIS products with journal subscription packages).
 
 ---
-[^1]: Gartner, _Top Technology Trends Impacting Higher Education in 2021_, available at https://emtemp.gcom.cloud/ngw/globalassets/en/information-technology/documents/trends/742584-top-technology-trends-impacting-higher-education-in-2021.pdf, last visited June 22, 2022.
+[^1]: Gartner, _Top Technology Trends Impacting Higher Education in 2021_, available at https://www.gartner.com/en/doc/742584-top-technology-trends-impacting-higher-education-in-2021, last visited June 22, 2022.
 
 [^2]: _Id._
 
