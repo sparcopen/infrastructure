@@ -249,4 +249,4 @@ Based on this trend data and the strength of Interfolio’s offerings, it is rea
 
 [^11]: Justin Menard, _Why Adopt an Advanced Faculty Information System?_, LISTedTECH Blog, Feb. 7, 2021, https://listedtech.com/blog/why-adopt-an-advanced-faculty-information-system. Note: LISTedTECH does not specify the geographic scope of this adoption data.
 
-[^12]:  _Id._
+[^12]: Justin Menard, The Not So New Faculty Information Systems, LISTedTECH Blog, Mar. 30, 2022, https://listedtech.com/blog/faculty-information-systems.
