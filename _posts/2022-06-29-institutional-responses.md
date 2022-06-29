@@ -25,7 +25,7 @@ There are a variety of actions that institutions may consider to reduce the pote
 4. Monitoring and documenting shifts in pricing and, where possible, sharing with others to reduce information asymmetries.
 5. Negotiating the removal of confidentiality clauses from contracts with Elsevier to increase transparency and the ability for information sharing.
 6. Advocating for transparency in metrics as well as the data and algorithms upon which they are based.
-7. Closely considering the conflict of interest between Elseiver’s publishing portfolio and its research analytics and Faculty Information Systems products when making purchasing decisions.
+7. Closely considering the conflict of interest between Elsevier’s publishing portfolio and its research analytics and Faculty Information Systems products when making purchasing decisions.
 8. Closely reviewing contract and privacy policy language regarding data use and the protection of data privacy, including monitoring how these policies change over time.[^28] 
 9. Educating campus constituencies about privacy and surveillance concerns regarding RELX.[^28]
 
