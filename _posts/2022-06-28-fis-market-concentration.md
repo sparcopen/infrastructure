@@ -29,7 +29,7 @@ The acquisition dramatically increases the concentration of the FIS market, putt
 
 While this may not have been enough to prompt antitrust enforcers to stop the acquisition, it is a clear illustration of the potential harms to competition, particularly as Elsevier and Interfolio's combined market share is likely to grow. Reflecting on this consolidation, LISTedTECH refers to Elsevier’s purchase of Interfolio as an “an acquisition that reinforces the oligopoly.”[^7]
 
-**Herfindahl-Hirschman Index (HHI) for the Nascent FIS Market**[^8]<sup>,</sup>[^9]
+**Herfindahl-Hirschman Index (HHI) for the Nascent FIS Market**[^8]<sup>,</sup>[^9]<sup>,</sup>[^10]
 
 
 <table>
@@ -220,9 +220,9 @@ While this may not have been enough to prompt antitrust enforcers to stop the ac
 </table>
 
 
-Furthermore, 2021 data on the adoption rates of new FIS platforms indicate that Interfolio and Elsevier are capturing an outsized proportion of this market as it is emerging—combining for 70% of new adoptions over the past 5 years, with the next closest competitor (Watermark) only capturing 13%.[^10] 
+Furthermore, 2021 data on the adoption rates of new FIS platforms indicate that Interfolio and Elsevier are capturing an outsized proportion of this market as it is emerging—combining for 70% of new adoptions over the past 5 years, with the next closest competitor (Watermark) only capturing 13%.[^11] 
 
-It is important to note that the number of institutions using their own “homegrown” systems represent a potential source of market growth for more mature and/or better funded companies, rather than indicating a low barrier to entry in this market. As LISTedTech notes, these homegrown systems range from “modified content management systems to excel spreadsheets”[^11] and appear to be what institutions are moving away from—and not the future of the market.
+It is important to note that the number of institutions using their own “homegrown” systems represent a potential source of market growth for more mature and/or better funded companies, rather than indicating a low barrier to entry in this market. As LISTedTech notes, these homegrown systems range from “modified content management systems to excel spreadsheets”[^12] and appear to be what institutions are moving away from—and not the future of the market.
 
 Based on this trend data and the strength of Interfolio’s offerings, it is reasonable to expect that Elsevier will gain further market share post-acquisition. This would push the market’s HHI well-past the 2,500 point threshold for high market concentration, even before accounting for the ways Elsevier could leverage its other product lines to strengthen its position in the FIS market (for example, through bundling FIS products with journal subscription packages).
 
@@ -241,10 +241,12 @@ Based on this trend data and the strength of Interfolio’s offerings, it is rea
 
 [^7]: Justin Menard, _Elsevier to Acquire Interfolio_, LISTedTECH Blog, Apr. 27, 2022, https://listedtech.com/blog/elsevier-to-acquire-interfolio.
 
-[^8]: Note: While LISTedTECH indicates that Interfolio and Elsevier have a 24% and 18% market share respectively, they specify that the combined entity would have a 43% market share, which is the value used for the post-merger HHI calculation here. 
+[^8]: Note: This HHI analysis is based on data from LISTedTECH. See note 3.
 
-[^9]: Note: We have excluded "homegrown" systems from the HHI analysis, because this market share entry does not represent a single player but rather the sum of one-off, bespoke systems developed by an institution for their own use.
+[^9]: Note: While LISTedTECH indicates that Interfolio and Elsevier have a 24% and 18% market share respectively, they specify that the combined entity would have a 43% market share, which is the value used for the post-merger HHI calculation here. 
 
-[^10]: Justin Menard, _Why Adopt an Advanced Faculty Information System?_, LISTedTECH Blog, Feb. 7, 2021, https://listedtech.com/blog/why-adopt-an-advanced-faculty-information-system. Note: LISTedTECH does not specify the geographic scope of this adoption data.
+[^10]: Note: We have excluded "homegrown" systems from the HHI analysis, because this market share entry does not represent a single player but rather the sum of one-off, bespoke systems developed by an institution for their own use.
 
-[^11]:  _Id._
+[^11]: Justin Menard, _Why Adopt an Advanced Faculty Information System?_, LISTedTECH Blog, Feb. 7, 2021, https://listedtech.com/blog/why-adopt-an-advanced-faculty-information-system. Note: LISTedTECH does not specify the geographic scope of this adoption data.
+
+[^12]:  _Id._
